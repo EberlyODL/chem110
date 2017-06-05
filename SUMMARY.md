@@ -1,6 +1,5 @@
 # Summary
 
-* [End of book](README.md)
 * [Lesson 1](lesson-1.md)
   * [Lesson 1.1](lesson-1/lesson-11.md)
   * [Lesson 1.2](lesson-1/lesson-12.md)
@@ -13,3 +12,5 @@
   * [Lesson 3.1](lesson-3/lesson-31.md)
   * [Lesson 3.2](lesson-3/lesson-32.md)
   * [Practice 3.3](lesson-3/practice-33.md)
+* [End of book](README.md)
+
