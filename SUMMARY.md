@@ -13,4 +13,3 @@
   * [Lesson 3.1](lesson-3/lesson-31.md)
   * [Lesson 3.2](lesson-3/lesson-32.md)
   * [Practice 3.3](lesson-3/practice-33.md)
-
