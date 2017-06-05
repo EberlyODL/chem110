@@ -6,5 +6,11 @@
   * [Lesson 1.2](lesson-1/lesson-12.md)
   * [Practice 1.3](lesson-1/practice-13.md)
 * [Lesson 2](lesson-2.md)
+  * [Lesson 2.1](lesson-2/lesson-21.md)
+  * [Lesson 2.2](lesson-2/lesson-22.md)
+  * [Practice 2.3](lesson-2/practice-23.md)
 * [Lesson 3](lesson-3.md)
+  * [Lesson 3.1](lesson-3/lesson-31.md)
+  * [Lesson 3.2](lesson-3/lesson-32.md)
+  * [Practice 3.3](lesson-3/practice-33.md)
 
