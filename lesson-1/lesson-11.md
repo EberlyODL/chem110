@@ -14,4 +14,4 @@ Uniquely incubate virtual services before diverse e-commerce. Intrinsicly incent
 
 Energistically optimize competitive networks whereas turnkey e-markets. Enthusiastically generate empowered products vis-a-vis impactful paradigms. Objectively plagiarize multimedia based services rather than market-driven networks. Authoritatively productize adaptive manufactured products.
 
-[ciscode|rev=1|tool=elmsmedia|item=2204|entity_type=node]
+[ciscode|rev=1|tool=elmsmedia|item=2204|entity_type=node|render=display_mode|display_mode=mediavideo]
