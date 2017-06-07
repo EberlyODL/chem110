@@ -6,7 +6,7 @@
       * [book: Chapter 01-1](lesson-1/lesson-11/book-chapter-01-1.md)
       * [video: Overview](lesson-1/lesson-11/video-overview.md)
       * [quiz: Test yourself](lesson-1/lesson-11/quiz-test-yourself.md)
-    * Isotope Abundance
+    * [Isotope Abundance](lesson-1/lesson-11/isotope-abundance.md)
       * video: Overview
       * video: Solved problem
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
