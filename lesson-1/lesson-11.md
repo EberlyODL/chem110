@@ -15,6 +15,6 @@ A periodic table can be downloaded [here](https://psu.instructure.com/courses/18
 
 <iframe src="https://h5p.org/h5p/embed/63822" width="1090" height="314" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe src="https://h5p.org/h5p/embed/73252" width="1090" height="674" allowfullscreen="allowfullscreen"></iframe>
+
 
 Before moving forward, Complete the [Atomic Structure Knowledge Check](https://psu.instructure.com/courses/1832130/quizzes/3204764 "Microteach quiz")
