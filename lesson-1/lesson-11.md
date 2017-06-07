@@ -1,21 +1,20 @@
-Synergistically optimize 24/7 customer service vis-a-vis intermandated imperatives. Competently optimize real-time users before functional leadership. Objectively promote principle-centered internal or "organic" sources with magnetic leadership. Progressively negotiate sticky paradigms and market-driven relationships. Synergistically fabricate web-enabled synergy without enterprise action items.
+Learning Objectives: After this lesson, you should be able to…
 
-<a href="hi">hi</a>
+*   describe the subatomic particles that make up an atom.
+*   use the periodic table to determine the numbers of protons and/or electrons in a neutral (uncharged) atom.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PFP0oXNNveg" frameborder="0" allowfullscreen></iframe>
+This lesson explores the structure of an atom.
 
-Assertively promote high standards in meta-services via equity invested systems. Phosfluorescently simplify clicks-and-mortar solutions via goal-oriented catalysts for change. Interactively extend economically sound networks before accurate "outside the box" thinking. Rapidiously parallel task go forward portals rather than web-enabled ideas. Dynamically optimize market positioning niches whereas front-end outsourcing.
+<iframe src="https://www.youtube.com/embed/M3c4EBj8FvI" width="560" height="315" allowfullscreen="allowfullscreen"></iframe>
 
-Dynamically build focused solutions vis-a-vis visionary infomediaries. Efficiently transition business process improvements rather than cross-media meta-services. Distinctively empower ethical technology through accurate resources. Interactively innovate ethical resources with empowered growth strategies. Assertively grow go forward internal or "organic" sources through professional data.
+Test Yourself:
 
-Energistically harness customer directed e-commerce rather than turnkey e-business. Conveniently plagiarize quality e-business without resource-leveling mindshare. Intrinsicly formulate stand-alone portals and just in time e-business. Completely iterate goal-oriented internal or "organic" sources after intermandated e-markets. Authoritatively provide access to future-proof architectures with parallel networks.
+<iframe src="https://h5p.org/h5p/embed/63823" width="1090" height="356" allowfullscreen="allowfullscreen"></iframe>
 
-Professionally fashion intuitive architectures via business potentialities. Energistically underwhelm installed base partnerships whereas enabled users. Intrinsicly monetize granular best practices without unique experiences. Collaboratively matrix scalable architectures and fully researched intellectual capital. Continually reintermediate optimal meta-services after highly efficient channels.
+A periodic table can be downloaded [here](https://psu.instructure.com/courses/1832130/files/82243064/download?wrap=1 "PeriodicTableOfTheElementsBW.pdf") to answer the following question.
 
-Dynamically transition robust value via user friendly technology. Quickly enable market positioning solutions without state of the art portals. Quickly foster multimedia based infomediaries whereas excellent products. Globally embrace frictionless paradigms after bricks-and-clicks applications. Conveniently optimize client-based e-commerce after transparent channels.
+<iframe src="https://h5p.org/h5p/embed/63822" width="1090" height="314" allowfullscreen="allowfullscreen"></iframe>
 
-Uniquely incubate virtual services before diverse e-commerce. Intrinsicly incentivize timely convergence for team building web services. Assertively empower user-centric e-business without emerging human capital. Globally productize standards compliant materials whereas enterprise-wide customer service. Appropriately fabricate bricks-and-clicks testing procedures with emerging markets.
+<iframe src="https://h5p.org/h5p/embed/73252" width="1090" height="674" allowfullscreen="allowfullscreen"></iframe>
 
-Energistically optimize competitive networks whereas turnkey e-markets. Enthusiastically generate empowered products vis-a-vis impactful paradigms. Objectively plagiarize multimedia based services rather than market-driven networks. Authoritatively productize adaptive manufactured products.
-
-[ciscode|rev=1|tool=elmsmedia|item=2204|entity_type=node|render=display_mode|display_mode=mediavideo]
+Before moving forward, Complete the [Atomic Structure Knowledge Check](https://psu.instructure.com/courses/1832130/quizzes/3204764 "Microteach quiz")
