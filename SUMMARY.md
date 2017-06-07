@@ -1,7 +1,17 @@
 # Summary
 
-* [Lesson 1](lesson-1.md)
+* [Week 1](lesson-1.md)
   * [Atomic Structure](lesson-1/lesson-11.md)
+    * Structure of an atom
+      * [video: Overview](lesson-1/lesson-11/video-overview.md)
+      * [quiz: Test yourself](lesson-1/lesson-11/quiz-test-yourself.md)
+    * Isotope Abundance
+      * video: Overview
+      * video: Solved problem
+  * [Molecular Geometry](lesson-1/molecular-geometry.md)
+    * video: Intro
+    * video: VSEPR
+    * [quiz: Test yourself](lesson-1/molecular-geometry/quiz-check-yourself.md)
   * [Lesson 1.2](lesson-1/lesson-12.md)
   * [Practice 1.3](lesson-1/practice-13.md)
 * [Lesson 2](lesson-2.md)
