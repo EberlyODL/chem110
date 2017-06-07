@@ -1,5 +1,9 @@
 Synergistically optimize 24/7 customer service vis-a-vis intermandated imperatives. Competently optimize real-time users before functional leadership. Objectively promote principle-centered internal or "organic" sources with magnetic leadership. Progressively negotiate sticky paradigms and market-driven relationships. Synergistically fabricate web-enabled synergy without enterprise action items.
 
+<a href="hi">hi</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PFP0oXNNveg" frameborder="0" allowfullscreen></iframe>
+
 Assertively promote high standards in meta-services via equity invested systems. Phosfluorescently simplify clicks-and-mortar solutions via goal-oriented catalysts for change. Interactively extend economically sound networks before accurate "outside the box" thinking. Rapidiously parallel task go forward portals rather than web-enabled ideas. Dynamically optimize market positioning niches whereas front-end outsourcing.
 
 Dynamically build focused solutions vis-a-vis visionary infomediaries. Efficiently transition business process improvements rather than cross-media meta-services. Distinctively empower ethical technology through accurate resources. Interactively innovate ethical resources with empowered growth strategies. Assertively grow go forward internal or "organic" sources through professional data.
