@@ -24,14 +24,13 @@
   * [Lesson 3.1](lesson-3/lesson-31.md)
   * [Lesson 3.2](lesson-3/lesson-32.md)
   * [Practice 3.3](lesson-3/practice-33.md)
-* Week 5
 * Week 4
 * Week 5
+  * test
 * Week 6
 * Week 7
 * Week 8
-* Week 8
-* Week 9
+* [Week 9](week-9.md)
 * Week 10
 * Week 11
 * Week 12
