@@ -10,16 +10,22 @@
     * [Isotope Abundance](lesson-1/lesson-11/isotope-abundance.md)
       * video: Overview
       * video: Solved problem
-  * [Molecular Geometry](lesson-1/molecular-geometry.md)
-    * video: Intro
-    * video: VSEPR
-    * [quiz: Test yourself](lesson-1/molecular-geometry/quiz-check-yourself.md)
+  * The Mole
+    * Video 1
+    * Test Yourself
   * [Lesson 1.2](lesson-1/lesson-12.md)
   * [Practice 1.3](lesson-1/practice-13.md)
+  * Weekly Recap
 * [Week 2](lesson-2.md)
   * [Lesson 2.1](lesson-2/lesson-21.md)
   * [Lesson 2.2](lesson-2/lesson-22.md)
   * [Practice 2.3](lesson-2/practice-23.md)
+  * Light and Spectroscopy
+  * Line Spectra
+  * Bohr Model
+  * Orbitals
+  * Quantum Numbers
+  * Weekly Recap
 * [Week 3](lesson-3.md)
   * [Lesson 3.1](lesson-3/lesson-31.md)
   * [Lesson 3.2](lesson-3/lesson-32.md)
@@ -28,7 +34,18 @@
 * Week 5
   * test
 * Week 6
-* Week 7
+* [Week 7](week-7.md)
+  * [Molecular Geometry](lesson-1/molecular-geometry.md)
+    * video: Intro
+    * video: VSEPR
+    * [quiz: Test yourself](lesson-1/molecular-geometry/quiz-check-yourself.md)
+  * [Hybridization](lesson-1/hybridization.md)
+    * sp3 hybridization
+    * sp2 hybridization
+    * sp hybridization
+    * Mulitiple bonds
+    * Test Yourself
+  * Summary
 * Week 8
 * [Week 9](week-9.md)
 * Week 10
