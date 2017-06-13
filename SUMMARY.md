@@ -18,8 +18,6 @@
   * Weekly Recap
 * [Week 2](lesson-2.md)
   * [Lesson 2.1](lesson-2/lesson-21.md)
-  * [Lesson 2.2](lesson-2/lesson-22.md)
-  * [Practice 2.3](lesson-2/practice-23.md)
   * Light and Spectroscopy
   * Line Spectra
   * Bohr Model
