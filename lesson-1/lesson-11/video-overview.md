@@ -1,3 +1,5 @@
+-- Read Book --
+
 Learning Objectives: After this lesson, you should be able to…
 
 *   describe the subatomic particles that make up an atom.
