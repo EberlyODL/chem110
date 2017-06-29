@@ -3,18 +3,14 @@
 * [Introduction](README.md)
 * [Week 1](lesson-1.md)
   * [Atomic Structure](lesson-1/lesson-11.md)
-    * [Structure of an atom](lesson-1/lesson-11/structure-of-an-atom.md)
-      * [book: Chapter 01-1](lesson-1/lesson-11/book-chapter-01-1.md)
-      * [video: Overview](lesson-1/lesson-11/video-overview.md)
+    * [video: Structure of an atom](lesson-1/lesson-11/structure-of-an-atom.md)
       * [quiz: Test yourself](lesson-1/lesson-11/quiz-test-yourself.md)
     * [Isotope Abundance](lesson-1/lesson-11/isotope-abundance.md)
-      * video: Overview
+      * [video: Overview](lesson-1/lesson-11/isotope-abundance/video-overview.md)
       * video: Solved problem
   * The Mole
     * [Video 1](lesson-1/video-1.md)
     * [Test Yourself](lesson-1/test-yourself.md)
-  * [Lesson 1.2](lesson-1/lesson-12.md)
-  * [Practice 1.3](lesson-1/practice-13.md)
   * [Weekly Recap](lesson-1/weekly-recap.md)
 * [Week 2](lesson-2.md)
   * [Lesson 2.1](lesson-2/lesson-21.md)
