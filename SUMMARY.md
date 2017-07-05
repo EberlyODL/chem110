@@ -13,7 +13,6 @@
     * [Test Yourself](lesson-1/test-yourself.md)
   * [Weekly Recap](lesson-1/weekly-recap.md)
 * [Week 2](lesson-2.md)
-  * [Lesson 2.1](lesson-2/lesson-21.md)
   * Light and Spectroscopy
   * Line Spectra
   * Bohr Model
@@ -21,7 +20,6 @@
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
   * [Weekly Recap](lesson-2/weekly-recap.md)
 * [Week 3](lesson-3.md)
-  * [Lesson 3.2](lesson-3/lesson-32.md)
   * Electron Configuration
 * Week 4
 * Week 5
