@@ -23,7 +23,7 @@
   * Electron Configuration
 * Week 4
 * Week 5
-  * test
+  * [test](test.md)
 * Week 6
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
