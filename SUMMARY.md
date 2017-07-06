@@ -8,7 +8,7 @@
     * [Isotope Abundance](lesson-1/lesson-11/isotope-abundance.md)
       * [video: Overview](lesson-1/lesson-11/isotope-abundance/video-overview.md)
       * video: Solved problem
-  * The Mole
+  * [The Mole](lesson-1/the-mole.md)
     * [Video 1](lesson-1/video-1.md)
     * [Test Yourself](lesson-1/test-yourself.md)
   * [Weekly Recap](lesson-1/weekly-recap.md)
