@@ -4,13 +4,21 @@
 * [Week 1](lesson-1.md)
   * [Atomic Structure](lesson-1/lesson-11.md)
     * [video: Structure of an atom](lesson-1/lesson-11/structure-of-an-atom.md)
-    * [quiz: Test yourself](lesson-1/lesson-11/quiz-test-yourself.md)
+    * [quiz: Try it!](lesson-1/lesson-11/quiz-test-yourself.md)
   * [Isotope Abundance](lesson-1/lesson-11/isotope-abundance.md)
     * [video: Overview](lesson-1/lesson-11/isotope-abundance/video-overview.md)
     * [video: Solved problem](lesson-1/lesson-11/isotope-abundance/video-solved-problem.md)
+    * [Try it!](lesson-1/lesson-11/isotope-abundance/try-it.md)
   * [The Mole](lesson-1/the-mole.md)
     * [video: The mole](lesson-1/video-1.md)
-    * [Test Yourself](lesson-1/test-yourself.md)
+    * [Try it!](lesson-1/test-yourself.md)
+  * [Intro to Energy](lesson-1/intro-to-energy.md)
+    * [video: Energy](lesson-1/intro-to-energy/video-energy.md)
+    * Try it!
+  * [Light energy](lesson-1/light-energy.md)
+    * [video: Light energy](lesson-1/light-energy/video-light-energy.md)
+    * video: Solved problem
+    * Try it!
   * [Weekly Recap](lesson-1/weekly-recap.md)
 * [Week 2](lesson-2.md)
   * Light and Spectroscopy
