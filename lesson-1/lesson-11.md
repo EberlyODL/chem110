@@ -5,4 +5,4 @@ Learning Objectives: After this lesson, you should be able to…
 
 This lesson explores the structure of an atom.
 
-[ciscode|rev=1|tool=elmsmedia|item=2233|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail]
+[ciscode|rev=1|tool=elmsmedia|item=2233|entity_type=node|render=display_mode|display_mode=mediavideo]
