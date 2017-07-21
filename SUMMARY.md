@@ -14,7 +14,7 @@
     * [Try it!](lesson-1/test-yourself.md)
   * [Intro to Energy](lesson-1/intro-to-energy.md)
     * [video: Energy](lesson-1/intro-to-energy/video-energy.md)
-    * Try it!
+    * [Try it!](lesson-1/intro-to-energy/try-it.md)
   * [Light energy](lesson-1/light-energy.md)
     * [video: Light energy](lesson-1/light-energy/video-light-energy.md)
     * video: Solved problem
