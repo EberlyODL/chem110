@@ -1,7 +1,7 @@
 Week
 
 * Lesson
-  * Intro Video
+  * Intro 
 * * Sub Lesson
     * Reading
     * Video
