@@ -6,7 +6,7 @@ Electrostatic potential energy is the potential (stored) energy associated with 
 According to Coulomb's law, Eel depends on the magnitude of charge and the distance separating the particles. 
 > Eel = Q1Q2/d
 
-In this mathematical representation, you can easily see how changes in charge and distance will affect Eel.
+In this mathematical representation, you can easily see how changes in charge and distance will affect Eel. (Don't forget that as a number gets more negative, it is actually getting smaller!)
 
 [VIDEO: ELECTROSTATIC POTENTIAL]
 
