@@ -30,6 +30,11 @@
   * [Weekly Recap](lesson-2/weekly-recap.md)
 * [Week 3](lesson-3.md)
   * Electron Configuration
+    * Try it!
+  * Periodic Trends
+    * video: Atomic Radius
+  * Weekly Recap
+  * Exam 1 Study Materials
 * Week 4
 * Week 5
   * [test](test.md)
