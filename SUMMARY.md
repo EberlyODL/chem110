@@ -6,7 +6,7 @@
     * [video: Structure of an atom](lesson-1/lesson-11/structure-of-an-atom.md)
     * [quiz: Try it!](lesson-1/lesson-11/quiz-test-yourself.md)
   * [Isotope Abundance](lesson-1/lesson-11/isotope-abundance.md)
-    * [video: Overview](lesson-1/lesson-11/isotope-abundance/video-overview.md)
+    * [video: Isotopes and Atomic Mass](lesson-1/lesson-11/isotope-abundance/video-overview.md)
     * [video: Solved problem](lesson-1/lesson-11/isotope-abundance/video-solved-problem.md)
     * [Try it!](lesson-1/lesson-11/isotope-abundance/try-it.md)
   * [The Mole](lesson-1/the-mole.md)
@@ -17,12 +17,13 @@
     * [video: Electrostatic Potential Energy](lesson-1/intro-to-energy/video-electrostatic-potential-energy.md)
     * [Try it!](lesson-1/intro-to-energy/try-it.md)
   * [Light energy](lesson-1/light-energy.md)
-    * [video: Light energy](lesson-1/light-energy/video-light-energy.md)
+    * [video: Characteristics of Light](lesson-1/light-energy/video-light-energy.md)
+    * [video: Energy Calculations](lesson-1/light-energy/video-energy-calculations.md)
     * video: Solved problem
     * Try it!
   * [Weekly Recap](lesson-1/weekly-recap.md)
 * [Week 2](lesson-2.md)
-  * Light and Spectroscopy
+  * [Light and Spectroscopy](lesson-2/light-and-spectroscopy.md)
   * Line Spectra
   * Bohr Model
   * Orbitals

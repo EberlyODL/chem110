@@ -1,5 +1,10 @@
 Learning Objectives: After this lesson, you should be able to…
 
-* calculate the energy of photons of a given wavelength (or frequency) within the electromagnetic spectrum and use this information in the context of chemical transformations 
+* Define wavelength, frequency, and photon energy, and explore the relationship between wavelength and frequency, between energy and wavelength, and between energy and frequency.
+* Recognize the ranges of wavelength of different regions in the electromagnetic spectrum and rank the relative order of wavelength (frequency, photon energy) of different regions in electromagnetic spectrum.
+* Rank the relative order of colors and range of wavelength in the visible spectrum.
 
-[VIDEO: LIGHT ENERGY]
+
+
+
+[VIDEO: CHARACTERISTICS OF LIGHT]
