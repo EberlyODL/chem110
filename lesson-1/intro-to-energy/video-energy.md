@@ -6,7 +6,7 @@ Learning Objectives: After this lesson, you should be able to…
 * Assign positive and negative signs to internal energy, heat, and work. 
 
 
-Now that we know the basics, let's go a little deeper. We're starting on a quest to find exactly where those electrons are within an atom. Sure, they are in the electron cloud, but _where_? Electrons are responsible for all of the chemistry of the elements.  After all, electrons can be gained and lost easily (relative to the proton and neutron) and are involved in forming chemical bonds!
+Now that we know the basics, let's go a little deeper. We're starting on a quest to find exactly where those electrons are within an atom. Sure, they are in the electron cloud, but _where_? Electrons are responsible for all of the chemistry of the elements.  After all, electrons can be easily gained or lost (relative to the proton and neutron) and are involved in forming chemical bonds!
 
 Before we get too far in our journey, we need to understand energy. In this lesson, we will look at energy in the form of heat and work and how energy is transferred between a system and surroundings.
 

@@ -14,6 +14,7 @@
     * [Try it!](lesson-1/test-yourself.md)
   * [What is Energy?](lesson-1/intro-to-energy.md)
     * [video: Intro to Energy](lesson-1/intro-to-energy/video-energy.md)
+    * [video: State Functions](lesson-1/intro-to-energy/video-state-functions.md)
     * [video: Electrostatic Potential Energy](lesson-1/intro-to-energy/video-electrostatic-potential-energy.md)
     * [Try it!](lesson-1/intro-to-energy/try-it.md)
   * [Weekly Recap](lesson-1/weekly-recap.md)
