@@ -2,13 +2,15 @@
 
 * [Introduction](README.md)
 * [Week 1](lesson-1.md)
-  * [Atomic Structure](lesson-1/lesson-11.md)
+  * [Atoms and the Elements](lesson-1/lesson-11.md)
     * [video: Structure of an atom](lesson-1/lesson-11/structure-of-an-atom.md)
     * [quiz: Try it!](lesson-1/lesson-11/quiz-test-yourself.md)
-  * [Isotope Abundance](lesson-1/lesson-11/isotope-abundance.md)
     * [video: Isotopes and Atomic Mass](lesson-1/lesson-11/isotope-abundance/video-overview.md)
     * [video: Solved problem](lesson-1/lesson-11/isotope-abundance/video-solved-problem.md)
     * [Try it!](lesson-1/lesson-11/isotope-abundance/try-it.md)
+  * [Ions and Molecules](lesson-1/lesson-11/ions-and-molecules.md)
+    * [video: Atoms versus Molecules](lesson-1/lesson-11/ions-and-molecules/molecules.md)
+    * video: Ions
   * [The Mole](lesson-1/the-mole.md)
     * [video: The mole](lesson-1/video-1.md)
     * [Try it!](lesson-1/test-yourself.md)
@@ -21,8 +23,8 @@
 * [Week 2](lesson-2.md)
   * [Light energy](lesson-1/light-energy.md)
     * [video: Characteristics of Light](lesson-1/light-energy/video-light-energy.md)
+    * [video: Light as a Particle](lesson-1/light-energy/video-light-as-a-particle.md)
     * [video: Energy Calculations](lesson-1/light-energy/video-energy-calculations.md)
-    * video: Solved problem
     * Try it!
   * Line Spectra
   * Bohr Model
