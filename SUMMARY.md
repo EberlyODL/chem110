@@ -4,8 +4,8 @@
 * Skills Check
   * [Algebra](algebra.md)
   * [Metric Conversions](metric-conversions.md)
-  * Significant Figures and Scientific Notation
-  * Density and Dimensional Analysis
+  * [Significant Figures and Scientific Notation](significant-figures-and-scientific-notation.md)
+  * [Density and Dimensional Analysis](density-and-dimensional-analysis.md)
   * Chemical Nomenclature
 * [Week 1](lesson-1.md)
   * [Atoms and the Elements](lesson-1/lesson-11.md)
