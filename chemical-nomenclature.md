@@ -1,6 +1,5 @@
 # Chemical Nomenclature
-
-<p>The rules for naming inorganic compounds and ions are summarized below:</p>
+The rules for naming inorganic compounds and ions are summarized below:
 <p><strong><span style="font-size: 14pt; color: #33cccc;">1. Positive ions (cations)</span></strong></p>
 <p>a) Cations formed from metal atoms have the same name as the metal.</p>
 <table style="height: 105px; margin-left: auto; margin-right: auto;" border="2" width="500">
