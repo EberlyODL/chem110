@@ -1,3 +1,5 @@
+# Algebra
+
 <p>As we get started in CHEM 110, it's important to quickly review algebra. Many of the problems you'll encounter in CHEM 110 will require you to manipulate and solve algebraic expressions. Instead of providing a comprehensive review of all topics in algebra, this page will only cover a few targeted topics where students often have difficulty.</p>
 <p><span style="font-size: 14pt; color: #33cccc;"><strong>Order of Operations</strong></span></p>
 <p>When calculating an algebraic expression, it is important to carry out operations in the order listed below:</p>

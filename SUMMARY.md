@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Skills Check
   * [Algebra](algebra.md)
-  * Metric Conversions
+  * [Metric Conversions](metric-conversions.md)
   * Significant Figures and Scientific Notation
   * Density and Dimensional Analysis
   * Chemical Nomenclature
