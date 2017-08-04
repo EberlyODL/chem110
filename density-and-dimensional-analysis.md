@@ -1,3 +1,5 @@
+# Density and Dimensional Analysis
+
 <p>Throughout the course, we will use an approach called dimensional analysis as an aid in problem solving. In dimensional analysis, units are multiplied together, divided into each other, or &ldquo;canceled.&rdquo; The key to using dimensional analysis is the correct use of conversion factors to change from the units of given quantity into those of the desired quantity.</p>
 <p>The conversion factors noted in the Skill Check: Metric Unit convert from one unit of a given measure to another unit of the same measure, such as from length (nm) to length (m). We can also have conversion factors that convert from one measure to a different one. For example, the density of a substance can be treated as a conversion factor between mass and volume.</p>
 <p><span style="font-size: 14pt; color: #33cccc;"><strong>Conversions Involving Density<br /></strong></span></p>
