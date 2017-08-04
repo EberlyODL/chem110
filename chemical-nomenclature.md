@@ -239,9 +239,4 @@
 </tbody>
 </table>
 <p><span style="font-size: 14pt; color: #33cccc;"><strong>Video Examples</strong></span></p>
-<p><strong>Video Example: Writing Chemical Formulas<br /></strong></p>
-<p><iframe src="https://www.youtube.com/embed/nmXBF30Q6hU" width="560" height="315" allowfullscreen="allowfullscreen"></iframe></p>
-<p> <strong>Video Example: Naming Ionic Compounds<br /></strong></p>
-<p><iframe src="https://www.youtube.com/embed/HqqFyXz8KoM" width="560" height="315" allowfullscreen="allowfullscreen"></iframe></p>
-<p> <strong>Video Example: Naming Molecular Compounds<br /></strong></p>
-<p><iframe src="https://www.youtube.com/embed/ucsKjU5RCYQ" width="560" height="315" allowfullscreen="allowfullscreen"></iframe></p>
+
