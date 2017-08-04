@@ -108,7 +108,7 @@
 &lt;/math&gt;" /></p>
 <p><span style="font-size: 14pt; color: #33cccc;"><strong>Tracking Units in Problem Solving<br /></strong></span></p>
 <p>The process of problem solving in chemistry often requires more than one conversion factors. When setting up these problems, it is important to make sure that each conversion factor is arranged to cancel the preceding unit until the needed unit is obtained, as seen in the following example problem.</p>
-<p><strong>Example</strong>: If a microwave oven emits 850 Joule (J) of energy every second, how long (in minutes) will it take for the microwave to emit 58.5 kJ of energy?</p>
+<p><strong>Example</strong>: If a microwave oven emits 850 Watts (W), how long (in minutes) will it take for the microwave to emit 58.5 kJ of energy? (1 W = 1 Joule (J) of energy every second)</p>
 <p>Solution: Let's start by analyzing the problem:</p>
 <p>1. We are given an emission rate of 850 J/sec (the given or known quantity), a total of 58.5 kJ energy emitted, and asked to calculate the minutes needed (the unknown).</p>
 <p>2. We have the following conversion factors either given or commonly known:</p>
