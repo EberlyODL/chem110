@@ -3,7 +3,7 @@
 <p><span style="font-size: 14pt; color: #33cccc;"><strong>SI Base Units<br /></strong></span></p>
 <p>The metric system is founded on a handful of base units (as shown in Table 1) from which all other units are derived. You'll see these units daily in CHEM 110, so it's important to be comfortable recognizing their symbols and understanding what they measure.</p>
 <p style="text-align: center;"><strong>Table 1. SI base units.</strong></p>
-![](/assets/si base units_black.png)
+[ciscode|rev=1|tool=elmsmedia|item=2917|entity_type=node|render=display_mode|display_mode=image__boxed__right]
 <p>There are two other SI base units that we won't use in this course that are not included in Table 1. All other metric units are derived from these base units. For example, a Joule, the SI unit of energy, is equal to one kilogram times a meter squared divided by a second squared (kg*m<sup>2</sup>/s<sup>2</sup>). Similarly, a Newton, the SI unit of force, is equal to one kilogram times a meter divided by a second squared (kg*m/s<sup>2</sup>).</p>
 <p><span style="font-size: 14pt; color: #33cccc;"><strong>Important Prefixes<br /></strong></span></p>
 <p>Scientific measurements are made across many orders of magnitude and range from infinitesimally small to extraordinarily large. To make these small and large numbers more approachable, scientists use a number of prefixes to modify SI units, making the units themselves larger or smaller. The prefixes that you'll need to know for CHEM 110 are listed below in Table 2.</p>
