@@ -1,6 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
+* Skills Check
+  * [Algebra](algebra.md)
+  * Metric Conversions
+  * Significant Figures and Scientific Notation
+  * Density and Dimensional Analysis
+  * Chemical Nomenclature
 * [Week 1](lesson-1.md)
   * [Atoms and the Elements](lesson-1/lesson-11.md)
     * [video: Structure of an atom](lesson-1/lesson-11/structure-of-an-atom.md)
