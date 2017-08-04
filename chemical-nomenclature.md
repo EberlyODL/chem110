@@ -1,5 +1,4 @@
 # Chemical Nomenclature<p>The rules for naming ions, ionic compounds, and inorganic molecular compounds are summarized below:</p>
-<p>[ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image__left]</p>
 <p>[ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image]</p>
 <p></p>
 <p><strong><span style="font-size: 14pt; color: #33cccc;">1. Positive ions (cations)</span></strong></p>
