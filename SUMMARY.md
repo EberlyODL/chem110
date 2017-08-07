@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Skills Check
+* [Skills Check](skills-check.md)
   * [Algebra](algebra.md)
   * [Metric Conversions](metric-conversions.md)
   * [Significant Figures and Scientific Notation](significant-figures-and-scientific-notation.md)
