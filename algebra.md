@@ -44,6 +44,7 @@ If you include parentheses around the product on bottom of the fraction, and typ
 
 Similarly, typing "10/5/4" will also give you the correct answer.
 
+
 **Multiplying and Dividing Exponents**
 
 When multiplying two exponents together, you can add the exponents together provided both numbers have the same base. Generically, this looks like this (where "n" is any number or variable):
