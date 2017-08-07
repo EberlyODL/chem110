@@ -1,119 +1,39 @@
 # Density and Dimensional Analysis
 
-<p>Throughout the course, we will use an approach called dimensional analysis as an aid in problem solving. In dimensional analysis, units are multiplied together, divided into each other, or &ldquo;canceled.&rdquo; The key to using dimensional analysis is the correct use of conversion factors to change from the units of given quantity into those of the desired quantity.</p>
-<p>The conversion factors noted in the Skill Check: Metric Unit convert from one unit of a given measure to another unit of the same measure, such as from length (nm) to length (m). We can also have conversion factors that convert from one measure to a different one. For example, the density of a substance can be treated as a conversion factor between mass and volume.</p>
-<p><span style="font-size: 14pt; color: #33cccc;"><strong>Conversions Involving Density<br /></strong></span></p>
-<p>Density is a useful intensive property of a substance, and it is defined as the amount of mass in a unit volume of the substance:</p>
-<p><img class="equation_image" style="display: block; margin-left: auto; margin-right: auto;" title="density=\frac{mass}{volume}" src="https://psu.instructure.com/equation_images/density%253D%255Cfrac%257Bmass%257D%257Bvolume%257D" alt="LaTeX: density=\frac{mass}{volume}" width="154" height="31" data-equation-content="density=\frac{mass}{volume}" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;
-  &lt;mi&gt;d&lt;/mi&gt;
-  &lt;mi&gt;e&lt;/mi&gt;
-  &lt;mi&gt;n&lt;/mi&gt;
-  &lt;mi&gt;s&lt;/mi&gt;
-  &lt;mi&gt;i&lt;/mi&gt;
-  &lt;mi&gt;t&lt;/mi&gt;
-  &lt;mi&gt;y&lt;/mi&gt;
-  &lt;mo&gt;=&lt;/mo&gt;
-  &lt;mfrac&gt;
-    &lt;mrow&gt;
-      &lt;mi&gt;m&lt;/mi&gt;
-      &lt;mi&gt;a&lt;/mi&gt;
-      &lt;mi&gt;s&lt;/mi&gt;
-      &lt;mi&gt;s&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mrow&gt;
-      &lt;mi&gt;v&lt;/mi&gt;
-      &lt;mi&gt;o&lt;/mi&gt;
-      &lt;mi&gt;l&lt;/mi&gt;
-      &lt;mi&gt;u&lt;/mi&gt;
-      &lt;mi&gt;m&lt;/mi&gt;
-      &lt;mi&gt;e&lt;/mi&gt;
-    &lt;/mrow&gt;
-  &lt;/mfrac&gt;
-&lt;/math&gt;" /></p>
-<p>Mass is usually described in killograms (kg) or grams (g), and volume is usually in liters (L) or milliliters (mL).&nbsp; So density has a unit of either killograms per liter (kg/L) or grams per milliter (g/mL or g/cm<sup>3</sup>). Since the volume of a liquid usually changes with temperature, chemists generally specify the density at a particular temperature. For example, the density of water is 1.00 g/mL at 10 &deg;C , while it is only 0.958 g/mL at 100 &deg;C .</p>
-<p>Suppose we want to know the mass, in grams, of 25.0 mL of olive oil, which has a density of 0.911 g/mL at 25 &deg;C. The density gives us the conversion factor:</p>
-<p><img class="equation_image" style="display: block; margin-left: auto; margin-right: auto;" title="\frac{0.911\:g}{1\:mL}\:\:\:and\:\:\:\frac{1\:mL}{0.911\:g}" src="https://psu.instructure.com/equation_images/%255Cfrac%257B0.911%255C%253Ag%257D%257B1%255C%253AmL%257D%255C%253A%255C%253A%255C%253Aand%255C%253A%255C%253A%255C%253A%255Cfrac%257B1%255C%253AmL%257D%257B0.911%255C%253Ag%257D" alt="LaTeX: \frac{0.911\:g}{1\:mL}\:\:\:and\:\:\:\frac{1\:mL}{0.911\:g}" width="165" height="37" data-equation-content="\frac{0.911\:g}{1\:mL}\:\:\:and\:\:\:\frac{1\:mL}{0.911\:g}" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;
-  &lt;mfrac&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;0.911&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;g&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;1&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;m&lt;/mi&gt;
-      &lt;mi&gt;L&lt;/mi&gt;
-    &lt;/mrow&gt;
-  &lt;/mfrac&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mi&gt;a&lt;/mi&gt;
-  &lt;mi&gt;n&lt;/mi&gt;
-  &lt;mi&gt;d&lt;/mi&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mfrac&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;1&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;m&lt;/mi&gt;
-      &lt;mi&gt;L&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;0.911&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;g&lt;/mi&gt;
-    &lt;/mrow&gt;
-  &lt;/mfrac&gt;
-&lt;/math&gt;" /></p>
-<p>Because we want a mass in grams, we use the first conversion factor, which has mass in grams in the numerator. We can now solve the problem as:</p>
-<p><img class="equation_image" style="display: block; margin-left: auto; margin-right: auto;" title="mass=\left(25.0\:mL\right)\left(\frac{0.911\:g}{1\:mL}\right)=22.8\:g" src="https://psu.instructure.com/equation_images/mass%253D%255Cleft%252825.0%255C%253AmL%255Cright%2529%255Cleft%2528%255Cfrac%257B0.911%255C%253Ag%257D%257B1%255C%253AmL%257D%255Cright%2529%253D22.8%255C%253Ag" alt="LaTeX: mass=\left(25.0\:mL\right)\left(\frac{0.911\:g}{1\:mL}\right)=22.8\:g" width="308" height="41" data-equation-content="mass=\left(25.0\:mL\right)\left(\frac{0.911\:g}{1\:mL}\right)=22.8\:g" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;
-  &lt;mi&gt;m&lt;/mi&gt;
-  &lt;mi&gt;a&lt;/mi&gt;
-  &lt;mi&gt;s&lt;/mi&gt;
-  &lt;mi&gt;s&lt;/mi&gt;
-  &lt;mo&gt;=&lt;/mo&gt;
-  &lt;mrow&gt;
-    &lt;mo&gt;(&lt;/mo&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;25.0&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;m&lt;/mi&gt;
-      &lt;mi&gt;L&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mo&gt;)&lt;/mo&gt;
-  &lt;/mrow&gt;
-  &lt;mrow&gt;
-    &lt;mo&gt;(&lt;/mo&gt;
-    &lt;mfrac&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;0.911&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;g&lt;/mi&gt;
-      &lt;/mrow&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;1&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;m&lt;/mi&gt;
-        &lt;mi&gt;L&lt;/mi&gt;
-      &lt;/mrow&gt;
-    &lt;/mfrac&gt;
-    &lt;mo&gt;)&lt;/mo&gt;
-  &lt;/mrow&gt;
-  &lt;mo&gt;=&lt;/mo&gt;
-  &lt;mn&gt;22.8&lt;/mn&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mi&gt;g&lt;/mi&gt;
-&lt;/math&gt;" /></p>
-<p><span style="font-size: 14pt; color: #33cccc;"><strong>Tracking Units in Problem Solving<br /></strong></span></p>
-<p>The process of problem solving in chemistry often requires more than one conversion factors. When setting up these problems, it is important to make sure that each conversion factor is arranged to cancel the preceding unit until the needed unit is obtained, as seen in the following example problem.</p>
-<p><strong>Example</strong>: If a microwave oven emits 850 Watts (W), how long (in minutes) will it take for the microwave to emit 58.5 kJ of energy? (1 W = 1 Joule (J) of energy every second)</p>
-<p>Solution: Let's start by analyzing the problem:</p>
-<p>1. We are given an emission rate of 850 J/sec (the given or known quantity), a total of 58.5 kJ energy emitted, and asked to calculate the minutes needed (the unknown).</p>
-<p>2. We have the following conversion factors either given or commonly known:</p>
+Throughout the course, we will use an approach called dimensional analysis as an aid in problem solving. In dimensional analysis, units are multiplied together, divided into each other, or "canceled." The key to using dimensional analysis is the correct use of conversion factors to change from the units of given quantity into those of the desired quantity.
+
+The conversion factors noted in the Skill Check: Metric Unit convert from one unit of a given measure to another unit of the same measure, such as from length (nm) to length (m). We can also have conversion factors that convert from one measure to a different one. For example, the density of a substance can be treated as a conversion factor between mass and volume.
+
+**Conversions Involving Density**
+
+Density is a useful intensive property of a substance, and it is defined as the amount of mass in a unit volume of the substance:
+
+$$density=\frac{mass}{volume}$$
+
+Mass is usually described in killograms (kg) or grams (g), and volume is usually in liters (L) or milliliters (mL).&nbsp; So density has a unit of either killograms per liter (kg/L) or grams per milliter (g/mL or g/cm<sup>3</sup>). Since the volume of a liquid usually changes with temperature, chemists generally specify the density at a particular temperature. For example, the density of water is 1.00 g/mL at $$10^{\circ}$$C, while it is only 0.958 g/mL at $$100^{\circ}$$C.
+
+Suppose we want to know the mass, in grams, of 25.0 mL of olive oil, which has a density of 0.911 g/mL at $$25^{\circ}$$C. The density gives us the conversion factor:
+
+$$\frac{0.911\:g}{1\:mL}\:\:\:and\:\:\:\frac{1\:mL}{0.911\:g}$$
+
+Because we want a mass in grams, we use the first conversion factor, which has mass in grams in the numerator. We can now solve the problem as:
+
+$$mass=(25.0mL)(\frac{0.911 g}{1 mL})=22.8g$$
+
+
+**Tracking Units in Problem Solving**
+
+The process of problem solving in chemistry often requires more than one conversion factors. When setting up these problems, it is important to make sure that each conversion factor is arranged to cancel the preceding unit until the needed unit is obtained, as seen in the following example problem.
+
+**Example**: If a microwave oven emits 850 Watts (W), how long (in minutes) will it take for the microwave to emit 58.5 kJ of energy? (1 W = 1 Joule (J) of energy every second)
+
+Solution: Let's start by analyzing the problem:
+
+1. We are given an emission rate of 850 J/sec (the given or known quantity), a total of 58.5 kJ energy emitted, and asked to calculate the minutes needed (the unknown).
+
+2. We have the following conversion factors either given or commonly known:
+
+
 <p style="text-align: center;"><img class="equation_image" title="\frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}" src="https://psu.instructure.com/equation_images/%255Cfrac%257B1000%255C%253AJ%257D%257B1%255C%253AkJ%257D%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255Cfrac%257B850%255C%253AJ%257D%257B1%255C%253Asec%257D%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255Cfrac%257B1%255C%253Amin%257D%257B60%255C%253Asec%257D" alt="LaTeX: \frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}" width="307" height="40" data-equation-content="\frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;
   &lt;mfrac&gt;
     &lt;mrow&gt;
@@ -280,3 +200,5 @@
 [video 1]
 
 [video 2]
+
+$$$$
