@@ -1,6 +1,5 @@
 # Chemical Nomenclature<p>The rules for naming ions, ionic compounds, and inorganic molecular compounds are summarized below:</p>
-<p>[ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image]</p>
-<p></p>
+<p>[ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image__left]</p>
 <p><strong><span style="font-size: 14pt; color: #33cccc;">1. Positive ions (cations)</span></strong></p>
 <p>a) Cations formed from metal atoms have the same name as the metal.</p>
 <table border="2" style="height: 105px; margin-left: auto; margin-right: auto;" width="500"><tbody><tr><td style="width: 100px; text-align: center;">K</td><td style="width: 100px; text-align: center;">potassium</td><td style="width: 100px; text-align: center;">K<sup>+</sup></td><td style="width: 150px; text-align: center;">potassium ion</td></tr><tr><td style="width: 100px; text-align: center;">Mg</td><td style="width: 100px; text-align: center;">magnesium</td><td style="width: 100px; text-align: center;">Mg<sup>2+</sup></td><td style="width: 150px; text-align: center;">magnesium ion</td></tr><tr><td style="width: 100px; text-align: center;">Al</td><td style="width: 100px; text-align: center;">aluminum</td><td style="width: 100px; text-align: center;">Al<sup>3+</sup></td><td style="width: 150px; text-align: center;">aluminum ion</td></tr></tbody></table>
