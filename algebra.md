@@ -49,29 +49,34 @@ Similarly, typing "10/5/4" will also give you the correct answer.
 
 When multiplying two exponents together, you can add the exponents together provided both numbers have the same base. Generically, this looks like this (where "n" is any number or variable):
 
-![LaTeX: n^x\cdot n^y=n^{x+y}](https://psu.instructure.com/equation_images/n%255Ex%255Ccdot%2520n%255Ey%253Dn%255E%257Bx%2By%257D "n^x\cdot n^y=n^{x+y}")
+$$n^x\cdot n^y=n^{x+y}$$
+
 
 Similarly, when you divide two of the same base, you can subtract the exponents. Generically, this looks like this (where "n" is any number or variable):
 
-![LaTeX: \frac{n^x}{n^y}=n^{x-y}](https://psu.instructure.com/equation_images/%255Cfrac%257Bn%255Ex%257D%257Bn%255Ey%257D%253Dn%255E%257Bx-y%257D "\frac{n^x}{n^y}=n^{x-y}")
+$$\frac{n^x}{n^y}=n^{x-y}$$
+
 
 **_Example 1: _**
 
-![LaTeX: 10^2\cdot10^{-6}\:=](https://psu.instructure.com/equation_images/10%255E2%255Ccdot10%255E%257B-6%257D%255C%253A%253D "10^2\cdot10^{-6}\:=")
+$$10^2\cdot10^{-6}\:=$$
 
 Since we're multiplying two exponent numbers with the same base, the answer will have the same base (10), and the exponent will simply be the sum of the two exponents:
 
-![LaTeX: 10^2\cdot10^{-6}\:=10^{-4}](https://psu.instructure.com/equation_images/10%255E2%255Ccdot10%255E%257B-6%257D%255C%253A%253D10%255E%257B-4%257D "10^2\cdot10^{-6}\:=10^{-4}")
+$$10^2\cdot10^{-6}\:=10^{-4}$$
+
 
 If you're asked to express this as a decimal, keep in mind that the negative exponent is equivalent to saying 1/10<sup>4</sup>, or 1/1000, or simply 0.0001.
 
 **_Example 2: _**
 
-![LaTeX: 10^2\div10^{-6}\:=](https://psu.instructure.com/equation_images/10%255E2%255Cdiv10%255E%257B-6%257D%255C%253A%253D "10^2\div10^{-6}\:=")
+$$10^2\div10^{-6}\:=$$
+
 
 Since we're dividing two exponent numbers with the same base, the answer will have the same base (10), and the exponent will simply be the difference between the two exponents:
 
-![LaTeX: 10^2\div10^{-6}\:=10^{-8}](https://psu.instructure.com/equation_images/10%255E2%255Cdiv10%255E%257B-6%257D%255C%253A%253D10%255E%257B-8%257D "10^2\div10^{-6}\:=10^{-8}")
+$$10^2\div10^{-6}\:=10^{-8}$$
+
 
 If you're asked to express this as a decimal number, it would equal 0.00000001 (with 7 zeroes).
 
