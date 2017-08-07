@@ -29,176 +29,20 @@ The process of problem solving in chemistry often requires more than one convers
 
 Solution: Let's start by analyzing the problem:
 
-1. We are given an emission rate of 850 J/sec (the given or known quantity), a total of 58.5 kJ energy emitted, and asked to calculate the minutes needed (the unknown).
+1) We are given an emission rate of 850 J/sec (the given or known quantity), a total of 58.5 kJ energy emitted, and asked to calculate the minutes needed (the unknown).
 
-2. We have the following conversion factors either given or commonly known:
+2) We have the following conversion factors either given or commonly known:
 
+$$\frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}$$
 
-<p style="text-align: center;"><img class="equation_image" title="\frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}" src="https://psu.instructure.com/equation_images/%255Cfrac%257B1000%255C%253AJ%257D%257B1%255C%253AkJ%257D%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255Cfrac%257B850%255C%253AJ%257D%257B1%255C%253Asec%257D%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255C%253A%255Cfrac%257B1%255C%253Amin%257D%257B60%255C%253Asec%257D" alt="LaTeX: \frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}" width="307" height="40" data-equation-content="\frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;
-  &lt;mfrac&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;1000&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;J&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;1&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;k&lt;/mi&gt;
-      &lt;mi&gt;J&lt;/mi&gt;
-    &lt;/mrow&gt;
-  &lt;/mfrac&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mfrac&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;850&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;J&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;1&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;s&lt;/mi&gt;
-      &lt;mi&gt;e&lt;/mi&gt;
-      &lt;mi&gt;c&lt;/mi&gt;
-    &lt;/mrow&gt;
-  &lt;/mfrac&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mfrac&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;1&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;m&lt;/mi&gt;
-      &lt;mi&gt;i&lt;/mi&gt;
-      &lt;mi&gt;n&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;60&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;s&lt;/mi&gt;
-      &lt;mi&gt;e&lt;/mi&gt;
-      &lt;mi&gt;c&lt;/mi&gt;
-    &lt;/mrow&gt;
-  &lt;/mfrac&gt;
-&lt;/math&gt;" /></p>
-<p>3. Thus converting from kJ to min, we have:</p>
-<p><img class="equation_image" style="display: block; margin-left: auto; margin-right: auto;" title="Time\:in\:minute\:=\left(58.5\:kJ\right)\left(\frac{1000\:J}{1\:kJ}\right)\left(\frac{1\:sec}{850\:J}\right)\left(\frac{1\:min}{60\:sec}\right)=1.15\:min" src="https://psu.instructure.com/equation_images/Time%255C%253Ain%255C%253Aminute%255C%253A%253D%255Cleft%252858.5%255C%253AkJ%255Cright%2529%255Cleft%2528%255Cfrac%257B1000%255C%253AJ%257D%257B1%255C%253AkJ%257D%255Cright%2529%255Cleft%2528%255Cfrac%257B1%255C%253Asec%257D%257B850%255C%253AJ%257D%255Cright%2529%255Cleft%2528%255Cfrac%257B1%255C%253Amin%257D%257B60%255C%253Asec%257D%255Cright%2529%253D1.15%255C%253Amin" alt="LaTeX: Time\:in\:minute\:=\left(58.5\:kJ\right)\left(\frac{1000\:J}{1\:kJ}\right)\left(\frac{1\:sec}{850\:J}\right)\left(\frac{1\:min}{60\:sec}\right)=1.15\:min" width="559" height="41" data-equation-content="Time\:in\:minute\:=\left(58.5\:kJ\right)\left(\frac{1000\:J}{1\:kJ}\right)\left(\frac{1\:sec}{850\:J}\right)\left(\frac{1\:min}{60\:sec}\right)=1.15\:min" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;
-  &lt;mi&gt;T&lt;/mi&gt;
-  &lt;mi&gt;i&lt;/mi&gt;
-  &lt;mi&gt;m&lt;/mi&gt;
-  &lt;mi&gt;e&lt;/mi&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mi&gt;i&lt;/mi&gt;
-  &lt;mi&gt;n&lt;/mi&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mi&gt;m&lt;/mi&gt;
-  &lt;mi&gt;i&lt;/mi&gt;
-  &lt;mi&gt;n&lt;/mi&gt;
-  &lt;mi&gt;u&lt;/mi&gt;
-  &lt;mi&gt;t&lt;/mi&gt;
-  &lt;mi&gt;e&lt;/mi&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mo&gt;=&lt;/mo&gt;
-  &lt;mrow&gt;
-    &lt;mo&gt;(&lt;/mo&gt;
-    &lt;mrow&gt;
-      &lt;mn&gt;58.5&lt;/mn&gt;
-      &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-      &lt;mi&gt;k&lt;/mi&gt;
-      &lt;mi&gt;J&lt;/mi&gt;
-    &lt;/mrow&gt;
-    &lt;mo&gt;)&lt;/mo&gt;
-  &lt;/mrow&gt;
-  &lt;mrow&gt;
-    &lt;mo&gt;(&lt;/mo&gt;
-    &lt;mfrac&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;1000&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;J&lt;/mi&gt;
-      &lt;/mrow&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;1&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;k&lt;/mi&gt;
-        &lt;mi&gt;J&lt;/mi&gt;
-      &lt;/mrow&gt;
-    &lt;/mfrac&gt;
-    &lt;mo&gt;)&lt;/mo&gt;
-  &lt;/mrow&gt;
-  &lt;mrow&gt;
-    &lt;mo&gt;(&lt;/mo&gt;
-    &lt;mfrac&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;1&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;s&lt;/mi&gt;
-        &lt;mi&gt;e&lt;/mi&gt;
-        &lt;mi&gt;c&lt;/mi&gt;
-      &lt;/mrow&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;850&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;J&lt;/mi&gt;
-      &lt;/mrow&gt;
-    &lt;/mfrac&gt;
-    &lt;mo&gt;)&lt;/mo&gt;
-  &lt;/mrow&gt;
-  &lt;mrow&gt;
-    &lt;mo&gt;(&lt;/mo&gt;
-    &lt;mfrac&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;1&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;m&lt;/mi&gt;
-        &lt;mi&gt;i&lt;/mi&gt;
-        &lt;mi&gt;n&lt;/mi&gt;
-      &lt;/mrow&gt;
-      &lt;mrow&gt;
-        &lt;mn&gt;60&lt;/mn&gt;
-        &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-        &lt;mi&gt;s&lt;/mi&gt;
-        &lt;mi&gt;e&lt;/mi&gt;
-        &lt;mi&gt;c&lt;/mi&gt;
-      &lt;/mrow&gt;
-    &lt;/mfrac&gt;
-    &lt;mo&gt;)&lt;/mo&gt;
-  &lt;/mrow&gt;
-  &lt;mo&gt;=&lt;/mo&gt;
-  &lt;mn&gt;1.15&lt;/mn&gt;
-  &lt;mspace width=&quot;mediummathspace&quot; /&gt;
-  &lt;mi&gt;m&lt;/mi&gt;
-  &lt;mi&gt;i&lt;/mi&gt;
-  &lt;mi&gt;n&lt;/mi&gt;
-&lt;/math&gt;" /></p>
-<p><span style="font-size: 14pt; color: #33cccc;"><strong>Video Examples</strong></span></p>
+3) Thus converting from kJ to min, we have:
+
+$$Time\:in\:minute\:=\left(58.5\:kJ\right)\left(\frac{1000\:J}{1\:kJ}\right)\left(\frac{1\:sec}{850\:J}\right)\left(\frac{1\:min}{60\:sec}\right)=1.15\:min$$
+
+**Video Examples**
 
 [video 1]
 
 [video 2]
 
-$$$$
+
