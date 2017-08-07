@@ -18,25 +18,26 @@ Let's take a look a couple of examples:
 
 First carry out the operation in the parentheses:
 
-(4+3)/5 <img class="equation_image" title="\Longrightarrow" src="https://psu.instructure.com/equation_images/%255CLongrightarrow" alt="LaTeX: \Longrightarrow" data-equation-content="\Longrightarrow" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt; &lt;mo stretchy=&quot;false&quot;&gt;&amp;#x27F9;&lt;!-- ⟹ --&gt;&lt;/mo&gt; &lt;/math&gt;" /> 7/5
+(4+3)/5 $$\Longrightarrow$$ 7/5
 
 There are no exponents, so next we proceed to multiplication/division. Let's divide to get our final answer:
 
-7/5 <img class="equation_image" title="\Longrightarrow" src="https://psu.instructure.com/equation_images/%255CLongrightarrow" alt="LaTeX: \Longrightarrow" data-equation-content="\Longrightarrow" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt; &lt;mo stretchy=&quot;false&quot;&gt;&amp;#x27F9;&lt;!-- ⟹ --&gt;&lt;/mo&gt; &lt;/math&gt;" /> 1.4
+7/5 $$\Longrightarrow$$ 1.4
 
 **_Example 2:_** calculate: 4+3/5 =
 
 There are no parentheses or exponents, so we begin with multiplication/division. Let's divide:
 
-4+3/5 <img class="equation_image" title="\Longrightarrow" src="https://psu.instructure.com/equation_images/%255CLongrightarrow" alt="LaTeX: \Longrightarrow" data-equation-content="\Longrightarrow" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt; &lt;mo stretchy=&quot;false&quot;&gt;&amp;#x27F9;&lt;!-- ⟹ --&gt;&lt;/mo&gt; &lt;/math&gt;" />4+0.6
+4+3/5 $$\Longrightarrow$$ 4 + 0.6
 
 Next we proceed to addition/subtraction. Let's add to get our final answer:
 
-4+0.6 <img class="equation_image" title="\Longrightarrow" src="https://psu.instructure.com/equation_images/%255CLongrightarrow" alt="LaTeX: \Longrightarrow" data-equation-content="\Longrightarrow" data-mathml="&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt; &lt;mo stretchy=&quot;false&quot;&gt;&amp;#x27F9;&lt;!-- ⟹ --&gt;&lt;/mo&gt; &lt;/math&gt;" />4.6
+4+0.6 $$\Longrightarrow$$ 4.6
 
 **_Example 3:_** Order of operations often presents problems when students enter calculations into calculators. Be sure to use parentheses as needed. The most common mistakes we see are when students are dividing by a product, for example:
 
-![LaTeX: \frac{10}{5\cdot4}=](https://psu.instructure.com/equation_images/%255Cfrac%257B10%257D%257B5%255Ccdot4%257D%253D "\frac{10}{5\cdot4}=")
+$$\frac{10}{5\cdot4}=$$
+
 
 If you type "10/5*4" into your calculator, you will get an answer of 8, which is not correct.
 
