@@ -6,7 +6,7 @@
     * [Course Overview](administration/course-overview.md)
     * [Syllabus](administration/syllabus.md)
   * [Teaching Staff](teaching-staff.md)
-  * Resources
+  * [Resources](resources.md)
   * Schedule
 * [Skills Check](skills-check.md)
   * [Algebra](algebra.md)
