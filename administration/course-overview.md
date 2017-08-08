@@ -12,8 +12,9 @@ Why is water a liquid?  Why does a party balloon float?  Is it true that microwa
 * Appreciate the value of chemistry in everyday life.
 
 
-**Learning Objectives:
-**_At the end of the course, students will be able to..._
+**Learning Objectives:**
+
+_At the end of the course, students will be able to..._
 * Define key terms and concepts in chemistry.
 * Explain how atomic and molecular structure relates to macroscopic (observable) properties of matter
 * Define the various forms of energy, explain how energy interacts with matter, and be able to calculate the energy changes associated with chemical and physical processes.
