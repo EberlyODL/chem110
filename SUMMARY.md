@@ -3,8 +3,11 @@
 * [Orientation](README.md)
   * [Are you ready to learn online?](are-you-ready-to-learn-online.md)
   * [Administration](administration.md)
+    * [Course Overview](administration/course-overview.md)
+    * Syllabus
   * Teaching Staff
   * Resources
+  * Schedule
 * [Skills Check](skills-check.md)
   * [Algebra](algebra.md)
   * [Metric Conversions](metric-conversions.md)
