@@ -1,6 +1,8 @@
 # Resources
 
 **eBook**
+Chemistry faculty at University Park have written an e-book that we will use as the text for this course.  Beyond text, the e-book has sample problems within the margins of each page that contain a full solution.  You will also find interactive figures and short demo videos embedded throughout.  
+The homework sets will also be hosted in the e-book.  You'll find links to the  homework within each "Week X" page here in ELMS. 
 
 **Videos**
 In this course, I have prepared two types of videos.  The first type of video is a lecture-style video and the second demonstrates problem solving.
