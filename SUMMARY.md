@@ -1,6 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
+* [Orientation](README.md)
+  * [Are you ready to learn online?](are-you-ready-to-learn-online.md)
+  * [Administration](administration.md)
+  * Teaching Staff
+  * Resources
 * [Skills Check](skills-check.md)
   * [Algebra](algebra.md)
   * [Metric Conversions](metric-conversions.md)
