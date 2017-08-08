@@ -23,7 +23,7 @@ Scientific measurements are made across many orders of magnitude and range from 
 
 **Table 2. Common SI prefixes.**
 
-|  |  |
+|**Prefix (symbol)**  |**Multiplier**  |
 | :--- | :--- |
 | mega- \(M\) | $$10^6$$ |
 | kilo- \(k\) | $$10^3$$ |
