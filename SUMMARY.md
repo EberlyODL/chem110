@@ -51,6 +51,7 @@
     * video: Atomic Radius
   * Weekly Recap
   * Exam 1 Study Materials
+* [Exam 1](exam-1.md)
 * Week 4
 * Week 5
   * [test](test.md)
@@ -74,5 +75,5 @@
 * Week 12
 * Week 13
 * [Week 14](week-14.md)
-* [Week 15](week-15.md)
+* [Exam 1](exam-1.md)
 
