@@ -1,3 +1,4 @@
+# Skills Check Overview
 Welcome to CHEM 110! We will begin the semester with a brief, self-paced review of a few basic skills from previous courses that you'll need in order to be successful. This review module contains five sections in which you will practice the skills listed below:
 
 **Algebra**
