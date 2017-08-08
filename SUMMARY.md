@@ -4,8 +4,8 @@
   * [Are you ready to learn online?](are-you-ready-to-learn-online.md)
   * [Administration](administration.md)
     * [Course Overview](administration/course-overview.md)
-    * Syllabus
-  * Teaching Staff
+    * [Syllabus](administration/syllabus.md)
+  * [Teaching Staff](teaching-staff.md)
   * Resources
   * Schedule
 * [Skills Check](skills-check.md)
