@@ -40,7 +40,7 @@
     * [video: Light as a Particle](lesson-1/light-energy/video-light-as-a-particle.md)
     * [video: Energy Calculations](lesson-1/light-energy/video-energy-calculations.md)
     * Try it!
-  * Line Spectra
+  * [Line Spectra](lesson-1/line-spectra.md)
   * Bohr Model
   * Orbitals
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
