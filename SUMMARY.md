@@ -7,6 +7,7 @@
   * [Teaching Staff](teaching-staff.md)
   * [Resources](resources.md)
   * [Schedule](schedule.md)
+  * Canvas How-Tos
   * [Technical Issues](technical-issues.md)
 * [Skills Check](skills-check.md)
   * [Algebra](algebra.md)
@@ -23,7 +24,7 @@
     * [Try it!](lesson-1/lesson-11/isotope-abundance/try-it.md)
   * [Ions and Molecules](lesson-1/lesson-11/ions-and-molecules.md)
     * [video: Atoms versus Molecules](lesson-1/lesson-11/ions-and-molecules/molecules.md)
-    * video: Ions
+    * [video: Ions](lesson-1/lesson-11/ions-and-molecules/video-ions.md)
   * [The Mole](lesson-1/the-mole.md)
     * [video: The mole](lesson-1/video-1.md)
     * [Try it!](lesson-1/test-yourself.md)
@@ -52,7 +53,7 @@
   * Weekly Recap
   * Exam 1 Study Materials
 * [Exam 1](exam-1.md)
-* Week 4
+* [Week 4](week-4.md)
 * Week 5
   * [test](test.md)
 * Week 6
