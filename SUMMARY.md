@@ -5,6 +5,7 @@
   * [Course Overview](administration/course-overview.md)
   * [Syllabus](administration/syllabus.md)
   * [Teaching Staff](teaching-staff.md)
+  * [Assignments](assignments.md)
   * [Resources](resources.md)
   * [Schedule](schedule.md)
   * Canvas How-Tos
@@ -18,7 +19,7 @@
 * [Week 1](lesson-1.md)
   * [Atoms and the Elements](lesson-1/lesson-11.md)
     * [video: Structure of an atom](lesson-1/lesson-11/structure-of-an-atom.md)
-    * [quiz: Try it!](lesson-1/lesson-11/quiz-test-yourself.md)
+    * [Try it!](lesson-1/lesson-11/quiz-test-yourself.md)
     * [video: Isotopes and Atomic Mass](lesson-1/lesson-11/isotope-abundance/video-overview.md)
     * [video: Solved problem](lesson-1/lesson-11/isotope-abundance/video-solved-problem.md)
     * [Try it!](lesson-1/lesson-11/isotope-abundance/try-it.md)
