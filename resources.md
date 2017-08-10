@@ -11,8 +11,10 @@ In this course, there will be three types of videos.  I encourage you to take no
 
 * Solved-problem videos will walk you through a method for solving a particular problem.  You will likely be asked to try this problem for yourself before watching the video.  Give it your best shot - the stakes will never be lower!  There may be other paths to solving a particular problem, so feel free to let me know if you arrived at an answer by a different method.
 
-**Knowledge Checks**
-Aside from the embedded questions and HW problems, you have available weekly knowledge checks to 
+**Recitation**
+
+
 
 **Problem Sets**
 Even more practice problems are available in Problem Sets.  Each problem set contains exam-level questions and are intended to be used as preparation for the exam.  
+

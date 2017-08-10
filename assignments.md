@@ -15,4 +15,4 @@ The final check is a Knowledge Check.  These will be due on Sundays.  These are 
 
 
 **Exams**
-We will have four mid-term exams and a final this semester.  Exams will be proctored through Examity and consist of open-ended problems and short-answer questions.  You will have the opportunity to show what you know and earn partial credit! :)
+We will have four mid-term exams and a final this semester.  Exams will be proctored through Examity and consist of open-ended problems and short-answer questions. You will have the opportunity to show what you know and earn partial credit! :)
