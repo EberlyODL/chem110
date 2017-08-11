@@ -18,3 +18,5 @@ In this course, there will be three types of videos.  I encourage you to take no
 **Problem Sets**
 Even more practice problems are available in Problem Sets.  Each problem set contains exam-level questions and are intended to be used as preparation for the exam.  
 
+**Piazza**
+
