@@ -28,4 +28,4 @@ You are encouraged to use a calculator and periodic table on these quizzes. You 
 
 Since we assume that you've previously seen this material, the review web page that accompanies each pair of quizzes is not comprehensive. If you need additional review material, you're encouraged to seek out reading from other sources (such as from the e-book, the internet, or other textbooks). You're also encouraged to ask your instructor, your TA, or the LAs if you have any questions. This review is intended to be a learning experience, not a source of stress, so please let us know if you get stuck! :)
 
-Click "Next" at the bottom of the page to begin.
+Click "Next" at the bottom of the page to begin. (You can jump between sections using the navigation menu on the left.)
