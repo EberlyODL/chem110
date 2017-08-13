@@ -1,7 +1,7 @@
 # Naming Chemical Compounds
 <p>The rules for naming ions, ionic compounds, and inorganic molecular compounds are summarized below:
 </p>
-<div style="float:none;max-width:700px;margin:auto;">[ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image]
+<div style="float:none;max-width:700px;margin:auto;">
 </div>
 <p>
 </p>
@@ -357,6 +357,9 @@
 </p>
 <p>Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the<i> -ide</i> ending. Greek prefixes are used to indicate the number of atoms. The "mono-" prefix is typically omitted from the beginning of the name.
 </p>
+[ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image]
+
+Examples:
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
   <tbody>
     <tr>
