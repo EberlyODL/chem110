@@ -1,5 +1,6 @@
 # Course Orientation
 
+<ebook-button></ebook-button>
 What is a course orientation? Do I really need this?
 
 Sure! It can't hurt! Are you really ready to learn online? Take this [Online Learning Readiness Questionnaire](/weblearning.psu.edu/questionnaire/ORQ.HTM).
@@ -19,13 +20,13 @@ Consider how, generally speaking, online learning differs in some key respects f
 | Less reliance on the reliability of technology used | Technology reliability is critical | Loss of Internet connectivity,slow media playback, recurring browser crashes, or many other difficulties can stop all progress until resolved |
 
 
-In this orientation you will: 
+In this orientation you will: 
 
-* Review the syllabus closely for course requirements, due dates, policies, and the like
+* Review the syllabus closely for course requirements, due dates, policies, and the like
 * Ensure that you can locate and access all course content and play all media
 * Clarify what is expected of you as a student and what you may reasonably expect from your instructor
 * Receive answers to many questions you likely have
-* "Meet" your instructor by attending a course meeting.
+* "Meet" your instructor by attending a course meeting.
 * Reckon with the nature of online learning, both positive and negative aspects
 
 
