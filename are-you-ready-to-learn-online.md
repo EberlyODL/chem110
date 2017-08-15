@@ -1,6 +1,6 @@
 # Course Orientation
 
-<ebook-button></ebook-button>
+<ebook-button title="Book Title" link="http://wwww.google.com"></ebook-button>
 What is a course orientation? Do I really need this?
 
 Sure! It can't hurt! Are you really ready to learn online? Take this [Online Learning Readiness Questionnaire](/weblearning.psu.edu/questionnaire/ORQ.HTM).
