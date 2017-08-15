@@ -1,7 +1,6 @@
--- Read Book --
+# Structure of an Atom
 
 Learning Objectives: After this lesson, you should be able to…
-
 
 *   describe the subatomic particles that make up an atom.
 *   use the periodic table to determine the numbers of protons and/or electrons in a neutral (uncharged) atom.
