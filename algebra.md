@@ -124,6 +124,11 @@ x = -7 + 2 + 2 = -3
 
 Now I know the values of both x and y; x = -3 and y = -7
 
-<span style="font-size: 14pt; color: #33cccc;">**Video Examples**</span>
+### Video Examples
 
 [VIDEO SYSTEMS OF EQUATIONS]
+
+
+**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269540 "Algebra Part A") to try out the Part A quiz for this section.**
+
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269542 "Algebra Part B")!**

@@ -43,9 +43,9 @@
     * [video: Energy Calculations](lesson-1/light-energy/video-energy-calculations.md)
     * Try it!
   * [Line Spectra](lesson-1/line-spectra.md)
-  * Bohr Model
-  * Orbitals
+  * [Bohr Model](lesson-1/bohr-model.md)
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
+  * [Orbitals](lesson-1/orbitals.md)
   * [Weekly Recap](lesson-2/weekly-recap.md)
 * [Week 3](lesson-3.md)
   * Electron Configuration
