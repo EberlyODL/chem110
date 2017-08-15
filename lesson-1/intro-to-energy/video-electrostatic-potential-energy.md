@@ -1,3 +1,5 @@
+# Electrostatic Potential Energy
+
 Learning Objectives: After this lesson, you should be able to…
 
 * Define electrostatic potential energy and apply Coulomb's Law to rank the overall electrostatic energy, and the strength of attraction for different interacting charges.
@@ -12,5 +14,10 @@ In this mathematical representation, you can easily see how changes in charge an
 
 [VIDEO: ELECTROSTATIC POTENTIAL]
 
+### Try it!
+
+[ciscode|rev=1|tool=elmsmedia|item=2772|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=2571|entity_type=node|render=display_mode|display_mode=h5p]
 
 

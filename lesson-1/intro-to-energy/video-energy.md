@@ -12,6 +12,12 @@ Before we get too far in our journey, we need to understand energy. In this less
 
 [VIDEO: INTRO TO ENERGY]
 
+Try it!
+
+[ciscode|rev=1|tool=elmsmedia|item=2773|entity_type=node|render=display_mode|display_mode=h5p]
+
+[ciscode|rev=1|tool=elmsmedia|item=2774|entity_type=node|render=display_mode|display_mode=h5p]
+
 Key terms:
 The First Law of Thermodynamics
 Kinetic Energy

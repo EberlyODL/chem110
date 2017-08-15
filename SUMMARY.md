@@ -27,6 +27,7 @@
   * [Ions and Molecules](lesson-1/lesson-11/ions-and-molecules.md)
     * [video: Atoms versus Molecules](lesson-1/lesson-11/ions-and-molecules/molecules.md)
     * [video: Ions](lesson-1/lesson-11/ions-and-molecules/video-ions.md)
+    * [Try it!](lesson-1/lesson-11/ions-and-molecules/try-it.md)
   * [The Mole](lesson-1/the-mole.md)
     * [video: The mole](lesson-1/video-1.md)
     * [Try it!](lesson-1/test-yourself.md)
@@ -44,6 +45,7 @@
     * Try it!
   * [Line Spectra](lesson-1/line-spectra.md)
   * [Bohr Model](lesson-1/bohr-model.md)
+  * [The Quantum World](lesson-1/the-quantum-world.md)
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
   * [Orbitals](lesson-1/orbitals.md)
   * [Weekly Recap](lesson-2/weekly-recap.md)

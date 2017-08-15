@@ -2,22 +2,27 @@
 Welcome to CHEM 110! We will begin the semester with a brief, self-paced review of a few basic skills from previous courses that you'll need in order to be successful. This review module contains five sections in which you will practice the skills listed below:
 
 **Algebra**
+
 * Manipulate and solve algebraic expressions involving exponents, radicals, and fractions.
 * Substitute values in place of variables to solve equations.
 
 **Metric Units**
+
 * Convert from one metric unit to another.
 * Connect metric units to real-world situations.
 
 **Scientific Notation and Significant Figures**
+
 * Use scientific notation to express large and small numbers.
 * Round to the appropriate number of significant digits when performing calculations.
 
 **Density and Dimensional Analysis**
+
 * Use density to relate mass and volume.
 * Use dimensional analysis to relate physical quantities.
 
 **Naming Chemical Compounds**
+
 * Identify the names and chemical formulas of ions, polyatomic ions, and chemical substances.
 
 Each of the five sections will have the same basic structure and features a web page that provides review material as well as two quizzes. The first quiz will be titled "Part A". The second quiz will be titled "Part B". Both quizzes contain the same number of questions and have the same time limit. Both quizzes also draw from the same bank of test questions. The only difference between the two quizzes is that you can attempt Part A as many times as you like, with only your highest score counting towards your grade. In contrast, you may only attempt Part B a maximum of three times (only your highest score counts). The intent is for you to practice by taking Part A several times, and then once you're confident that you've mastered the material, you should take Part B. 
