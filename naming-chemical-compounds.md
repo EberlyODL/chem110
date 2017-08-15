@@ -8,3 +8,6 @@ The rules for naming ions, ionic compounds, and inorganic molecular compounds ar
 
 
 
+**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269543 "Nomenclature Part A") to try out the Part A quiz for this section.**
+
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269539 "Nomenclature Part B")!**

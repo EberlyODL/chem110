@@ -5,7 +5,7 @@
 </div>
 <p>
 </p>
-<p><strong><span style="font-size: 14pt; color: #33cccc;">1. Positive ions (cations)</span></strong>
+### 1. Positive ions (cations)
 </p>
 <p>a) Cations formed from metal atoms have the same name as the metal.
 </p>
@@ -95,7 +95,7 @@
     </tr>
   </tbody>
 </table>
-<p><strong><span style="font-size: 14pt; color: #33cccc;">2. Negative ions (anions)</span></strong>
+### 2. Negative ions (anions)
 </p>
 <p>a) Monoatomic anions are formed by replacing the ending of the name of the element with <i>-ide. </i>A few simple polyatomic ions also have -ide ending.<i> </i>
 </p>
@@ -215,7 +215,7 @@
     </tr>
   </tbody>
 </table>
-<p><strong><span style="font-size: 14pt; color: #33cccc;">3. Ionic compounds</span></strong>
+### 3. Ionic compounds
 </p>
 <p>The names of ionic compounds are composed of the cation name followed by the anion name.
 </p>
@@ -279,7 +279,7 @@
     </tr>
   </tbody>
 </table>
-<p><strong><span style="font-size: 14pt; color: #33cccc;">4. Acids</span></strong>
+### 4. Acids
 </p>
 <p>a) Acids based on anions ending with <i>-ide </i>have <i>hydro-</i> prefix and <i>-ic</i> ending.
 </p>
@@ -353,7 +353,7 @@
     </tr>
   </tbody>
 </table>
-<p><strong><span style="font-size: 14pt; color: #33cccc;">5. Binary Compounds</span></strong>
+### 5. Binary Compounds
 </p>
 <p>Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the<i> -ide</i> ending. Greek prefixes are used to indicate the number of atoms. The "mono-" prefix is typically omitted from the beginning of the name.
 </p>
@@ -384,5 +384,15 @@ Examples:
     </tr>
   </tbody>
 </table>
-<p><span style="font-size: 14pt; color: #33cccc;"><strong>Video Examples</strong></span>
-</p>
+### Video Examples
+
+[Writing Formulas]
+
+[Iionic naming]
+
+[Covalent Naming]
+
+
+**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269543 "Nomenclature Part A") to try out the Part A quiz for this section.**
+
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269539 "Nomenclature Part B")!**

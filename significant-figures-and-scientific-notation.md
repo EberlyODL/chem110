@@ -50,7 +50,7 @@ sigfigs3.png
 
 
 
-Video Examples
+### Video Examples
 
 Video Example 1: Scientific Notation
 
@@ -62,3 +62,6 @@ Video Example 1: Scientific Notation
 
 Video Example 3: Performing Calculations with Significant Figures
 
+**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269544 "Sig figs Part A") to try out the Part A quiz for this section.**
+
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269547 "Sig Figs Part B")!**

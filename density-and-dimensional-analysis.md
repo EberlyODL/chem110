@@ -4,7 +4,7 @@ Throughout the course, we will use an approach called dimensional analysis as an
 
 The conversion factors noted in the Skill Check: Metric Unit convert from one unit of a given measure to another unit of the same measure, such as from length (nm) to length (m). We can also have conversion factors that convert from one measure to a different one. For example, the density of a substance can be treated as a conversion factor between mass and volume.
 
-**Conversions Involving Density**
+### Conversions Involving Density
 
 Density is a useful intensive property of a substance, and it is defined as the amount of mass in a unit volume of the substance:
 
@@ -21,7 +21,7 @@ Because we want a mass in grams, we use the first conversion factor, which has m
 $$mass=(25.0mL)(\frac{0.911 g}{1 mL})=22.8g$$
 
 
-**Tracking Units in Problem Solving**
+### Tracking Units in Problem Solving
 
 The process of problem solving in chemistry often requires more than one conversion factors. When setting up these problems, it is important to make sure that each conversion factor is arranged to cancel the preceding unit until the needed unit is obtained, as seen in the following example problem.
 
@@ -39,10 +39,13 @@ $$\frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:
 
 $$Time\:in\:minute\:=\left(58.5\:kJ\right)\left(\frac{1000\:J}{1\:kJ}\right)\left(\frac{1\:sec}{850\:J}\right)\left(\frac{1\:min}{60\:sec}\right)=1.15\:min$$
 
-**Video Examples**
+### Video Examples
 
 [video 1]
 
 [video 2]
 
 
+**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269537 "Conversions Part A") to try out the Part A quiz for this section.**
+
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269541 "Conversions Part B")!**

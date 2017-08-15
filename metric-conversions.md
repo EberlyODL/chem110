@@ -41,5 +41,8 @@ There is one other unusual unit that you'll see from time to time in CHEM 110, t
 
 ### Video Examples
 
-\[VIDEO: METRIC UNITS\]
+[VIDEO: METRIC UNITS\]
 
+**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269545 "Metric Units Part A") to try out the Part A quiz for this section.**
+
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269538 "Metric Units Part B")!**
