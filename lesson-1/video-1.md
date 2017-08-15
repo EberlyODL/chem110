@@ -8,6 +8,11 @@ The mole is the chemist's dozen.  We will use it to "count" atoms, molecules, ph
 Hopefully, that looks like something you have seen before.  It's the same concept as a dozen.
 > 1 dozen = 12 objects
 
+Give this calculation a try:
+
+[ciscode|rev=1|tool=elmsmedia|item=2769|entity_type=node|render=display_mode|display_mode=h5p]
+
+Now, using the same approach, can you calculate the following?
 
 
 [VIDEO: THE MOLE]
