@@ -29,6 +29,7 @@ We should also be able to go from scientific notation back to the "full" number.
 Significant figures, otherwise known as sig figs, are the meaningful digits in a measurement or calculation.  The number of significant figures in a number is determined by how the number was measured or calculated.  Ultimately, the number of sig figs in your measurement or calculated result is indicative of the precision.  
 
 **Significant Figure Rules**
+
 1) All nonzero digits are significant.
 2) Interior zeroes (zeroes between two nonzero digits) are always significant.
 3) Leading/trailing zeroes: Imagine placing the number of interest inside a map of the United States as shown below.
@@ -45,22 +46,10 @@ sigfigs3.png
 
 **Math With Significant Figures**
 
+[ciscode|rev=1|tool=elmsmedia|item=3206|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 
 
-
-
-### Video Examples
-
-Video Example 1: Scientific Notation
-
-
-
- Video Example 2: Counting Significant Figures
-
-
-
-Video Example 3: Performing Calculations with Significant Figures
 
 **[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269544 "Sig figs Part A") to try out the Part A quiz for this section.**
 

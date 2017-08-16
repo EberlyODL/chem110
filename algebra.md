@@ -126,8 +126,7 @@ Now I know the values of both x and y; x = -3 and y = -7
 
 ### Video Examples
 
-[VIDEO SYSTEMS OF EQUATIONS]
-
+[ciscode|rev=1|tool=elmsmedia|item=3207|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 **[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269540 "Algebra Part A") to try out the Part A quiz for this section.**
 
