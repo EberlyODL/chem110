@@ -1,7 +1,6 @@
 # Summary
 
 * [Orientation](README.md)
-  * [Are you ready to learn online?](are-you-ready-to-learn-online.md)
   * [Course Overview](administration/course-overview.md)
   * [Syllabus](administration/syllabus.md)
   * [Teaching Staff](teaching-staff.md)
