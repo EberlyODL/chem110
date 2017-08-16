@@ -19,191 +19,72 @@ b) For metals that form cations of differing charges, the positive charge is giv
 
 **Examples:**
 
-| Metal | Name | Metal Ion | Name |
+| Metal Ion | Name | Metal Ion | Name |
 | :--- | :--- | :--- | :--- |
-| K | potassium | K$$^+$$ | potassium ion |
-| Mg | magnesium | Mg$$^{2+}$$ | magnesium ion |
-| Al | Aluminum | Al$$^{3+}$$ | aluminum ion |
+| Fe$$^{2+}$$ | iron(II) ion | Fe$$^{3+}$$ | iron(III) ion |
+| Cu$$^{+}$$ | copper(I) ion | Cu$$^{2+}$$ | copper(II) ion |
+
+
+c) Cations formed from nonmetals have names ending in _-ium_.
+
+**Examples:**
+
+| Compound | Name | Ion | Name |
+| :--- | :--- | :--- | :--- |
+| NH$$_3$$ | ammonia | NH$$_4^+$$ | ammonium ion |
+| H$$_2$$O | water | H$$_3$$O$$^+$$ | hydronium ion |
 
 
 
-<table border="2" style="height: 80px; margin-left: auto; margin-right: auto;" width="500">
-  <tbody>
-    <tr>
-      <td style="width: 100px; text-align: center;">Fe<sup>2+</sup>
-      </td>
-      <td style="width: 100px; text-align: center;">iron(II) ion
-      </td>
-      <td style="width: 100px; text-align: center;">Fe<sup>3+</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">iron(III) ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 100px; text-align: center;">Cu<sup>+</sup>
-      </td>
-      <td style="width: 100px; text-align: center;">copper(I) ion
-      </td>
-      <td style="width: 100px; text-align: center;">Cu<sup>2+</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">copper(II) ion
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p>c) Cations formed from nonmetals have names ending in <i>-ium.</i>
 
-**Examples: **
 
-<table border="2" style="height: 80px; margin-left: auto; margin-right: auto;" width="500">
-  <tbody>
-    <tr>
-      <td style="width: 100px; text-align: center;">NH<sub>3</sub>
-      </td>
-      <td style="width: 100px; text-align: center;">ammonia
-      </td>
-      <td style="width: 100px; text-align: center;">NH<sub>4</sub><sup>+</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">ammonium ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 100px; text-align: center;">H<sub>2</sub>O
-      </td>
-      <td style="width: 100px; text-align: center;">water
-      </td>
-      <td style="width: 100px; text-align: center;">H<sub>3</sub>O<sup>+</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">hydronium ion
-      </td>
-    </tr>
-  </tbody>
-</table>
 ### 2. Negative ions (anions)
-</p>
-<p>a) Monoatomic anions are formed by replacing the ending of the name of the element with <i>-ide. </i>A few simple polyatomic ions also have -ide ending.<i> </i>
+
+a) Monoatomic anions are formed by replacing the ending of the name of the element with _-ide_. 
 
 **Examples: **
 
-<table border="2" style="height: 185px; margin-left: auto; margin-right: auto; width: 500px;">
-  <tbody>
-    <tr>
-      <td style="width: 85px; text-align: center;">H
-      </td>
-      <td style="width: 125px; text-align: center;">hydrogen
-      </td>
-      <td style="width: 100px; text-align: center;">H<sup>−</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">hydride ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">N
-      </td>
-      <td style="width: 125px; text-align: center;">nitrogen
-      </td>
-      <td style="width: 100px; text-align: center;">N<sup>3−</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">nitride ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">O<sup>2−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">oxide ion
-      </td>
-      <td style="width: 100px; text-align: center;">O<sub>2</sub><sup>2− </sup>
-      </td>
-      <td style="width: 150px; text-align: center;">peroxide ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">CN<sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">cyanide ion
-      </td>
-      <td style="width: 100px; text-align: center;">OH<sup>−</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">hydroxide ion
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p>b) Oxyanions (polyatomic ions containing oxygen) have endings <i>-ate</i> (used for the most common ion of an element) or <i>-ite</i> (used for the ion with the same charge but one less oxygen atom). Prefixes (<i>per-</i> and <i>hypo-</i>) are used for oxyanions with more members in the series.
+| Nonmetal | Name | Ion | Name |
+| :--- | :--- | :--- | :--- |
+| H | hydrogen | H$$^-$$ | hydride ion |
+| N | nitrogen | N$$^{3-}$$ | nitride ion |
+| O | oxygen | O$$^{2-}$$ | oxide ion |
+
+
+
+A few simple polyatomic ions also have _-ide_ ending.
+
+**Examples:**
+
+| Polyatomic ion | Name 
+| :--- | :--- |
+| O$$_2^{2-}$$ | peroxide ion | 
+| CN$$^-$$ | cyanide ion |
+| OH$$^-$$ | hydroxide ion | 
+
+
+
+
+b) Oxyanions (polyatomic ions containing oxygen) have endings _-ate _(used for the most common ion of an element) or _-ite_ (used for the ion with the same charge but one less oxygen atom). Prefixes (_per-_ and _hypo-_) are used for oxyanions with more members in the series.
 
 **Examples: **
 
-<table border="2" style="height: 185px; margin-left: auto; margin-right: auto; width: 500px;">
-  <tbody>
-    <tr>
-      <td style="width: 85px; text-align: center;">NO<sub>3</sub><sup>− </sup>
-      </td>
-      <td style="width: 125px; text-align: center;">nitrate ion
-      </td>
-      <td style="width: 100px; text-align: center;">NO<sub>2</sub><sup>− </sup>
-      </td>
-      <td style="width: 150px; text-align: center;">nitrite ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">SO<sub>4</sub><sup>2−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">sulfate ion
-      </td>
-      <td style="width: 100px; text-align: center;">SO<sub>3</sub><sup>2−</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">sulfite ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">ClO<sub>4</sub><sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;"><span style="color: #0000ff;">per</span>chlor<span style="color: #ff0000;">ate</span> ion
-      </td>
-      <td style="width: 100px; text-align: center;">ClO<sub>3</sub><sup>−</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">chlor<span style="color: #ff0000;">ate</span> ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">ClO<sub>2</sub><sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">chlor<span style="color: #ff00ff;">ite</span> ion
-      </td>
-      <td style="width: 100px; text-align: center;">ClO<sup>−</sup>
-      </td>
-      <td style="width: 150px; text-align: center;"><span style="color: #008000;">hypo</span>chlor<span style="color: #ff00ff;">ite</span> ion
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p>c) Anions derived by adding H<sup>+ </sup>to an oxyanion are named by adding <i>hydrogen-</i> (or <i>dihydrogen-</i> etc.) as a prefix.
+| Oxyanion | Name | Oxyanion | Name |
+| :--- | :--- | :--- | :--- |
+| NO$$_3^{-}$$ | nitrate ion | NO$$_2^-$$ | nitrite ion |
+| SO$$_4^{2-}$$ | sulfate ion | SO$$_3^{2-}$$ | sulfite ion |
+| ClO$$_4^{-}$$ | perchlorate ion | ClO$$_3^{-}$$ | chlorate ion |
+| ClO$$_2^{-}$$ | chlorite ion | ClO$$^{-}$$ | hypochlorite ion |
+
+c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen_ (or _dihydrogen-_ etc.) as a prefix.
 
 **Examples: **
-<table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
-  <tbody>
-    <tr>
-      <td style="width: 85px; text-align: center;">CO<sub>3</sub><sup>2− </sup>
-      </td>
-      <td style="width: 125px; text-align: center;">carbonate ion
-      </td>
-      <td style="width: 100px; text-align: center;">HCO<sub>3</sub><sup>−</sup>
-      </td>
-      <td style="width: 200px; text-align: center;">hydrogen carbonate ion (bicarbonate ion)
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">PO<sub>4</sub><sup>3−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">phosphate ion
-      </td>
-      <td style="width: 100px; text-align: center;">H<sub>2</sub>PO<sub>4</sub><sup>−</sup>
-      </td>
-      <td style="width: 200px; text-align: center;">dihydrogen phosphate ion
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+| Oxyanion | Name | Oxyanion | Name |
+| :--- | :--- | :--- | :--- |
+| CO$$_3^{2-}$$ | carbonate ion | HCO$$_3^-$$ | hydrogen carbonate ion (bicarbonate ion) |
+| PO$$_4^{3-}$$ | phosphate ion | H$$_2$$PO$$_4^{-}$$ | dihydrogen phosphate ion |
+
 
 [ciscode|rev=1|tool=elmsmedia|item=3211|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -224,102 +105,36 @@ Transition metals and a handful of main group metals have several possible charg
 [ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image]</div>
 
 **Examples:**
-<table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 800px;">
-  <tbody>
-    <tr>
-      <td style="width: 85px; text-align: center;">Na<sup>+</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">sodium ion
-      </td>
-      <td style="width: 85px; text-align: center;">Cl<sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">chloride ion
-      </td>
-      <td style="width: 100px; text-align: center;">NaCl
-      </td>
-      <td style="width: 150px; text-align: center;">sodium chloride
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">Ca<sup>2+</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">calcium ion
-      </td>
-      <td style="width: 85px; text-align: center;">NO<sub>3</sub><sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">nitrate ion
-      </td>
-      <td style="width: 100px; text-align: center;">Ca(NO<sub>3</sub>)<sub>2</sub>
-      </td>
-      <td style="width: 150px; text-align: center;">calcium nitrate
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">Cu<sup>2+</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">copper(II) ion
-      </td>
-      <td style="width: 85px; text-align: center;">ClO<sub>4</sub><sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">perchlorate ion
-      </td>
-      <td style="width: 100px; text-align: center;">Cu(ClO<sub>4</sub>)<sub>2</sub>
-      </td>
-      <td style="width: 150px; text-align: center;">copper(II) perchlorate
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">Al<sup>3+</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">aluminum ion
-      </td>
-      <td style="width: 85px; text-align: center;">SO<sub>4</sub><sup>2−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">sulfate ion
-      </td>
-      <td style="width: 100px; text-align: center;">Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>
-      </td>
-      <td style="width: 150px; text-align: center;">aluminum sulfate
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+| Compound | Cation & Name | Anion & Name | Compound Name |
+| :--- | :--- | :--- | :--- |
+| NaCl | Na$$^+$$, sodium ion| Cl$$^-$$, chloride ion | sodium chloride |
+| CaCl$$_2$$ | Ca$$^{2+}$$, calcium ion| Cl$$^-$$, chloride ion | calcium chloride |
+| Cu(ClO$$_4$$) | Cu$$^{2+}$$, copper(II) ion| ClO$$_4^-$$, perchlorate ion | copper(II) perchlorate |
+| Al$$_2$$(SO$$_4$$)$$_3$$ | Al$$^{3+}$$, aluminum ion| SO$$_4^-$$ sulfate ion | aluminum sulfate |
+
+
+
+
 ### 4. Acids
 
 [ciscode|rev=1|tool=elmsmedia|item=3213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-<p>a) Acids based on anions ending with <i>-ide </i>have <i>hydro-</i> prefix and <i>-ic</i> ending.
+a) Acids based on anions ending with _-ide_ have _hydro-_ prefix and _-ic_ ending.
 
 <div style="float:none;max-width:800px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3201|entity_type=node|render=display_mode|display_mode=image]</div>
 
 
-**Examples: **
-<table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
-  <tbody>
-    <tr>
-      <td style="width: 85px; text-align: center;">Cl<sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">chloride ion
-      </td>
-      <td style="width: 100px; text-align: center;">HCl
-      </td>
-      <td style="width: 200px; text-align: center;"><span style="color: #ff0000;">hydro</span>chlor<span style="color: #ff00ff;">ic</span> acid
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">S<sup>2−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">sulfide ion
-      </td>
-      <td style="width: 100px; text-align: center;">H<sub>2</sub>S
-      </td>
-      <td style="width: 200px; text-align: center;"><span style="color: #ff0000;">hydro</span>sulfur<span style="color: #ff00ff;">ic</span> acid
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p>b) If the name of an anion ends in <i>-ate</i>, the acid will end in <i>-ic</i>. If the name of an anion ends in <i>-ite</i>, the acid will end in <em>-ous</em>.
+**Examples:**
+
+| Anion | Name | Oxyanion | Name |
+| :--- | :--- | :--- | :--- |
+| Cl$$^{-}$$ | chloride ion | HCl | hydrochloric acid |
+| S$$^{2-}$$ | sulfide ion | H$$_2$$S | hydrosulfuric acid |
+
+
+b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the name of an anion ends in _-ite_, the acid will end in _-ous_.
 
 <div style="float:none;max-width:800px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3202|entity_type=node|render=display_mode|display_mode=image]</div>
@@ -329,50 +144,15 @@ Transition metals and a handful of main group metals have several possible charg
 
 
 **Examples: **
-<table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
-  <tbody>
-    <tr>
-      <td style="width: 85px; text-align: center;">ClO<sub>4</sub><sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;"><span style="color: #0000ff;">per</span>chlor<span style="color: #000000;">ate</span> ion
-      </td>
-      <td style="width: 100px; text-align: center;">HClO<sub>4</sub>
-      </td>
-      <td style="width: 200px; text-align: center;"><span style="color: #0000ff;">per</span>chlo<span style="color: #ff00ff;">ric</span> acid
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">ClO<sub>3</sub><sup>−</sup>
-      </td>
-      <td style="width: 125px; text-align: center;">chlor<span style="color: #000000;">ate</span> ion
-      </td>
-      <td style="width: 100px; text-align: center;">HClO<sub>3</sub>
-      </td>
-      <td style="width: 200px; text-align: center;">chlo<span style="color: #ff00ff;">ric</span> acid
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">ClO<sub>2</sub><sup>− </sup>
-      </td>
-      <td style="width: 125px; text-align: center;">chlor<span style="color: #000000;">ite</span> ion
-      </td>
-      <td style="width: 100px; text-align: center;"><span style="color: #000000;">HClO<sub>2</sub></span>
-      </td>
-      <td style="width: 200px; text-align: center;">chlor<span style="color: #ff00ff;">ous</span><span style="color: #000000;"> acid</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">ClO<sup>− </sup>
-      </td>
-      <td style="width: 125px; text-align: center;"><span style="color: #008000;">hypo</span>chlor<span style="color: #000000;">ite</span> ion
-      </td>
-      <td style="width: 100px; text-align: center;"><span style="color: #000000;">HClO</span>
-      </td>
-      <td style="width: 200px; text-align: center;"><span style="color: #008000;">hypo</span>chlor<span style="color: #ff00ff;">ous</span><span style="color: #000000;"> acid</span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+| Oxyanion | Name | Oxyacid | Name |
+| :--- | :--- | :--- | :--- |
+| ClO$$_4^{-}$$ | perchlorate ion | HClO$$_4$$ | perchloric acid |
+| ClO$$_3^{-}$$ | chlorate ion | HClO$$_3$$ | chloric acid |
+| ClO$$_2^{-}$$ | chlorite ion | HClO$$_2$$ | chlorous acid |
+| ClO$$^{-}$$ | hypochlorite ion | HClO | hypochlorous acid |
+
+
 ### 5. Binary Molecular Compounds
 
 [ciscode|rev=1|tool=elmsmedia|item=3214|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
@@ -384,30 +164,12 @@ Compounds containing two elements are named by listing both elements, usually st
 
 
 **Examples:**
-<table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
-  <tbody>
-    <tr>
-      <td style="width: 85px; text-align: center;">Cl<sub>2</sub>O
-      </td>
-      <td style="width: 125px; text-align: center;"><span style="color: #0000ff;">di</span>chlorine <span style="color: #0000ff;">mono</span>xide
-      </td>
-      <td style="width: 100px; text-align: center;">NF<sub>3</sub>
-      </td>
-      <td style="width: 200px; text-align: center;">nitrogen <span style="color: #0000ff;">tri</span>fluoride
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 85px; text-align: center;">PF<sub>5</sub>
-      </td>
-      <td style="width: 125px; text-align: center;">phosphorus <span style="color: #0000ff;">penta</span>fluoride
-      </td>
-      <td style="width: 100px; text-align: center;">N<sub>2</sub>O<sub>4</sub>
-      </td>
-      <td style="width: 200px; text-align: center;"><span style="color: #0000ff;">di</span>nitrogen <span style="color: #0000ff;">tetr</span><span style="color: #000000;">oxide </span>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+| Compound | Name | Compound | Name |
+| :--- | :--- | :--- | :--- |
+| Cl$$_2$$O | dichlorine monoxide | NF$$_3$$ | nitrogen trifluoride |
+| PF$$_5$$ | phosphorous pentafluoride | Cl$$_2$$O$$_4$$ | dinitrogen tetroxide |
+
 
 
 **[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269543 "Nomenclature Part A") to try out the Part A quiz for this section.**
