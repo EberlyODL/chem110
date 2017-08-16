@@ -76,7 +76,7 @@ $$10^2\div10^{-6}\:=$$
 
 Since we're dividing two exponent numbers with the same base, the answer will have the same base (10), and the exponent will simply be the difference between the two exponents:
 
-$$10^2\div10^{-6}\:=10^{-8}$$
+$$10^2\div10^{-6}\:=10^{8}$$
 
 
 If you're asked to express this as a decimal number, it would equal 0.00000001 (with 7 zeroes).
