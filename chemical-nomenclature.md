@@ -6,7 +6,7 @@ The rules for naming ions, ionic compounds, and inorganic molecular compounds ar
 
 a) Cations formed from metal atoms have the same name as the metal.  This is common for metals in groups 1 and 2 on the periodic table (as well as aluminum, zinc, and silver).
 
-**Examples: **
+**Examples:**
 
 | Metal | Name | Metal Ion | Name |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ c) Cations formed from nonmetals have names ending in _-ium_.
 
 a) Monoatomic anions are formed by replacing the ending of the name of the element with _-ide_. 
 
-**Examples: **
+**Examples:**
 
 | Nonmetal | Name | Ion | Name |
 | :--- | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ A few simple polyatomic ions also have _-ide_ ending.
 
 b) Oxyanions (polyatomic ions containing oxygen) have endings _-ate _(used for the most common ion of an element) or _-ite_ (used for the ion with the same charge but one less oxygen atom). Prefixes (_per-_ and _hypo-_) are used for oxyanions with more members in the series.
 
-**Examples: **
+**Examples:**
 
 | Oxyanion | Name | Oxyanion | Name |
 | :--- | :--- | :--- | :--- |
@@ -78,7 +78,7 @@ b) Oxyanions (polyatomic ions containing oxygen) have endings _-ate _(used for t
 
 c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen_ (or _dihydrogen-_ etc.) as a prefix.
 
-**Examples: **
+**Examples:**
 
 | Oxyanion | Name | Oxyanion | Name |
 | :--- | :--- | :--- | :--- |
@@ -145,8 +145,7 @@ b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the na
 <div style="float:none;max-width:575px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3203|entity_type=node|render=display_mode|display_mode=image]</div>
 
-
-**Examples: **
+**Examples:**
 
 | Oxyanion | Name | Oxyacid | Name |
 | :--- | :--- | :--- | :--- |
