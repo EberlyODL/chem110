@@ -17,7 +17,15 @@ a) Cations formed from metal atoms have the same name as the metal.  This is com
 
 b) For metals that form cations of differing charges, the positive charge is given by a roman numeral in parentheses.  This will be the case for transition metals and a few metals in the main group (i.e. lead and tin).
 
-**Examples: **
+**Examples:**
+
+| Metal | Name | Metal Ion | Name |
+| :--- | :--- | :--- | :--- |
+| K | potassium | K$$^+$$ | potassium ion |
+| Mg | magnesium | Mg$$^{2+}$$ | magnesium ion |
+| Al | Aluminum | Al$$^{3+}$$ | aluminum ion |
+
+
 
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto;" width="500">
   <tbody>
