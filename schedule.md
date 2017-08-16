@@ -1,15 +1,15 @@
 | **Week** | **Date** | **Topic/Assessments** | **Readings**\([eBook](https://genchem.science.psu.edu/offering/18/news-and-updates)\) |
 | :--- | :--- | :--- | :--- |
 | 1 | 08/21-08/27 | Course Overview, Introduction to atomic structure, The mole, ions & molecules, Introduction to energy | 01.1-01.5 |
-| 2 | 08/28-09/03 | Light and Spectroscopy, Line Spectra & Bohr Model, Quantum numbers and orbitals**Skills Check Due by 11:59 pm 09/03** | 01.6, 02.01-02.05 |
-| 3 | 09/04-09/10 | Electron configurationPeriodic properties | Chapter 03Chapter 04 |
-|  | **09/13-09/16** | **EXAM 1 \(Ch. 1-4\)**\(schedule your 50-minute exam with Examity\) |  |
-| 4 | 09/11-09/16 | Intro to MoleculesMolecular formulas and % composition | 05-105-2 |
-| 5 | 09/18-09/24 | Ionic compoundsCovalent Compounds & Bond polarityLewis Structures & Formal charge | 06-1, 6-2, 6-306-4, 06-5, 06-6; 07-1, 207-3 |
-| 6 | 09/25-10/01 | ResonanceExceptions to the octet ruleElectron domain geometry | 07-407-508-1, 08-2 |
-| 7 | 10/02-10/06 | Molecular geometry& PolarityHybridizationPi bonding | 08-3, 08-409-1, 09-209-3 |
-|  | **10/11-10/14** | **EXAM 2 \(Ch. 5-9\)**\(schedule your 50-minute exam with Examity\) |  |
-| 8 | 10/09-10/15 | Organic MoleculesFunctional Groups & IM Forces | 10-1, 10-210-3, 11-1, 11-2, 11-3, 11-4 |
+| 2 | 08/28-09/03 | Light and Spectroscopy, Line Spectra & Bohr Model, Quantum numbers and orbitals<div>**Skills Check Due by 11:59 pm 09/03** | 01.6, 02.01-02.05 |
+| 3 | 09/04-09/10 | Electron configuration<div>Periodic properties | Chapter 03<div>Chapter 04 |
+|  | **09/13-09/16** | **EXAM 1 \(Ch. 1-4\)**<div>\(schedule your 50-minute exam with Examity\) |  |
+| 4 | 09/11-09/16 | Intro to Molecules<div>Molecular formulas and % composition | 05-1<div>05-2 |
+| 5 | 09/18-09/24 | Ionic compounds<div>Covalent Compounds & Bond polarity<div>Lewis Structures & Formal charge | 06-1, 6-2, 6-3<div>06-4, 06-5, 06-6; 07-1, 2<div>07-3 |
+| 6 | 09/25-10/01 | Resonance<div>Exceptions to the octet rule<div>Electron domain geometry | 07-4<div>07-5<div>08-1, 08-2 |
+| 7 | 10/02-10/06 | Molecular geometry & Polarity<div>Hybridization<div>Pi bonding | 08-3, 08-4<div>09-1, 09-2<div>09-3 |
+|  | **10/11-10/14** | **EXAM 2 \(Ch. 5-9\)**<div>\(schedule your 50-minute exam with Examity\) |  |
+| 8 | 10/09-10/15 | Organic Molecules<div>Functional Groups & IM Forces | 10-1, 10-2<div>10-3, 11-1, 11-2, 11-3, 11-4 |
 | 9 | 10/16-10/22 | IM Forces & Phase ChangesHeating CurvesVapor Pressure, Phase diagrams, Liquid Properties | 11-5, 13-113-213-3, 13-4, 13-5 |
 | 10 | 10/23-10/29 | Solution ProcessElectrolytesSolubility \(of solids and liquids\) | 14-114-214-4 |
 |  |  | **EXAM 3 \(Ch. 10, 11, 13, 14-1, 14-2, 14-4\)**\(schedule your 50-minute exam with Examity\) |  |
