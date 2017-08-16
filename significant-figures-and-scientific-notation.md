@@ -1,4 +1,4 @@
-### Scientific Notation
+## Scientific Notation
 
 [ciscode|rev=1|tool=elmsmedia|item=3215|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -26,7 +26,7 @@ We should also be able to go from scientific notation back to the "full" number.
 
  
 
-### Significant Figures
+## Significant Figures
 
 [ciscode|rev=1|tool=elmsmedia|item=3216|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -54,7 +54,7 @@ Significant figures, otherwise known as sig figs, are the meaningful digits in a
 
 
 
-### Math With Significant Figures
+## Math With Significant Figures
 
 [ciscode|rev=1|tool=elmsmedia|item=3206|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 

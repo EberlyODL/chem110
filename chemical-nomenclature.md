@@ -2,7 +2,7 @@
 
 The rules for naming ions, ionic compounds, and inorganic molecular compounds are summarized below:
 
-### 1. Positive ions (cations)
+## 1. Positive ions (cations)
 
 a) Cations formed from metal atoms have the same name as the metal.  This is common for metals in groups 1 and 2 on the periodic table (as well as aluminum, zinc, and silver).
 
@@ -38,7 +38,7 @@ c) Cations formed from nonmetals have names ending in _-ium_.
 
 
 
-### 2. Negative ions (anions)
+## 2. Negative ions (anions)
 
 a) Monoatomic anions are formed by replacing the ending of the name of the element with _-ide_. 
 
@@ -85,7 +85,7 @@ c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen
 | CO$$_3^{2-}$$ | carbonate ion | HCO$$_3^-$$ | hydrogen carbonate ion (bicarbonate ion) |
 | PO$$_4^{3-}$$ | phosphate ion | H$$_2$$PO$$_4^{-}$$ | dihydrogen phosphate ion |
 
-### 3. Writing Chemical Names from Formulas
+## 3. Writing Chemical Names from Formulas
 
 [ciscode|rev=1|tool=elmsmedia|item=3211|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -93,7 +93,7 @@ Now that we can identify metal ions, let's first look at how we can write a name
 
 
 
-### 4. Ionic compounds
+## 4. Ionic compounds
 
 [ciscode|rev=1|tool=elmsmedia|item=3212|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -119,7 +119,7 @@ Transition metals and a handful of main group metals have several possible charg
 
 
 
-### 5. Acids
+## 5. Acids
 
 [ciscode|rev=1|tool=elmsmedia|item=3213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -156,7 +156,7 @@ b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the na
 | ClO$$^{-}$$ | hypochlorite ion | HClO | hypochlorous acid |
 
 
-### 6. Binary Molecular Compounds
+## 6. Binary Molecular Compounds
 
 [ciscode|rev=1|tool=elmsmedia|item=3214|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
