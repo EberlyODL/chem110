@@ -1,4 +1,4 @@
-# Metric Units
+# Metric Conversions
 
 In science all measured quantities consist of a number and a unit. We will use metric \(SI\) units in CHEM 110, and you'll need to be comfortable converting from one metric unit to another. You will not need to know any conversions involving U.S. customary units \(e.g., inches, pounds, etc.\) for this course. That said, you must be able to fluently convert from one metric unit to another; conversion tables will not be given on exams.
 
@@ -45,6 +45,6 @@ There is one other unusual unit that you'll see from time to time in CHEM 110, t
 
 [ciscode|rev=1|tool=elmsmedia|item=3210|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
-**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269545 "Metric Units Part A") to try out the Part A quiz for this section.**
+**[Click here](https://psu.instructure.com/courses/1866869/assignments/9446807 "Metric Units Part A") to try out the Part A quiz for this section.**
 
-**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269538 "Metric Units Part B")!**
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446797 "Metric Units Part B")!**

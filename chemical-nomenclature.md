@@ -6,7 +6,7 @@ The rules for naming ions, ionic compounds, and inorganic molecular compounds ar
 
 a) Cations formed from metal atoms have the same name as the metal.  This is common for metals in groups 1 and 2 on the periodic table (as well as aluminum, zinc, and silver).
 
-**Examples: **
+**Examples:**
 
 | Metal | Name | Metal Ion | Name |
 | :--- | :--- | :--- | :--- |
@@ -42,7 +42,7 @@ c) Cations formed from nonmetals have names ending in _-ium_.
 
 a) Monoatomic anions are formed by replacing the ending of the name of the element with _-ide_. 
 
-**Examples: **
+**Examples:**
 
 | Nonmetal | Name | Ion | Name |
 | :--- | :--- | :--- | :--- |
@@ -67,7 +67,7 @@ A few simple polyatomic ions also have _-ide_ ending.
 
 b) Oxyanions (polyatomic ions containing oxygen) have endings _-ate _(used for the most common ion of an element) or _-ite_ (used for the ion with the same charge but one less oxygen atom). Prefixes (_per-_ and _hypo-_) are used for oxyanions with more members in the series.
 
-**Examples: **
+**Examples:**
 
 | Oxyanion | Name | Oxyanion | Name |
 | :--- | :--- | :--- | :--- |
@@ -78,7 +78,7 @@ b) Oxyanions (polyatomic ions containing oxygen) have endings _-ate _(used for t
 
 c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen_ (or _dihydrogen-_ etc.) as a prefix.
 
-**Examples: **
+**Examples:**
 
 | Oxyanion | Name | Oxyanion | Name |
 | :--- | :--- | :--- | :--- |
@@ -91,7 +91,7 @@ c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen
 
 Now that we can identify metal ions, let's first look at how we can write a name from a given chemical formula.   Check out the video on the right.
 
-
+<div>
 
 ## 4. Ionic compounds
 
@@ -99,7 +99,7 @@ Now that we can identify metal ions, let's first look at how we can write a name
 
 Metals in groups 1, 2, and 3 on the periodic table form only one type of ion.  The names of of ionic compounds containing one of these metals will take the following form:
 
-<div style="float:none;max-width:600px;margin:auto">
+<div style="overflow:hidden;float:none;max-width:600px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=2925|entity_type=node|render=display_mode|display_mode=image]</div>
 
 Transition metals and a handful of main group metals have several possible charge states.  The names of of ionic compounds containing a metal with multiple oxidation states take the following form:
@@ -125,7 +125,7 @@ Transition metals and a handful of main group metals have several possible charg
 
 a) Acids based on anions ending with _-ide_ have _hydro-_ prefix and _-ic_ ending.
 
-<div style="float:none;max-width:400px;margin:auto">
+<div style="overflow:hidden;float:none;max-width:400px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3201|entity_type=node|render=display_mode|display_mode=image]</div>
 
 
@@ -145,8 +145,7 @@ b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the na
 <div style="float:none;max-width:575px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3203|entity_type=node|render=display_mode|display_mode=image]</div>
 
-
-**Examples: **
+**Examples:**
 
 | Oxyanion | Name | Oxyacid | Name |
 | :--- | :--- | :--- | :--- |
@@ -162,7 +161,7 @@ b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the na
 
 Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the _-ide_ ending. Greek prefixes are used to indicate the number of atoms. (Note: The "mono-" prefix is typically omitted from the beginning of the name.)
 
-<div style="float:none;max-width:800px;margin:auto">
+<div style="overflow:hidden;float:none;max-width:800px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3200|entity_type=node|render=display_mode|display_mode=image]</div>
 
 
@@ -175,6 +174,6 @@ Compounds containing two elements are named by listing both elements, usually st
 
 
 
-**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269543 "Nomenclature Part A") to try out the Part A quiz for this section.**
+**[Click here](https://psu.instructure.com/courses/1866869/assignments/9446801 "Nomenclature Part A") to try out the Part A quiz for this section.**
 
-**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269539 "Nomenclature Part B")!**
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446798 "Nomenclature Part B")!**
