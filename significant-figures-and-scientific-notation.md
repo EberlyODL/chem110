@@ -38,23 +38,23 @@ Significant figures, otherwise known as sig figs, are the meaningful digits in a
 2) Interior zeroes (zeroes between two nonzero digits) are always significant.
 3) Leading/trailing zeroes: Imagine placing the number of interest inside a map of the United States as shown below.
 
-<div style="float:none;max-width:800px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3217|entity_type=node|render=display_mode|display_mode=image]
+<div style="float:none;max-width:700px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3217|entity_type=node|render=display_mode|display_mode=image]
 </div>
 
 (a) If a decimal point is present in the number (e.g. 0.00320), begin drawing an arrow from the side of the US with the Pacific Ocean, striking through all zeroes until you reach a nonzero number. The remaining numbers (no matter if they are zero or nonzero) are always significant.
 
-<div style="float:none;max-width:800px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3218|entity_type=node|render=display_mode|display_mode=image]
+<div style="float:none;max-width:700px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3218|entity_type=node|render=display_mode|display_mode=image]
 </div>
 
 
 (b) If a decimal point is absent in the number (e.g. 3200), begin drawing an arrow from the side of the US with the Atlantic Ocean, striking through all zeroes until you reach a nonzero number. The remaining numbers are significant.
 
-<div style="float:none;max-width:800px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3219|entity_type=node|render=display_mode|display_mode=image]
+<div style="float:none;max-width:700px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3219|entity_type=node|render=display_mode|display_mode=image]
 </div>
 
 
 
-**Math With Significant Figures**
+### Math With Significant Figures
 
 [ciscode|rev=1|tool=elmsmedia|item=3206|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
