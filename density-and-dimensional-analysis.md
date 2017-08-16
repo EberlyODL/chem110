@@ -41,9 +41,10 @@ $$Time\:in\:minute\:=\left(58.5\:kJ\right)\left(\frac{1000\:J}{1\:kJ}\right)\lef
 
 ### Video Examples
 
-[video 1]
+[ciscode|rev=1|tool=elmsmedia|item=3208|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
-[video 2]
+
+[ciscode|rev=1|tool=elmsmedia|item=3209|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 
 **[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269537 "Conversions Part A") to try out the Part A quiz for this section.**
