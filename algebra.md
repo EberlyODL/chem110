@@ -3,7 +3,7 @@
 
 As we get started in CHEM 110, it's important to quickly review algebra. Many of the problems you'll encounter in CHEM 110 will require you to manipulate and solve algebraic expressions. Instead of providing a comprehensive review of all topics in algebra, this page will only cover a few targeted topics where students often have difficulty.
 
-### **Order of Operations**
+## Order of Operations
 
 When calculating an algebraic expression, it is important to carry out operations in the order listed below:
 
@@ -46,7 +46,7 @@ If you include parentheses around the product on bottom of the fraction, and typ
 Similarly, typing "10/5/4" will also give you the correct answer.
 
 
-**Multiplying and Dividing Exponents**
+## Multiplying and Dividing Exponents
 
 When multiplying two exponents together, you can add the exponents together provided both numbers have the same base. Generically, this looks like this (where "n" is any number or variable):
 
@@ -81,7 +81,7 @@ $$10^2\div10^{-6}\:=10^{8}$$
 
 If you're asked to express this as a decimal number, it would equal 0.00000001 (with 7 zeroes).
 
-### Solving Systems of Equations  
+## Solving Systems of Equations  
 
 
 Whenever you have a single equation that contains two or variables, it's impossible to solve for the value of a single variable. To do that, you must have a second equation that contains additional information about one or more of the variables found in the original equation. We call this collection of equations a system of equations. One way of solving systems of equations is by using a substitution strategy in which you solve one equation for a particular variable and substitute your result in place of that same variable in the second equation.
@@ -124,7 +124,7 @@ x = -7 + 2 + 2 = -3
 
 Now I know the values of both x and y; x = -3 and y = -7
 
-### Video Examples
+## Video Examples
 
 [ciscode|rev=1|tool=elmsmedia|item=3207|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 

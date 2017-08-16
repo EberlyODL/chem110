@@ -2,7 +2,7 @@
 
 In science all measured quantities consist of a number and a unit. We will use metric \(SI\) units in CHEM 110, and you'll need to be comfortable converting from one metric unit to another. You will not need to know any conversions involving U.S. customary units \(e.g., inches, pounds, etc.\) for this course. That said, you must be able to fluently convert from one metric unit to another; conversion tables will not be given on exams.
 
-### SI Base Units
+## SI Base Units
 
 The metric system is founded on a handful of base units \(as shown in Table 1\) from which all other units are derived. You'll see these units daily in CHEM 110, so it's important to be comfortable recognizing their symbols and understanding what they measure.
 
@@ -19,7 +19,7 @@ There are two other SI base units that we won't use in this course that are not 
 
 
 
-### Important Prefixes
+## Important Prefixes
 
 Scientific measurements are made across many orders of magnitude and range from infinitesimally small to extraordinarily large. To make these small and large numbers more approachable, scientists use a number of prefixes to modify SI units, making the units themselves larger or smaller. The prefixes that you'll need to know for CHEM 110 are listed below in Table 2.
 
@@ -41,7 +41,7 @@ Table 2 also includes thee prefixes with which you're probably less familiar. Me
 
 There is one other unusual unit that you'll see from time to time in CHEM 110, the angstrom \(abbreviated Å\). One angstrom is equal to one ten-billionth $$(10^{-10})$$ of a meter. In other words, there are ten billion angstroms in a single meter. The angstrom is an exceptionally small unit that is useful for describing distances on the atomic scale.
 
-### Video Examples
+## Video Examples
 
 [ciscode|rev=1|tool=elmsmedia|item=3210|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
