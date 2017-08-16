@@ -6,41 +6,15 @@
 a) Cations formed from metal atoms have the same name as the metal.  This is common for metals in groups 1 and 2 on the periodic table (as well as aluminum, zinc, and silver).
 
 **Examples: **
-<table border="2" style="height: 105px; margin-left: auto; margin-right: auto;" width="500">
-  <tbody>
-    <tr>
-      <td style="width: 100px; text-align: center;">K
-      </td>
-      <td style="width: 100px; text-align: center;">potassium
-      </td>
-      <td style="width: 100px; text-align: center;">K<sup>+</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">potassium ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 100px; text-align: center;">Mg
-      </td>
-      <td style="width: 100px; text-align: center;">magnesium
-      </td>
-      <td style="width: 100px; text-align: center;">Mg<sup>2+</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">magnesium ion
-      </td>
-    </tr>
-    <tr>
-      <td style="width: 100px; text-align: center;">Al
-      </td>
-      <td style="width: 100px; text-align: center;">aluminum
-      </td>
-      <td style="width: 100px; text-align: center;">Al<sup>3+</sup>
-      </td>
-      <td style="width: 150px; text-align: center;">aluminum ion
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p>b) For metals that form cations of differing charges, the positive charge is given by a roman numeral in parentheses.  This will be the case for transition metals and a few metals in the main group (i.e. lead and tin).
+
+| Metal | Name | Metal Ion | Name |
+| :--- | :--- | :--- | :--- |
+| K | potassium | K$$^+$$ | potassium ion |
+| Mg | magnesium | Mg$$^{2+}$$ | magnesium ion |
+| Al | Aluminum | Al$$^{3+}$$ | aluminum ion |
+
+
+b) For metals that form cations of differing charges, the positive charge is given by a roman numeral in parentheses.  This will be the case for transition metals and a few metals in the main group (i.e. lead and tin).
 
 **Examples: **
 
