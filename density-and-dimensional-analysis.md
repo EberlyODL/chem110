@@ -10,11 +10,11 @@ Density is a useful intensive property of a substance, and it is defined as the 
 
 $$density=\frac{mass}{volume}$$
 
-Mass is usually described in killograms (kg) or grams (g), and volume is usually in liters (L) or milliliters (mL).&nbsp; So density has a unit of either killograms per liter (kg/L) or grams per milliter (g/mL or g/cm$$^3$$). Since the volume of a liquid usually changes with temperature, chemists generally specify the density at a particular temperature. For example, the density of water is 1.00 g/mL at 10 $$^{\circ}$$C, while it is only 0.958 g/mL at 100 $$^{\circ}$$C.
+Mass is usually described in killograms (kg) or grams (g), and volume is usually in liters (L) or milliliters (mL). So density has a unit of either killograms per liter (kg/L) or grams per milliter (g/mL or g/cm$$^3$$). Since the volume of a liquid usually changes with temperature, chemists generally specify the density at a particular temperature. For example, the density of water is 1.00 g/mL at 10 $$^{\circ}$$C, while it is only 0.958 g/mL at 100 $$^{\circ}$$C.
 
 Suppose we want to know the mass, in grams, of 25.0 mL of olive oil, which has a density of 0.911 g/mL at 25 $$^{\circ}$$C. The density gives us the conversion factor:
 
-$$\frac{0.911\:g}{1\:mL}\:\:\:and\:\:\:\frac{1\:mL}{0.911\:g}$$
+$$\frac{0.911\:g}{1\:mL}$$ and $$\frac{1\:mL}{0.911\:g}$$
 
 Because we want a mass in grams, we use the first conversion factor, which has mass in grams in the numerator. We can now solve the problem as:
 
