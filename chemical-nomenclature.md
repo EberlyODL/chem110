@@ -5,6 +5,7 @@
 
 a) Cations formed from metal atoms have the same name as the metal.  This is common for metals in groups 1 and 2 on the periodic table (as well as aluminum, zinc, and silver).
 
+**Examples: **
 <table border="2" style="height: 105px; margin-left: auto; margin-right: auto;" width="500">
   <tbody>
     <tr>
@@ -40,7 +41,9 @@ a) Cations formed from metal atoms have the same name as the metal.  This is com
   </tbody>
 </table>
 <p>b) For metals that form cations of differing charges, the positive charge is given by a roman numeral in parentheses.  This will be the case for transition metals and a few metals in the main group (i.e. lead and tin).
-</p>
+
+**Examples: **
+
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto;" width="500">
   <tbody>
     <tr>
@@ -66,7 +69,9 @@ a) Cations formed from metal atoms have the same name as the metal.  This is com
   </tbody>
 </table>
 <p>c) Cations formed from nonmetals have names ending in <i>-ium.</i>
-</p>
+
+**Examples: **
+
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto;" width="500">
   <tbody>
     <tr>
@@ -94,7 +99,9 @@ a) Cations formed from metal atoms have the same name as the metal.  This is com
 ### 2. Negative ions (anions)
 </p>
 <p>a) Monoatomic anions are formed by replacing the ending of the name of the element with <i>-ide. </i>A few simple polyatomic ions also have -ide ending.<i> </i>
-</p>
+
+**Examples: **
+
 <table border="2" style="height: 185px; margin-left: auto; margin-right: auto; width: 500px;">
   <tbody>
     <tr>
@@ -140,7 +147,9 @@ a) Cations formed from metal atoms have the same name as the metal.  This is com
   </tbody>
 </table>
 <p>b) Oxyanions (polyatomic ions containing oxygen) have endings <i>-ate</i> (used for the most common ion of an element) or <i>-ite</i> (used for the ion with the same charge but one less oxygen atom). Prefixes (<i>per-</i> and <i>hypo-</i>) are used for oxyanions with more members in the series.
-</p>
+
+**Examples: **
+
 <table border="2" style="height: 185px; margin-left: auto; margin-right: auto; width: 500px;">
   <tbody>
     <tr>
@@ -302,6 +311,7 @@ Transition metals and a handful of main group metals have several possible charg
 [ciscode|rev=1|tool=elmsmedia|item=3201|entity_type=node|render=display_mode|display_mode=image]</div>
 
 
+**Examples: **
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
   <tbody>
     <tr>
@@ -335,6 +345,7 @@ Transition metals and a handful of main group metals have several possible charg
 [ciscode|rev=1|tool=elmsmedia|item=3203|entity_type=node|render=display_mode|display_mode=image]</div>
 
 
+**Examples: **
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
   <tbody>
     <tr>
