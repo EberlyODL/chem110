@@ -390,13 +390,6 @@ Compounds containing two elements are named by listing both elements, usually st
     </tr>
   </tbody>
 </table>
-### Video Examples
-
-[Writing Formulas]
-
-[Iionic naming]
-
-[Covalent Naming]
 
 
 **[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269543 "Nomenclature Part A") to try out the Part A quiz for this section.**
