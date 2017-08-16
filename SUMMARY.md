@@ -15,4 +15,4 @@
   * [Significant Figures and Scientific Notation](significant-figures-and-scientific-notation.md)
   * [Density and Dimensional Analysis](density-and-dimensional-analysis.md)
   * [Naming Chemical Compounds](chemical-nomenclature.md)
-* [End of Book](README.md)
+* [End of Book](end-of-book.md)
