@@ -1,18 +1,20 @@
 # Teaching Staff
 
-### Instructor
+## Instructor
 **Dr. Joseph Houck**
 
 jdh68@psu.edu
 
-### Teaching Assistant
+## Teaching Assistant
 
 **Zachary Rhoden**
 
 zcr5008@psu.edu
 
 
-### Learning Assistants
+## Learning Assistants
+
+Coming soon!
 
 
 
