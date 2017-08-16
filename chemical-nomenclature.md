@@ -1,5 +1,6 @@
 # Naming Chemical Compounds
-<p>The rules for naming ions, ionic compounds, and inorganic molecular compounds are summarized below:
+
+The rules for naming ions, ionic compounds, and inorganic molecular compounds are summarized below:
 
 ### 1. Positive ions (cations)
 
