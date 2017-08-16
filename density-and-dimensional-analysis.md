@@ -18,7 +18,7 @@ $$\frac{0.911\:g}{1\:mL}$$ and $$\frac{1\:mL}{0.911\:g}$$
 
 Because we want a mass in grams, we use the first conversion factor, which has mass in grams in the numerator. We can now solve the problem as:
 
-$$mass=(25.0mL)(\frac{0.911 g}{1 mL})=22.8g$$
+mass=$$(25.0mL)(\frac{0.911 g}{1 mL})=22.8g$$
 
 
 ### Tracking Units in Problem Solving
@@ -33,7 +33,7 @@ Solution: Let's start by analyzing the problem:
 
 2) We have the following conversion factors either given or commonly known:
 
-$$\frac{1000\:J}{1\:kJ}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{850\:J}{1\:sec}\:\:\:\:\:\:\:\:\:\:\:\:\:\frac{1\:min}{60\:sec}$$
+$$\frac{1000\:J}{1\:kJ}, \frac{850\:J}{1\:sec}, \frac{1\:min}{60\:sec}$$
 
 3) Thus converting from kJ to min, we have:
 
