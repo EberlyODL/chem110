@@ -37,7 +37,7 @@ $$\frac{1000\:J}{1\:kJ}, \frac{850\:J}{1\:sec}, \frac{1\:min}{60\:sec}$$
 
 3) Thus converting from kJ to min, we have:
 
-$$Time\:in\:minute\:=\left(58.5\:kJ\right)\left(\frac{1000\:J}{1\:kJ}\right)\left(\frac{1\:sec}{850\:J}\right)\left(\frac{1\:min}{60\:sec}\right)=1.15\:min$$
+Time in minutes =$$(58.5 kJ)(\frac{1000 J}{1 kJ})\frac{1 sec}{850J})(\frac{1 min}{60 sec})$$=1.15 min
 
 ### Video Examples
 
