@@ -1,5 +1,7 @@
 ### Scientific Notation
 
+[ciscode|rev=1|tool=elmsmedia|item=3215|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
 Scientific notation is a way of expressing _really_ big or _really_ small numbers in a more convenient manner.  
 
 Scientific notation takes the form of N x 10n.  N is a number between 1 and 10 and n is an integer value.  The exponent, n, will be negative if the number we are expressing is less than 1 and positive if it is greater than 1.
@@ -26,6 +28,8 @@ We should also be able to go from scientific notation back to the "full" number.
 
 ### Significant Figures
 
+[ciscode|rev=1|tool=elmsmedia|item=3216|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
 Significant figures, otherwise known as sig figs, are the meaningful digits in a measurement or calculation.  The number of significant figures in a number is determined by how the number was measured or calculated.  Ultimately, the number of sig figs in your measurement or calculated result is indicative of the precision.  
 
 **Significant Figure Rules**
@@ -34,15 +38,21 @@ Significant figures, otherwise known as sig figs, are the meaningful digits in a
 2) Interior zeroes (zeroes between two nonzero digits) are always significant.
 3) Leading/trailing zeroes: Imagine placing the number of interest inside a map of the United States as shown below.
 
-sigfigs1.png 
+<div style="float:none;max-width:800px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3217|entity_type=node|render=display_mode|display_mode=image]
+</div>
 
 (a) If a decimal point is present in the number (e.g. 0.00320), begin drawing an arrow from the side of the US with the Pacific Ocean, striking through all zeroes until you reach a nonzero number. The remaining numbers (no matter if they are zero or nonzero) are always significant.
 
-sigfigs2.png 
+<div style="float:none;max-width:800px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3218|entity_type=node|render=display_mode|display_mode=image]
+</div>
+
 
 (b) If a decimal point is absent in the number (e.g. 3200), begin drawing an arrow from the side of the US with the Atlantic Ocean, striking through all zeroes until you reach a nonzero number. The remaining numbers are significant.
 
-sigfigs3.png
+<div style="float:none;max-width:800px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3219|entity_type=node|render=display_mode|display_mode=image]
+</div>
+
+
 
 **Math With Significant Figures**
 
