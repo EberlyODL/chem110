@@ -2,9 +2,9 @@
 <p>The rules for naming ions, ionic compounds, and inorganic molecular compounds are summarized below:
 
 ### 1. Positive ions (cations)
-</p>
-<p>a) Cations formed from metal atoms have the same name as the metal.
-</p>
+
+a) Cations formed from metal atoms have the same name as the metal.
+
 <table border="2" style="height: 105px; margin-left: auto; margin-right: auto;" width="500">
   <tbody>
     <tr>
@@ -211,8 +211,15 @@
     </tr>
   </tbody>
 </table>
+
+[ciscode|rev=1|tool=elmsmedia|item=3211|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
+Before we dive into the naming rules, let's first look at how we can write a name from a given chemical formula.   
+
 ### 3. Ionic compounds
-</p>
+
+[ciscode|rev=1|tool=elmsmedia|item=3212|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
 <p>The names of ionic compounds are composed of the cation name followed by the anion name.
 </p>
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 800px;">
@@ -276,7 +283,9 @@
   </tbody>
 </table>
 ### 4. Acids
-</p>
+
+[ciscode|rev=1|tool=elmsmedia|item=3213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
 <p>a) Acids based on anions ending with <i>-ide </i>have <i>hydro-</i> prefix and <i>-ic</i> ending.
 </p>
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
@@ -349,10 +358,12 @@
     </tr>
   </tbody>
 </table>
-### 5. Binary Compounds
-</p>
-<p>Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the<i> -ide</i> ending. Greek prefixes are used to indicate the number of atoms. The "mono-" prefix is typically omitted from the beginning of the name.
-</p>
+### 5. Binary Molecular Compounds
+
+[ciscode|rev=1|tool=elmsmedia|item=3214|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
+Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the<i> -ide</i> ending. Greek prefixes are used to indicate the number of atoms. The "mono-" prefix is typically omitted from the beginning of the name.
+
 
 **Examples:**
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
