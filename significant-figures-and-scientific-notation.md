@@ -61,6 +61,6 @@ Significant figures, otherwise known as sig figs, are the meaningful digits in a
 
 
 
-**[Click here](https://psu.instructure.com/courses/1881362/quizzes/3269544 "Sig figs Part A") to try out the Part A quiz for this section.**
+**[Click here](https://psu.instructure.com/courses/1866869/assignments/9446805 "Sig figs Part A") to try out the Part A quiz for this section.**
 
-**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1881362/quizzes/3269547 "Sig Figs Part B")!**
+**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446804 "Sig Figs Part B")!**
