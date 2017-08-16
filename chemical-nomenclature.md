@@ -85,12 +85,15 @@ c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen
 | CO$$_3^{2-}$$ | carbonate ion | HCO$$_3^-$$ | hydrogen carbonate ion (bicarbonate ion) |
 | PO$$_4^{3-}$$ | phosphate ion | H$$_2$$PO$$_4^{-}$$ | dihydrogen phosphate ion |
 
+### 3. Writing Chemical Names from Formulas
 
 [ciscode|rev=1|tool=elmsmedia|item=3211|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-Before we dive into the naming rules, let's first look at how we can write a name from a given chemical formula.   
+Now that we can identify metal ions, let's first look at how we can write a name from a given chemical formula.   Check out the video on the right.
 
-### 3. Ionic compounds
+
+
+### 4. Ionic compounds
 
 [ciscode|rev=1|tool=elmsmedia|item=3212|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -116,7 +119,7 @@ Transition metals and a handful of main group metals have several possible charg
 
 
 
-### 4. Acids
+### 5. Acids
 
 [ciscode|rev=1|tool=elmsmedia|item=3213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
@@ -153,7 +156,7 @@ b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the na
 | ClO$$^{-}$$ | hypochlorite ion | HClO | hypochlorous acid |
 
 
-### 5. Binary Molecular Compounds
+### 6. Binary Molecular Compounds
 
 [ciscode|rev=1|tool=elmsmedia|item=3214|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
