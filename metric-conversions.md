@@ -15,7 +15,7 @@ The metric system is founded on a handful of base units \(as shown in Table 1\) 
 | Time | second \(s\) |
 | Temperature | Kelvin \(K\) |
 
-There are two other SI base units that we won't use in this course that are not included in Table 1. All other metric units are derived from these base units. For example, a Joule, the SI unit of energy, is equal to one kilogram times a meter squared divided by a second squared ($$kg\times m^2/s^2$$). Similarly, a Newton, the SI unit of force, is equal to one kilogram times a meter divided by a second squared ($$kg\times m/s^2$$).
+There are two other SI base units that we won't use in this course that are not included in Table 1. All other metric units are derived from these base units. For example, a Joule, the SI unit of energy, is equal to one kilogram times a meter squared divided by a second squared $$(kg\times m^2/s^2)$$. Similarly, a Newton, the SI unit of force, is equal to one kilogram times a meter divided by a second squared $$(kg\times m/s^2)$$.
 
 
 
