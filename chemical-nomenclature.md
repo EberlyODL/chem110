@@ -3,7 +3,7 @@
 
 ### 1. Positive ions (cations)
 
-a) Cations formed from metal atoms have the same name as the metal.
+a) Cations formed from metal atoms have the same name as the metal.  This is common for metals in groups 1 and 2 on the periodic table (as well as aluminum, zinc, and silver).
 
 <table border="2" style="height: 105px; margin-left: auto; margin-right: auto;" width="500">
   <tbody>
@@ -39,7 +39,7 @@ a) Cations formed from metal atoms have the same name as the metal.
     </tr>
   </tbody>
 </table>
-<p>b) For metals that form cations of differing charges, the positive charge is given by a roman numeral in parenthesis.
+<p>b) For metals that form cations of differing charges, the positive charge is given by a roman numeral in parentheses.  This will be the case for transition metals and a few metals in the main group (i.e. lead and tin).
 </p>
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto;" width="500">
   <tbody>
@@ -186,7 +186,8 @@ a) Cations formed from metal atoms have the same name as the metal.
   </tbody>
 </table>
 <p>c) Anions derived by adding H<sup>+ </sup>to an oxyanion are named by adding <i>hydrogen-</i> (or <i>dihydrogen-</i> etc.) as a prefix.
-</p>
+
+**Examples: **
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
   <tbody>
     <tr>
@@ -220,8 +221,17 @@ Before we dive into the naming rules, let's first look at how we can write a nam
 
 [ciscode|rev=1|tool=elmsmedia|item=3212|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-<p>The names of ionic compounds are composed of the cation name followed by the anion name.
-</p>
+Metals in groups 1, 2, and 3 on the periodic table form only one type of ion.  The names of of ionic compounds containing one of these metals will take the following form:
+
+<div style="float:none;max-width:800px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=2925|entity_type=node|render=display_mode|display_mode=image]</div>
+
+Transition metals and a handful of main group metals have several possible charge states.  The names of of ionic compounds containing a metal with multiple oxidation states take the following form:
+
+<div style="float:none;max-width:800px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=2926|entity_type=node|render=display_mode|display_mode=image]</div>
+
+**Examples:**
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 800px;">
   <tbody>
     <tr>
@@ -287,7 +297,11 @@ Before we dive into the naming rules, let's first look at how we can write a nam
 [ciscode|rev=1|tool=elmsmedia|item=3213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 <p>a) Acids based on anions ending with <i>-ide </i>have <i>hydro-</i> prefix and <i>-ic</i> ending.
-</p>
+
+<div style="float:none;max-width:800px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3201|entity_type=node|render=display_mode|display_mode=image]</div>
+
+
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
   <tbody>
     <tr>
@@ -313,7 +327,14 @@ Before we dive into the naming rules, let's first look at how we can write a nam
   </tbody>
 </table>
 <p>b) If the name of an anion ends in <i>-ate</i>, the acid will end in <i>-ic</i>. If the name of an anion ends in <i>-ite</i>, the acid will end in <em>-ous</em>.
-</p>
+
+<div style="float:none;max-width:800px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3202|entity_type=node|render=display_mode|display_mode=image]</div>
+
+<div style="float:none;max-width:800px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3203|entity_type=node|render=display_mode|display_mode=image]</div>
+
+
 <table border="2" style="height: 80px; margin-left: auto; margin-right: auto; width: 550px;">
   <tbody>
     <tr>
@@ -362,7 +383,10 @@ Before we dive into the naming rules, let's first look at how we can write a nam
 
 [ciscode|rev=1|tool=elmsmedia|item=3214|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the<i> -ide</i> ending. Greek prefixes are used to indicate the number of atoms. The "mono-" prefix is typically omitted from the beginning of the name.
+Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the<i> -ide</i> ending. Greek prefixes are used to indicate the number of atoms. (Note: The "mono-" prefix is typically omitted from the beginning of the name.)
+
+<div style="float:none;max-width:800px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3200|entity_type=node|render=display_mode|display_mode=image]</div>
 
 
 **Examples:**
