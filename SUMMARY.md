@@ -56,9 +56,9 @@
   * Exam 1 Study Materials
 * [Exam 1](exam-1.md)
 * [Week 4](week-4.md)
-* Week 5
+* [Week 5](week-5.md)
   * [test](test.md)
-* Week 6
+* [Week 6](week-6.md)
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
     * video: Intro
@@ -72,15 +72,15 @@
     * Test Yourself
   * Summary
 * Exam 2
-* Week 8
+* [Week 8](week-8.md)
 * [Week 9](week-9.md)
 * [Week 10](week-10.md)
 * Exam 3
-* Week 11
-* Week 12
+* [Week 11](week-11.md)
+* [Week 12](week-12.md)
 * Exam 4
-* Week 13
+* [Week 13](week-13.md)
 * [Week 14](week-14.md)
-* Week 15
+* [Week 15](week-15.md)
 * Final Exam
 
