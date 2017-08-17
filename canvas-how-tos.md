@@ -1,6 +1,10 @@
 # Canvas How-Tos
 
+[ciscode|rev=1|tool=elmsmedia|item=3229|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
 If you are not familiar with Canvas, you may find the following resources helpful!  (Note: These videos are optional.)
+
+<div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 ## Submitting Assignments
 
