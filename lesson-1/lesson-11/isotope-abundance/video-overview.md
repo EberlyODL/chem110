@@ -1,4 +1,6 @@
-Learning Objectives: After this lesson, you should be able to…
+# Isotopes and Atomic Mass
+
+**Learning Objectives:** _After this lesson, you should be able to…_
 
 * calculate average atomic weights from isotopic weights and natural abundances
 * solve for isotope mass or abundance given average atomic weight
