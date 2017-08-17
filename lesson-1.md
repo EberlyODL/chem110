@@ -10,7 +10,11 @@ This week we will start with the very basics - the building blocks of matter.
 
 **Assignments**
 - eBook and Syllabus Scavenger Hunt
-- Guiding Question Set 1
+- Guiding Question Set 1 
 - Guiding Question Set 2
 - Guiding Question Set 3
-- HW 1 (Due 
+- HW 1 (~~Due 08/22~~ Extended to 08/27), Submit to Canvas
+
+
+
+
