@@ -1,4 +1,6 @@
-Learning Objectives: After this lesson, you should be able to…
+# State Functions
+
+**Learning Objectives:** _After this lesson, you should be able to…_
 
 * Define state function and give specific examples.
 

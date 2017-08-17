@@ -91,7 +91,7 @@ c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen
 
 Now that we can identify metal ions, let's first look at how we can write a name from a given chemical formula.   Check out the video on the right.
 
-<div>
+<div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 ## 4. Ionic compounds
 

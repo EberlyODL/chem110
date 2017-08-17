@@ -1,6 +1,6 @@
 # Electrostatic Potential Energy
 
-Learning Objectives: After this lesson, you should be able to…
+**Learning Objectives:** _After this lesson, you should be able to…_
 
 * Define electrostatic potential energy and apply Coulomb's Law to rank the overall electrostatic energy, and the strength of attraction for different interacting charges.
 

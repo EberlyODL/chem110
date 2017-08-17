@@ -1,4 +1,9 @@
-Learning Objectives: After this lesson, you should be able to…
+<div style="float:right;margin:auto"><ebook-button title="Intro to Energy" link=https://genchem.science.psu.edu/01-4-introduction-energy
+></ebook-button></div>
+
+# Introduction to Energy
+
+**Learning Objectives:** _After this lesson, you should be able to…_
 
 * explain how internal energy is stored in materials as both kinetic energy (and its relation to temperature) and (electrostatic) potential energy, and how these quantities may interconvert
 * Identify the “system” and “surroundings” in a given chemical/physical process.

@@ -7,6 +7,7 @@
   * [Assignments](assignments.md)
   * [Resources](resources.md)
   * [Schedule](schedule.md)
+  * [Canvas How-Tos](canvas-how-tos.md)
   * [Technical Issues](technical-issues.md)
 * [Skills Check](skills-check.md)
   * [Algebra](algebra.md)
