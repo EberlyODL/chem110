@@ -14,6 +14,7 @@ This week we will start with the very basics - the building blocks of matter.
 - Guiding Question Set 2
 - Guiding Question Set 3
 - HW 1 (~~Due 08/22~~ Extended to 08/27), Submit to Canvas
+- HW 2 (Due 08/29), 
 
 
 
