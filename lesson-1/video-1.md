@@ -3,7 +3,7 @@
 # The Mole
 
 
-Learning Objectives: After this lesson, you should be able to…
+**Learning Objectives:** _After this lesson, you should be able to…_
 
 * convert between molecular and macroscopic amounts of matter and energy using Avogadro’s number and the mole concept
 
