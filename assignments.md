@@ -11,7 +11,7 @@ Homework is the second level of assessment.  Weekly HW sets are due on Tuesdays 
 
 
 **Knowledge Checks**
-The final check is a Knowledge Check.  These will be due on Sundays.  These are optional, but I do offer an incentive to complete these (as explained in the "Borderline Grade" policy in the syllabus).  Here, you will be taking exam-type questions that mix in concepts and mathematical problems.
+The final check is a Knowledge Check.  These will be due on Sundays.  These are optional, but I do offer an incentive to complete these (as explained in the "Borderline Grade" policy in the [syllabus](https://media.ed.science.psu.edu/sites/media/ed/files/documents/houckwc_syllabus_fall17.pdf)).  Here, you will be taking exam-type questions that mix in concepts and mathematical problems.
 
 
 **Exams**
