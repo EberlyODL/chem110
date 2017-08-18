@@ -33,7 +33,6 @@
     * [video: Intro to Energy](lesson-1/intro-to-energy/video-energy.md)
     * [video: State Functions](lesson-1/intro-to-energy/video-state-functions.md)
     * [video: Electrostatic Potential Energy](lesson-1/intro-to-energy/video-electrostatic-potential-energy.md)
-    * [Try it!](lesson-1/intro-to-energy/try-it.md)
     * [Enthalpy](lesson-1/intro-to-energy/enthalpy.md)
   * [Weekly Recap](lesson-1/weekly-recap.md)
 * [Week 2](lesson-2.md)
