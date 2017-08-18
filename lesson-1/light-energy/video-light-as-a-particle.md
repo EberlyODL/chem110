@@ -12,3 +12,4 @@ Classical physics would predict that as the temperature of a blackbody increases
 The classical model doesn't explain the experimental data! This led Planck to propose that energy of light was instead proportional to frequency (rather than intensity).
 
 
+[ciscode|rev=1|tool=elmsmedia|item=3237|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
