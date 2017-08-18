@@ -6,8 +6,7 @@
 * Identify a chemical formula given a molecular representation
 
 
-
-Most elements don't actually exist in nature as individual atoms.  Atoms readily combine (bond) to form molecules or networks.  Some molecules and networks are pure elements (i.e. O$$_2$$, S$$_8$$, graphite).  Other molecules contain mixtures of elements and these are known as compounds.  We will discuss the details of molecular and ionic compounds in later lessons.  
+Most elements don't actually exist in nature as individual atoms.  Atoms readily combine (bond) to form molecules or networks.  Some molecules and networks are pure elements (i.e. O$$_2$$, S$$_8$$, graphite).  Other molecules contain mixtures of elements and these are known as compounds (i.e. NaCl, H$$_2$$O, NH$$_3$$, C$$_6$$H$$_{12}$$O$$_6$$).  We will discuss the details of molecular and ionic compounds in later lessons.  For now, we are just going to introduce the various ways that compounds can be represented.
 
  [Video: atoms vs molecules] 
 
