@@ -10,6 +10,6 @@ An atom's identity is determined by the number of protons in its nucleus. As an 
 The number of isotopes and their abundance for a given element varies. Like the proton, a neutron has mass, so the mass of each isotope will be different and is known as the isotopic mass. The average atomic mass that you see on the periodic table is calculated by using the abundance and isotopic mass. Since there is so much more carbon-12 than carbon-13, one would expect the mass to be much closer to 12 than 13. In fact, it is 12.01 amu.
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3234|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3246|entity_type=node|render=display_mode|display_mode=h5p]
 
 
