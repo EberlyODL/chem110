@@ -19,9 +19,9 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 ## Assignments
  
 - eBook and Syllabus Scavenger Hunt
-- Guiding Question Set 1A 
-- Guiding Question Set 1B
-- [HW 1](https://genchem.science.psu.edu/homework-1-houck), submit to Canvas
+- [Guiding Question Set 1A](https://psu.instructure.com/courses/1866869/quizzes/3269028) 
+- [Guiding Question Set 1B](https://psu.instructure.com/courses/1866869/quizzes/3269030)
+- [HW 1](https://genchem.science.psu.edu/homework-1-houck), submit to [Canvas](https://psu.instructure.com/courses/1866869/modules)
 
 ## Study Materials
 
