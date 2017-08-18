@@ -20,4 +20,4 @@ Give this calculation a try:
 Now, using the same approach, can you calculate the following?
 
 
-[VIDEO: THE MOLE]
+[ciscode|rev=1|tool=elmsmedia|item=3253|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
