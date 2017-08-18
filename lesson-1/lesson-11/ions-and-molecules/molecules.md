@@ -1,5 +1,3 @@
-<div style="float:right;margin:auto"><ebook-button title="Ions and Molecules" link="https://genchem.science.psu.edu/01-3-ions-and-molecules"></ebook-button></div>
-
 # Atoms versus Molecules
 
 **Learning Objectives:** _After this lesson, you should be able to…_
