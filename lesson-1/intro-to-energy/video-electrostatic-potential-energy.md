@@ -12,7 +12,7 @@ According to Coulomb's law, Eel depends on the magnitude of charge and the dista
 
 In this mathematical representation, you can easily see how changes in charge and distance will affect Eel. (Don't forget that as a number gets more negative, it is actually getting smaller!)
 
-[ciscode|rev=1|tool=elmsmedia|item=3238|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3244|entity_type=node|render=display_mode|display_mode=h5p]
 
 ### Try it!
 
