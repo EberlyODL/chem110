@@ -1,5 +1,5 @@
 <div style="float:right;margin:auto"><ebook-button title="Atomic Structure" link="https://genchem.science.psu.edu/01-1-atomic-structure"></ebook-button></div>
-# Structure of an atom
+# Structure of an Atom
 
 Before we dive into the content, I will explain the structure of each lesson page.  Links to the ebook readings are available in the upper right corner of most pages.  Sometimes there are multiple lessons/videos that correspond to a section of the ebook, so each time you encounter one of those buttons, you know you are starting a new topic.
 Learning objectives for each page are also noted at the top.  You should check back with the learning objectives after you have completed the lesson to be sure you can meet each one.
