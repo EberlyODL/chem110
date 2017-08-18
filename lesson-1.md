@@ -1,22 +1,38 @@
 # Week 1
 
 
-This week we will start with the very basics - the building blocks of matter.  
+Each week will begin with an overview page of what will be covered that week.  _Action items_ are tasks that need to be completed in the nearer future and reminders for things upcoming.  
+Under the _Assignments_ heading, you will find the things you need to complete over the course of the week.  Most weeks will follow a standard schedule.  Guiding Question Sets will be due by Friday at 11:59 pm.  Homework will be due by the following Tuesday.  Last, the optional Knowledge Check for the week is due by the following Sunday.  
 
-**Action Items**
+The figure below illustrates a typical weekly schedule:
+
+
+I am also including _Study Materials_ that you may wish to work through.  These will include optional problem sets that cover the week's content.  If you don't have a chance to use them each week, they are definitely something to revisit as you prepare for exams.
+ 
+
+## Action Items
 - Respond to the [When is Good](http://whenisgood.net/z7tj85x) poll indicating your availability for a weekly, one-hour recitation (problem solving session).  Ignore the dates in the poll - .
 - Introduce yourself on the "Introductions" discussion post on [Piazza](https://psu.instructure.com/courses/1866869/external_tools/195053).
-- [Introductory Homework](https://genchem.science.psu.edu/introductory-homework-houck) (Submit to Canvas by ~~8/22~~ Extended to 8/25)
-- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md) (Due 9/3)
+- [Introductory Homework](https://genchem.science.psu.edu/introductory-homework-houck) (Submit to Canvas by ~~8/22~~ Extended to 8/27)
+- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
 
-**Assignments**
+## Assignments
  
 - eBook and Syllabus Scavenger Hunt
 - Guiding Question Set 1A 
 - Guiding Question Set 1B
-- [HW 1](https://genchem.science.psu.edu/homework-1-houck), submit to Canvas by 08/29
+- [HW 1](https://genchem.science.psu.edu/homework-1-houck), submit to Canvas
+
+## Study Materials
+
+- [Problem Set: Atoms & Moles](https://media.ed.science.psu.edu/sites/media/ed/files/documents/3_problemset3_atomsmoles.pdf)
+- [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf) (Note: the last problem relates to the Bohr Model that will be learned next week!)
 
 
 
+
+
+
+This week we will start with the very basics - the building blocks of matter.  We will learn about the structure of an atom, define isotopes, and see how atoms form molecules and ions.  Because atoms, molecules, and ions are all so small, we will need a way to count them.  We will use the mole (Avogadro's number) to count "things" on the atomic scale and convert between mass and moles.  Last, we will introduce energy as this is a key concept in chemistry.  We will talk in detail about electrostatic potential energy and light energy.  You will likely notice that energy is a theme that is weaved throughout the course. 
 
 
