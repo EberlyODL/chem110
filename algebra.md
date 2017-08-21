@@ -60,26 +60,26 @@ $$\frac{n^x}{n^y}=n^{x-y}$$
 
 **_Example 1: _**
 
-$$10^2\cdot10^{-6}\:=$$
+$$10^2\cdot10^{-6}=$$
 
 Since we're multiplying two exponent numbers with the same base, the answer will have the same base (10), and the exponent will simply be the sum of the two exponents:
 
-$$10^2\cdot10^{-6}\:=10^{-4}$$
+$$10^2\cdot10^{-6}=10^{-4}$$
 
 
-If you're asked to express this as a decimal, keep in mind that the negative exponent is equivalent to saying 1/10<sup>4</sup>, or 1/1000, or simply 0.0001.
+If you're asked to express this as a decimal, keep in mind that the negative exponent is equivalent to saying 1/10<sup>4</sup>, or 1/10,000, or simply 0.0001.
 
 **_Example 2: _**
 
-$$10^2\div10^{-6}\:=$$
+$$10^2\div10^{-6}=$$
 
 
 Since we're dividing two exponent numbers with the same base, the answer will have the same base (10), and the exponent will simply be the difference between the two exponents:
 
-$$10^2\div10^{-6}\:=10^{8}$$
+$$10^2\div10^{-6}=10^{8}$$
 
 
-If you're asked to express this as a decimal number, it would equal 0.00000001 (with 7 zeroes).
+If you're asked to express this as a decimal number, it would equal 100,000,000 
 
 ## Solving Systems of Equations  
 
@@ -129,6 +129,6 @@ Now I know the values of both x and y; x = -3 and y = -7
 
 [ciscode|rev=1|tool=elmsmedia|item=3207|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
-**[Click here](https://psu.instructure.com/courses/1866869/assignments/9446800 "Algebra Part A") to try out the Part A quiz for this section.**
+#### **[Click here](https://psu.instructure.com/courses/1866869/assignments/9446800 "Algebra Part A") to try out the Part A quiz for this section.**
 
-**When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446799 "Algebra Part B")!**
+#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446799 "Algebra Part B")!**
