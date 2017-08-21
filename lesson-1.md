@@ -16,12 +16,12 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 
 - Respond to the [When is Good](http://whenisgood.net/z7tj85x) poll indicating your availability for a weekly, one-hour recitation (problem solving session).  Ignore the dates in the poll - I will schedule a recurring meeting for the semester.
 - Introduce yourself on the "Introductions" discussion post on [Piazza](https://psu.instructure.com/courses/1866869/external_tools/195053).
-- [Introductory Homework](https://genchem.science.psu.edu/introductory-homework-houck) (Submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by ~~8/22~~ Extended to 8/27)
+- [Introductory Homework](https://genchem.science.psu.edu/introductory-homework-houck) (Submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by 8/27)
 - Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
 
 ## Assignments
 
-- eBook and Syllabus Scavenger Hunt
+- [eBook and Syllabus Scavenger Hunt](https://psu.instructure.com/courses/1866869/quizzes/3302905)
 - [Guiding Question Set 1A](https://psu.instructure.com/courses/1866869/quizzes/3269028) 
 - [Guiding Question Set 1B](https://psu.instructure.com/courses/1866869/quizzes/3269030)
 - [HW 1](https://genchem.science.psu.edu/homework-1-houck), submit to [Canvas](https://psu.instructure.com/courses/1866869/modules)
