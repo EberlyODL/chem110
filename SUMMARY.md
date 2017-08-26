@@ -41,10 +41,17 @@
     * [video: Light as a Particle](lesson-1/light-energy/video-light-as-a-particle.md)
     * [Try it!](lesson-1/light-energy/try-it.md)
   * [Line Spectra](lesson-1/line-spectra.md)
+    * video: Line Spectra
   * [Bohr Model](lesson-1/bohr-model.md)
+    * Bohr's Model of the Atom
+    * Bohr Model Calculations
   * [The Quantum World](lesson-1/the-quantum-world.md)
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
+    * Quantum Numbers
+    * Quantum Number Practice
   * [Orbitals](lesson-1/orbitals.md)
+    * Orbital Characteristics
+    * Orbital Energies
   * [Weekly Recap](lesson-2/weekly-recap.md)
 * [Week 3](lesson-3.md)
   * Electron Configuration
