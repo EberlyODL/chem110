@@ -41,10 +41,9 @@
     * [video: Light as a Particle](lesson-1/light-energy/video-light-as-a-particle.md)
     * [Try it!](lesson-1/light-energy/try-it.md)
   * [Line Spectra](lesson-1/line-spectra.md)
-    * video: Line Spectra
   * [Bohr Model](lesson-1/bohr-model.md)
-    * Bohr's Model of the Atom
-    * Bohr Model Calculations
+    * [Bohr's Model of the Atom](lesson-1/bohr-model/bohrs-model-of-the-atom.md)
+    * [Try it!](lesson-1/bohr-model/bohr-model-calculations.md)
   * [The Quantum World](lesson-1/the-quantum-world.md)
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
     * Quantum Numbers
