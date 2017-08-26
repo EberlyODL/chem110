@@ -17,6 +17,8 @@ All light waves move at the same speed in a vacuum (i.e., empty space). This spe
 
 Shown below are the different regions of the electromagnetic spectrum. Where a particular type of light falls on the spectrum depends on its wavelength and frequency. The boundary between each region of the spectrum can be a bit fuzzy, and these regions are characterized mostly by how light within that region interacts with matter. The study of light and its interaction with matter is  a field known as spectroscopy.
 
+**Table 1: How light interacts with matter**
+
 | Type of radiation | $$\lambda$$ unit | Interaction with matter |
 | :--- | :--- | :--- |
 | radio | kilometer \(km), meter (m) | Flip nuclear spin |
@@ -26,9 +28,7 @@ Shown below are the different regions of the electromagnetic spectrum. Where a p
 | ultraviolet | nanometer (nm) | electronic transitions, can break certain chemical bonds |
 | X-rays | Angstrom (Å) | ionizing radiation \(ejection of electrons\) |
 | gamma rays | Angstrom (Å) | ionizing radiation \(ejection of electrons\) |
-
-
-
+(Note: You don’t need to memorize these details, but you should be familiar with them.) 
 
 
 You’ll need to know the different regions of the spectrum as well as their relative order: radio, microwaves, infrared, visible, ultraviolet, X-ray, and gamma rays (in order of decreasing wavelength and increasing frequency). 
