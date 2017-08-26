@@ -10,7 +10,7 @@ So far we have seen light as a wave, but there are three phenomena that are inco
 * Photoelectric effect
 * Line spectra
 
-Experiments Blackbody radiation is the electromagnetic radiation emitted from a black body.  At sufficiently high temperatures, this radiation is in the form of visible light.  You've probably observed this when you heat the element on your stovetop.  The sun and hot lava are other examples of blackbodies.
+Blackbody radiation is the electromagnetic radiation emitted from a black body.  At sufficiently high temperatures, this radiation is in the form of visible light.  You've probably observed this when you heat the element on your stovetop.  The sun and hot lava are other examples of blackbodies.
 
 Classical physics would predict that as the temperature of a blackbody increases, the energy would be emitted as more intense (brighter) light.  However, in reality, a shift to shorter (more blue) wavelengths occurs and a maximum intensity is reached before tapering off at shorter wavelengths.  (It's a good thing that our stovetops don't emit x-rays or gamma rays!)  
 
