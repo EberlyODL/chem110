@@ -18,6 +18,8 @@ The classical model doesn't explain the experimental data! Max Plank worked to d
 
 A few years after Plank's proposal, Albert Einstein was studying the photoelectric effect.  The photoelectric effect is the observation that many metals emit electrons when light is shone on them.  The classical wave model would predict that electrons would be emitted as the intensity of light increased.  For example, one could increase the brightness of low energy light and once enough energy was accumulated by the material, electrons would be ejected.  However, Einstein observed that no matter how long a low-energy light was shone on a material, electrons were not emitted.  What he actually observed was that a minimum frequency was required to eject the electrons. In looking at Figure 2 below, we can see that red light (low frequency) does not eject electrons.  Upon increasing the frequency to green light, the ejection of electrons is observed.  If the frequency is sufficiently high (i.e. blue light), any "extra" energy will be transferred to the electron in the form of kinetic energy and result in faster moving electrons.  Einstein's experiments agreed with Plank's proposal that light was made of small particles.
 
+Light emitted from exited atoms 
+
 
 The study of light and its interaction with matter is  a field known as spectroscopy.
 
