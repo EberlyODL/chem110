@@ -19,7 +19,9 @@ Shown below are the different regions of the electromagnetic spectrum. Where a p
 
 **Figure 1: Electromagnetic spectrum**
 
-[ciscode|rev=1|tool=elmsmedia|item=3267|entity_type=node|render=display_mode|display_mode=image]
+<div style="float:none;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3267|entity_type=node|render=display_mode|display_mode=image]</div>
+
 
 **Table 1: How light interacts with matter**
 
