@@ -39,8 +39,7 @@
   * [Light energy](lesson-1/light-energy.md)
     * [video: Characteristics of Light](lesson-1/light-energy/video-light-energy.md)
     * [video: Light as a Particle](lesson-1/light-energy/video-light-as-a-particle.md)
-    * [video: Energy Calculations](lesson-1/light-energy/video-energy-calculations.md)
-    * Try it!
+    * [Try it!](lesson-1/light-energy/try-it.md)
   * [Line Spectra](lesson-1/line-spectra.md)
   * [Bohr Model](lesson-1/bohr-model.md)
   * [The Quantum World](lesson-1/the-quantum-world.md)
