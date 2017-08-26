@@ -15,7 +15,7 @@ Waves can also be described in terms of frequency. The frequency of a wave is a 
 
 All light waves move at the same speed in a vacuum (i.e., empty space). This speed is a fundamental constant which is abbreviated with a lower-case c. The speed of light is equal to about 3.0 x 10$$^8$$ m/s. The speed of light is equal to the product of a light wave’s wavelength (λ) in meters and frequency (ν) in s$$^{-1}$$; therefore c=λν (in m/s). An important consequence of this relationship is that the wavelength of a light wave is inversely proportional to its frequency. In other words, as wavelength increases, frequency decreases (and vice versa). 
 
-Shown below are the different regions of the electromagnetic spectrum. Where a particular type of light falls on the spectrum depends on its wavelength and frequency. The boundary between each region of the spectrum can be a bit fuzzy, and these regions are characterized mostly by how light within that region interacts with matter. The study of light and its interaction with matter is  a field known as spectroscopy.
+Shown below are the different regions of the electromagnetic spectrum. Where a particular type of light falls on the spectrum depends on its wavelength and frequency. The boundary between each region of the spectrum can be a bit fuzzy, and these regions are characterized mostly by how light within that region interacts with matter (Table 1). The study of light and its interaction with matter is  a field known as spectroscopy.
 
 **Figure 1: Electromagnetic spectrum**
 
