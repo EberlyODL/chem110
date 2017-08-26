@@ -1,8 +1,9 @@
 # Light as a Particle
 
-Learning Objectives: _After this lesson, you should be able to…_
+**Learning Objectives:** _After this lesson, you should be able to…_
 
 * Calculate the frequency or wavelength of a photon, the energy of one photon and a mole of photons, the total energy (or the number) of multiple photons.
+
 
 So far we have seen light as a wave, but there are three phenomena that are inconsistent with the wave nature of light:
 
