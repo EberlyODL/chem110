@@ -20,9 +20,13 @@ The abstract idea that electrons can behave as waves has a couple implications. 
 
 > $$\lambda = \frac f {mv}$$
 
+[ciscode|rev=1|tool=elmsmedia|item=3279|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+
 A consequence of the wave behavior is that the more you know about the velocity, the less you know about the position.  Since we cannot observe the electron simultaneously as both a particle and a wave, we cannot simultaneously measure the position and velocity with infinite precision.  Werner Heisenberg formalized this idea with the equation:
 
 > $$\Delta x \times m\Delta v \geq \frac h {4\pi}$$ 
+
+[ciscode|rev=1|tool=elmsmedia|item=2780|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 $$\Delta x$$ is the uncertainty in the position, $$\Delta v$$ is the uncertainty in velocity, m is the mass of the particle, and h is Plank's constant.  Heisenberg's uncertainty principle states that the product of $$\Delta x$$ and $$m \Delta v$$ must be greater than or equal to a finite number ($$h/4 \pi$$).  In other words, the more accurately you know the position of an electron (smaller $$\Delta x$$), the less accurately you know its velocity (the bigger $$\Delta v$$) and vice versa.
 

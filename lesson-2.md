@@ -16,7 +16,8 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 
 ## Study Materials
 - [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf)
-Problem Set: Quantum Numbers
+- Problem Set: Quantum Numbers
 
 
+Last week we covered the basics of atomic structure, counting atoms & molecules in mole units, and introducing energy in the context of chemistry.  We will continue exploring energy this week and see how energy, specifically light, can be used to probe matter and elucidate more details about its structure.
 
