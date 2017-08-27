@@ -15,14 +15,7 @@ Recitation begins this week!  Please attend your assigned time.
 
 ## Study Materials
 - [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf)
-
-
-
-
-
-
-
-Problem Set 5: Quantum Numbers
+Problem Set: Quantum Numbers
 
 
 

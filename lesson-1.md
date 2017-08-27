@@ -30,7 +30,7 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 ## Study Materials
 
 - [Problem Set: Atoms & Moles](https://media.ed.science.psu.edu/sites/media/ed/files/documents/3_problemset3_atomsmoles.pdf)
-- [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf) (Note: the last problem relates to the Bohr Model that will be learned next week!)
+
 
 
 
