@@ -1,17 +1,17 @@
 # Try it!
 
+You may wish to refer to the [equation sheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/110-data.pdf) for solving the calculations.
 
-h5p question about emission
+[ciscode|rev=1|tool=elmsmedia|item=3270|entity_type=node|render=display_mode|display_mode=h5p]
 
-answer video:
+A full solution to the above question set is below:
 [ciscode|rev=1|tool=elmsmedia|item=2783|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 
-wavelength and transitions
 
-[ciscode|rev=1|tool=elmsmedia|item=2569|entity_type=node|render=display_mode|display_mode=h5p]
 
-Calculate the final state of an electron if...
+[ciscode|rev=1|tool=elmsmedia|item=3271|entity_type=node|render=display_mode|display_mode=h5p]
 
-video answer:
+A full solution to the question above is below:
+
 [ciscode|rev=1|tool=elmsmedia|item=2785|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
