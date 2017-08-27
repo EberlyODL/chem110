@@ -46,10 +46,10 @@
     * [Try it!](lesson-1/bohr-model/bohr-model-calculations.md)
   * [The Quantum World](lesson-1/the-quantum-world.md)
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
-    * Quantum Numbers
+    * [Quantum Numbers](lesson-2/quantum-numbers/quantum-numbers.md)
     * Quantum Number Practice
   * [Orbitals](lesson-1/orbitals.md)
-    * Orbital Characteristics
+    * [Orbital Characteristics](lesson-1/orbitals/orbital-characteristics.md)
     * Orbital Energies
   * [Weekly Recap](lesson-2/weekly-recap.md)
 * [Week 3](lesson-3.md)

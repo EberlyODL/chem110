@@ -1,3 +1,6 @@
+<div style="float:right;margin:auto"><ebook-button title="Atomic Structure" link="https://genchem.science.psu.edu/02-3-matter-waves"></ebook-button></div>
+
+
 # The Quantum World
 
 Bohr's model of the atom worked well for hydrogen.  Now, here's the bad news.  Wait for it...
