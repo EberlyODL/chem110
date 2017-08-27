@@ -14,7 +14,14 @@ Recitation begins this week!  Please attend your assigned time.
 - [HW 2](https://genchem.science.psu.edu/homework-2-houck), submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by next Tuesday
 
 ## Study Materials
-Problem Set 4: Energy and Light
+- [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf)
+
+
+
+
+
+
+
 Problem Set 5: Quantum Numbers
 
 
