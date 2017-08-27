@@ -1,6 +1,7 @@
 # Week 2
 
-Recitation begins this week!  Please attend your assigned time.
+Recitation begins this week!  Please attend your assigned time as it was emailed.  The full schedule is posted to a Canvas announcement.
+
 
 ## Action Items
 - Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
