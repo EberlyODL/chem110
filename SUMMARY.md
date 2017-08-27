@@ -47,7 +47,7 @@
   * [The Quantum World](lesson-1/the-quantum-world.md)
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
     * [Quantum Numbers](lesson-2/quantum-numbers/quantum-numbers.md)
-    * [Quantum Number Practice](lesson-2/quantum-numbers/quantum-number-practice.md)
+    * [Try it!](lesson-2/quantum-numbers/quantum-number-practice.md)
   * [Orbitals](lesson-1/orbitals.md)
     * [Orbital Characteristics](lesson-1/orbitals/orbital-characteristics.md)
     * Orbital Energies
