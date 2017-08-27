@@ -18,10 +18,12 @@ When an unobserved electron passes through two slits, it behaves as a particle A
 
 The abstract idea that electrons can behave as waves has a couple implications.  Part of de Broglie's proposal was that the wavelength of an electron traveling as a wave is related to its mass and velocity.  This relationship is known as the de Broglie relation:
 
-A consequence of the wave behavior is that the more you know about the velocity, the less you know about the position.  Since we cannot observe the electron simultaneously as both a particle and a wave, we cannot simultaneously measure the position and velocity with infinite precision.  Werner Heisenburg formalized this idea with the equation:
+A consequence of the wave behavior is that the more you know about the velocity, the less you know about the position.  Since we cannot observe the electron simultaneously as both a particle and a wave, we cannot simultaneously measure the position and velocity with infinite precision.  Werner Heisenberg formalized this idea with the equation:
 
 
-$$\Delta x$$ is the uncertainty in the position, $$\Delta v$$ is the uncertainty in velocity, m is the mass of the particle, and h is Plank's constant.
+$$\Delta x$$ is the uncertainty in the position, $$\Delta v$$ is the uncertainty in velocity, m is the mass of the particle, and h is Plank's constant.  Heisenberg's uncertainty principle states that the product of $$\Delta x$$ and $$m \Delta v$$ must be greater than or equal to a finite number ($$h/4 \pi$$).  In other words, the more accurately you know the position of an electron (smaller $$\Delta x$$), the less accurately you know its velocity (the bigger $$\Delta v$$) and vice versa.
+
+
   
 
 
