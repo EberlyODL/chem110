@@ -50,7 +50,6 @@
     * [Try it!](lesson-2/quantum-numbers/quantum-number-practice.md)
   * [Orbitals](lesson-1/orbitals.md)
     * [Orbital Characteristics](lesson-1/orbitals/orbital-characteristics.md)
-    * Orbital Energies
   * [Weekly Recap](lesson-2/weekly-recap.md)
 * [Week 3](lesson-3.md)
   * Electron Configuration
