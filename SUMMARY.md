@@ -45,7 +45,6 @@
     * [Bohr's Model of the Atom](lesson-1/bohr-model/bohrs-model-of-the-atom.md)
     * [Try it!](lesson-1/bohr-model/bohr-model-calculations.md)
   * [The Quantum World](lesson-1/the-quantum-world.md)
-    * [Orbitals & Clouds](lesson-1/the-quantum-world/orbitals-and-clouds.md)
   * [Quantum Numbers](lesson-2/quantum-numbers.md)
     * [Quantum Numbers](lesson-2/quantum-numbers/quantum-numbers.md)
     * [Quantum Number Practice](lesson-2/quantum-numbers/quantum-number-practice.md)
