@@ -21,7 +21,7 @@ The abstract idea that electrons can behave as waves has a couple implications. 
 A consequence of the wave behavior is that the more you know about the velocity, the less you know about the position.  Since we cannot observe the electron simultaneously as both a particle and a wave, we cannot simultaneously measure the position and velocity with infinite precision.  Werner Heisenburg formalized this idea with the equation:
 
 
-
+$$\Delta x$$ is the uncertainty in the position, $$\Delta v$$ is the uncertainty in velocity, m is the mass of the particle, and h is Plank's constant.
   
 
 
