@@ -13,6 +13,10 @@ The central tenant of quantum theory is the wave nature of the electron.  Louis 
 
 [ciscode|rev=1|tool=elmsmedia|item=3278|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-When an unobserved electron passes through two slits, it behaves as a particle AND a wave simultaneously.  However, when it is observed, it must choose which state to occupy.  The odd idea that matter can occupy two states at once is where Schrodiner used a cat, poison, radioactive material, and a Geiger counter to create a thought experiment to show how  
+When an unobserved electron passes through two slits, it behaves as a particle AND a wave simultaneously.  However, when it is observed, it must choose which state to occupy.  The odd idea that matter can occupy two states at once is where Schrodiner used a cat, poison, radioactive material, and a Geiger counter in a box to create a thought experiment to show how absurd this idea that matter could have wave-like and particle-like properties.  Schrodinger's cat is said to be both dead and alive in the box until the box is opened and the cat is forced to occupy one state or the other (just like the electron is forced to be a wave or a particle depending on how it is observed).
 
-The abstract idea that electrons can behave as waves has a couple implications on 
+
+The abstract idea that electrons can behave as waves has a couple implications.  Part of de Broglie proposal was that the wavelength of an electron traveling as a wave is related to the mass and velocity 
+
+
+
