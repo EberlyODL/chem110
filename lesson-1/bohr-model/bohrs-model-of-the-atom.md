@@ -1,4 +1,4 @@
-<div style="float:right;margin:auto"><ebook-button title="Atomic Structure" link="https://genchem.science.psu.edu/02-2-bohrs-model"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Bohr Model" link="https://genchem.science.psu.edu/02-2-bohrs-model"></ebook-button></div>
 
 
 
