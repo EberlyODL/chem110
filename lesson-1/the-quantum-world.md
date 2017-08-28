@@ -1,4 +1,4 @@
-<div style="float:right;margin:auto"><ebook-button title="Atomic Structure" link="https://genchem.science.psu.edu/02-3-matter-waves"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Matter Waves" link="https://genchem.science.psu.edu/02-3-matter-waves"></ebook-button></div>
 
 
 # The Quantum World
