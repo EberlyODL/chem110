@@ -1,5 +1,4 @@
-|
-**Week** | **Date** | **Topic/Assessments** | **Readings**\([eBook](https://genchem.science.psu.edu/offering/18/news-and-updates)\) |
+|**Week** | **Date** | **Topic/Assessments** | **Readings**\([eBook](https://genchem.science.psu.edu/offering/18/news-and-updates)\) |
 | :--- | :--- | :--- | :--- |
 | 1 | 08/21-08/27 | Course Overview, Introduction to atomic structure, The mole, ions & molecules, Introduction to energy | 01.1-01.5 |
 | 2 | 08/28-09/03 | Light and Spectroscopy, Line Spectra & Bohr Model, Quantum numbers and orbitals<br>**Skills Check Due by 11:59 pm 09/03** | 01.6, 02.01-02.05 |
