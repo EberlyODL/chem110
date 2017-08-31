@@ -52,12 +52,17 @@
     * [Orbital Characteristics](lesson-1/orbitals/orbital-characteristics.md)
   * [Weekly Recap](lesson-2/weekly-recap.md)
 * [Week 3](lesson-3.md)
-  * Electron Configuration
+  * [Electron Spin](electron-spin.md)
+  * [Effective Nuclear Charge](effective-nuclear-charge.md)
+  * [Electron Configuration](lesson-3/electron-configuration.md)
+    * [Orbital Filling](lesson-3/electron-configuration/orbital-filling.md)
     * Try it!
   * Periodic Trends
     * video: Atomic Radius
-  * Weekly Recap
-  * Exam 1 Study Materials
+    * [video: Ionization Energy](lesson-3/video-ionization-energt.md)
+    * Exam 1 Study Materials
+    * video: Electron Affinity
+    * Weekly Recap
 * [Exam 1](exam-1.md)
 * [Week 4](week-4.md)
 * [Week 5](week-5.md)
