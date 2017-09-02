@@ -63,7 +63,7 @@
     * Exam 1 Study Materials
     * video: Electron Affinity
     * Weekly Recap
-* [Exam 1](exam-1.md)
+* [Exam 1 Preparation](exam-1.md)
 * [Week 4](week-4.md)
 * [Week 5](week-5.md)
   * [test](test.md)
