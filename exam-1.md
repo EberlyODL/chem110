@@ -29,7 +29,7 @@ Please let me know if you have questions or concerns!
 
 ## Resources:
 Exam 1 Study Guide
-Cumulative Knowledge Check Questions
-Problem Sets 1-5
+Cumulative Knowledge Check Questions (for practice)
+Problem Sets 1-5 
 Practice Exam 1A (Key)
 Practice Exam 1B (Key)
