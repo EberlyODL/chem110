@@ -1,12 +1,11 @@
 # Week 3
 
-Recitation begins this week!  Please attend your assigned time as it was emailed.  The full schedule is posted to a Canvas announcement.
 
 
 ## Action Items
-[HW 2](https://genchem.science.psu.edu/homework-2-houck) is due Tuesday
-Login to Examity and make sure your profile is up-to-date.
-Think about when you will take your exam between 09/13 and 09/16.  You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
+* [HW 2](https://genchem.science.psu.edu/homework-2-houck) is due Tuesday
+* Login to Examity and make sure your profile is up-to-date.
+* Think about when you will take your exam between 09/13 and 09/16.  You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
 
 
 ## Assignments
