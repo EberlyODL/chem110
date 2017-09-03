@@ -5,7 +5,7 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 
 ## Action Items
 - Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
-[HW 1](https://genchem.science.psu.edu/homework-1-houck) is due Tuesday
+- [HW 1](https://genchem.science.psu.edu/homework-1-houck) is due Tuesday
 
 
 ## Assignments
