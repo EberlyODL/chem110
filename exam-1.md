@@ -4,9 +4,9 @@ Your first exam is coming in Week 4 and will be proctored through Examity.  You 
 
 The exams are paper and pencil, so once you connect with a proctor you will download the exam file.  You will complete your exam on separate paper under the proctor's supervision.  After 50 minutes, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas.  At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer/phone.
 
-To get started in Examity:
+## To get started in Examity:
 
-CREATE A PROFILE
+**CREATE A PROFILE**
 
 * Log into Canvas and select your course.
 * Next, click on the Examity® link. This will bring you to your Examity® dashboard.
@@ -19,6 +19,11 @@ CREATE A PROFILE
 
 _**Please note:**_
 Your picture identification card must be clear and in color. If that’s not the case, you might be asked to upload the image again. You will need to bring this ID with you every time you take a test for verification purposes.
+
+**HOW TO SCHEDULE:**
+* Select “Schedule Exam” on the Dashboard
+* Pick your instructor, course, and exam from the drop down menu.
+* If you need to schedule less than 24 hours in advance, you will have to use the on-demand scheduling option; this option will cost $3.00.
 
 Here is a step-by-step guide on how to use Examity®. My goal is to keep setup, scheduling and the test-taking process as simple as possible. 
 
