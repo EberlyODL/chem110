@@ -56,7 +56,7 @@
   * [Electron Spin](electron-spin.md)
   * [Electron Configuration](lesson-3/electron-configuration.md)
     * [Orbital Filling](lesson-3/electron-configuration/orbital-filling.md)
-    * Try it!
+    * [Try it!](lesson-3/electron-configuration/try-it.md)
   * Periodic Trends
     * video: Atomic Radius
     * [video: Ionization Energy](lesson-3/video-ionization-energt.md)
