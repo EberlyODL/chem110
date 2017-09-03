@@ -15,7 +15,7 @@
 - [HW 3](https://genchem.science.psu.edu/homework-3-houck), submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by next Tuesday
 
 ## Study Materials
-- Problem Set: Periodic Trends
+- [Problem Set: Periodic Trends](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends_key.pdf))
 
 
 Chemists and physicists were able to probe matter with light energy.  The simple planetary model Bohr proposed was refined based on how light was emitted from excited atoms.  We now are familiar with orbitals as regions of space that can be occupied by electron density, and that those dang electrons have some curious behavior. Like light, they exhibit wave-like properties (i.e. diffraction) and particle-like properties.   A set of three quantum numbers provide an address of sorts to identify the most probable location and energy of an electron.
