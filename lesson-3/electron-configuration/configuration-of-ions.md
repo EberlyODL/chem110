@@ -23,4 +23,4 @@ Magnesium ion (Mg$$^{2+}$$): $$1s^22s^22p^6$$
 > Titanium (Ti): $$1s^22s^22p^63s^23p^64s^23d^2$$
 Titanium ion (Ti$$^{2+}$$): $$1s^22s^22p^63s^23p^63d^2$$
 
-## Electron Configuration and the Periodic Table
+## Common ions 
