@@ -31,3 +31,9 @@ $$1s^22s^22p^5$$
 
 
 Hund's rule violations also result in higher energy electron configurations and therefore are excited states.  The figure below shows that if an electron is paired when other degenerate orbitals are empty, this will be of higher energy (increased electron repulsion).  In b) the unpaired electrons do not have the same spin and is also an excited state.
+
+<div style="float:none;max-width:700px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3339|entity_type=node|render=display_mode|display_mode=image]</div>
+
+
+
