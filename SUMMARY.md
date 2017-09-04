@@ -64,7 +64,8 @@
   * Periodic Trends
     * [video: Atomic Radius](lesson-3/video-atomic-radius.md)
     * [video: Ionization Energy](lesson-3/video-ionization-energt.md)
-    * video: Electron Affinity
+    * [video: Electron Affinity](lesson-3/video-electron-affinity.md)
+    * [Ion Size](lesson-3/ion-size.md)
   * [Exam 1 Preparation](exam-1.md)
 * [Week 4](week-4.md)
 * [Week 5](week-5.md)
