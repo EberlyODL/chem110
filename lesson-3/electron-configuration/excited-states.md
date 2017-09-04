@@ -30,3 +30,4 @@ $$1s^22s^22p^5$$
 
 
 
+Hund's rule violations also result in higher energy electron configurations and therefore are excited states.  The figure below shows that if an electron is paired when other degenerate orbitals are empty, this will be of higher energy (increased electron repulsion).  In b) the electron 
