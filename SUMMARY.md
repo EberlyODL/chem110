@@ -56,6 +56,7 @@
   * [Electron Spin](electron-spin.md)
   * [Electron Configuration](lesson-3/electron-configuration.md)
     * [Orbital Filling](lesson-3/electron-configuration/orbital-filling.md)
+    * [Classification of Electrons](lesson-3/electron-configuration/classification-of-electrons.md)
     * [Try it!](lesson-3/electron-configuration/try-it.md)
   * Periodic Trends
     * video: Atomic Radius
