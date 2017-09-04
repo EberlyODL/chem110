@@ -16,6 +16,9 @@ For F: $$Z_{eff} = 9-2 = +7$$
 
 $$Z_{eff}$$ increases ever so slightly down a group if we look at precisely calculated values.  The orbitals become less dense and more diffuse, so they are less effective at shielding.  
 
+<div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
+
+
 ## The Trend in Atom Size
 
 <div style="float:none;max-width:800px;margin:auto">
