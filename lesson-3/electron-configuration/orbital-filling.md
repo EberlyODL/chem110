@@ -8,6 +8,8 @@ There are a series of rules that are followed when placing electrons into orbita
 [ciscode|rev=1|tool=elmsmedia|item=3322|entity_type=node|render=display_mode|display_mode=h5p]
 
 
-There are a few exceptions to the order of filling in the transition metals.  I ask that you know two: chromium and copper.  The reason that these are an exception is due the extra stability when a subshell is half-filled or filled.  Learn more in the video below.
+There are a few exceptions to the order of filling in the transition metals.  I ask that you know two: chromium and copper.  The reason that these are an exception is due the extra stability when a subshell is half-filled or filled.  Since the energies of orbitals become closer together at higher _n_ shells, it becomes more common to see irregularities to the filling pattern.  Learn more in the video below.
+
+[ciscode|rev=1|tool=elmsmedia|item=3337|entity_type=node|render=display_mode|display_mode=h5p]
 
 
