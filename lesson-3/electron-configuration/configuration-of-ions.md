@@ -25,4 +25,5 @@ Titanium ion (Ti$$^{2+}$$): $$1s^22s^22p^63s^23p^63d^2$$
 
 ## Common ions 
 
-Most elements form a predictable ion.  The ions formed generally have complete shells (main group s and p blocks) or subshells (transition metals).  The position on the periodic table 
+Most elements form a predictable ion.  The ions formed generally have complete shells (main group s and p blocks) or subshells (transition metals).  The position on the periodic table gives us an easy way to "see" this pattern.  Common ions are listed in the figure below from your ebook.
+
