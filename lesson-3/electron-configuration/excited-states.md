@@ -23,8 +23,8 @@ $$1s^22s^22p^5$$
 > How do we write an "excited state" electron configuration?
 >>Let's say we're going to write an excited state configuration for silicon (Si).  We have 14 electrons to work with.  The ground state configuration is $$1s^22s^22p^63s^23p^2$$.  First we need to remove one electron from an orbital.  It can be any electron from any orbital!  Let's take a 2p electron.  Then, we add that electron to a higher energy orbital.  Again, any orbital! (Now you can see why there are an infinite number of possibilities! We could even do this for more than one electron!)  I'm going to place it in a 5s orbital.  The excited state configuration I would write is $$1s^22s^22p^53s^23p^25s^1$$.  There are still 14 electrons making it a neutral silicon atom.
 
-
-
+## Try it!
+[ciscode|rev=1|tool=elmsmedia|item=3338|entity_type=node|render=display_mode|display_mode=h5p]
 
 
 
