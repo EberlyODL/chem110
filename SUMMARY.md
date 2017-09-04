@@ -56,10 +56,10 @@
   * [Electron Spin](electron-spin.md)
   * [Electron Configuration](lesson-3/electron-configuration.md)
     * [Orbital Filling](lesson-3/electron-configuration/orbital-filling.md)
+    * [Excited States](lesson-3/electron-configuration/excited-states.md)
     * [The Periodic Table](lesson-3/electron-configuration/the-periodic-table.md)
     * [Classification of Electrons](lesson-3/electron-configuration/classification-of-electrons.md)
     * [Configuration of Ions](lesson-3/electron-configuration/configuration-of-ions.md)
-    * [Excited States](lesson-3/electron-configuration/excited-states.md)
     * [Try it!](lesson-3/electron-configuration/try-it.md)
   * Periodic Trends
     * [video: Atomic Radius](lesson-3/video-atomic-radius.md)
