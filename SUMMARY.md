@@ -61,7 +61,7 @@
     * [Excited States](lesson-3/electron-configuration/excited-states.md)
     * [Try it!](lesson-3/electron-configuration/try-it.md)
   * Periodic Trends
-    * video: Atomic Radius
+    * [video: Atomic Radius](lesson-3/video-atomic-radius.md)
     * [video: Ionization Energy](lesson-3/video-ionization-energt.md)
     * video: Electron Affinity
   * [Exam 1 Preparation](exam-1.md)
