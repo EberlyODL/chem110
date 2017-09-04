@@ -56,6 +56,7 @@
   * [Electron Spin](electron-spin.md)
   * [Electron Configuration](lesson-3/electron-configuration.md)
     * [Orbital Filling](lesson-3/electron-configuration/orbital-filling.md)
+    * [The Periodic Table](lesson-3/electron-configuration/the-periodic-table.md)
     * [Classification of Electrons](lesson-3/electron-configuration/classification-of-electrons.md)
     * [Configuration of Ions](lesson-3/electron-configuration/configuration-of-ions.md)
     * [Excited States](lesson-3/electron-configuration/excited-states.md)
