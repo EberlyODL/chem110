@@ -57,6 +57,8 @@
   * [Electron Configuration](lesson-3/electron-configuration.md)
     * [Orbital Filling](lesson-3/electron-configuration/orbital-filling.md)
     * [Classification of Electrons](lesson-3/electron-configuration/classification-of-electrons.md)
+    * [Excited States](lesson-3/electron-configuration/excited-states.md)
+    * Configuration of Ions
     * [Try it!](lesson-3/electron-configuration/try-it.md)
   * Periodic Trends
     * video: Atomic Radius
