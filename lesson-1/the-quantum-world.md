@@ -1,4 +1,4 @@
-<div style="float:right;margin:auto"><ebook-button title="Atomic Structure" link="https://genchem.science.psu.edu/02-3-matter-waves"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Matter Waves" link="https://genchem.science.psu.edu/02-3-matter-waves"></ebook-button></div>
 
 
 # The Quantum World
@@ -20,7 +20,7 @@ The abstract idea that electrons can behave as waves has a couple implications. 
 
 > $$\lambda = \frac f {mv}$$
 
-In fact, all matter is said to have wave-like behavior.  But, the mass of everyday objects is so large that the wavelength is incredible small and unobservable.  When the mass of an object is comparable to its wavelength, the wave-particle duality is apparent.
+In fact, all matter is said to have wave-like behavior.  But, the mass of everyday objects is so large that the wavelength is incredibly small and unobservable.  When the mass of an object is comparable to its wavelength, the wave-particle duality is apparent.
 
 [ciscode|rev=1|tool=elmsmedia|item=3279|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
