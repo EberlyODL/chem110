@@ -8,7 +8,7 @@ When adding electrons to an atom, the typical rules apply to the filling order. 
 
 **Example:**
 > Oxygen (O): $$1s^22s^22p^4$$
-Oxygen anion (O$$^{2-}$$):  $$1s^22s^22p^6$$
+> Oxygen anion (O$$^{2-}$$):  $$1s^22s^22p^6$$
 
 ## Cations
 
