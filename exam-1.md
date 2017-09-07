@@ -21,8 +21,11 @@ _**Please note:**_
 Your picture identification card must be clear and in color. If that’s not the case, you might be asked to upload the image again. You will need to bring this ID with you every time you take a test for verification purposes.
 
 **HOW TO SCHEDULE:**
+
 * Select “Schedule Exam” on the Dashboard
+
 * Pick your instructor, course, and exam from the drop down menu.
+
 * If you need to schedule less than 24 hours in advance, you will have to use the on-demand scheduling option; this option will cost $3.00.
 
 Here is a step-by-step guide on how to use Examity®. My goal is to keep setup, scheduling and the test-taking process as simple as possible. 
