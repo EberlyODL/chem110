@@ -11,4 +11,9 @@ There are a few exceptions to the trend in ionization energy.  The reason is roo
 [ciscode|rev=1|tool=elmsmedia|item=3346|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 ## Try it!
+
+1) Successive ionization energies for an atom are plotted below. This trend/plot is consistent with which of the following atoms?
+
+2) What is a reasonable range for the 6th ionization energy? (all options in kJ/mol)
+
 [ciscode|rev=1|tool=elmsmedia|item=2666|entity_type=node|render=display_mode|display_mode=h5p]
