@@ -11,8 +11,10 @@ The periodic table is arranged into rows called _periods_ and columns known as _
 
 Let's begin this unit by looking again at effective nuclear charge ($$Z_{eff}$$). Most of the periodic trends we will consider can be related back to effective nuclear charge. $$Z_{eff}$$ increases as we move across the row on the periodic table because Z (atomic number) increases while the number of shielding core electrons stays the same.  By our simple calculation of  $$Z_{eff}$$ for a valence electron in Be and F, we can see this is true.
 > $$Z_{eff} = Z -S $$
-For Be: $$Z_{eff} = 4-2 = +2$$
-For F: $$Z_{eff} = 9-2 = +7$$
+
+> For Be: $$Z_{eff} = 4-2 = +2$$
+
+>For F: $$Z_{eff} = 9-2 = +7$$
 
 $$Z_{eff}$$ increases ever so slightly down a group if we look at precisely calculated values.  The orbitals become less dense and more diffuse, so they are less effective at shielding.  
 
