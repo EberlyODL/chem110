@@ -69,7 +69,7 @@
   * [Exam 1 Preparation](exam-1.md)
 * [Week 4](week-4.md)
   * [Calculating Percent Composition](week-4/calculating-percent-composition.md)
-  * Determining Chemical Formula
+  * [Determining Chemical Formula](week-4/determining-chemical-formula.md)
 * [Week 5](week-5.md)
   * [test](test.md)
 * [Week 6](week-6.md)
