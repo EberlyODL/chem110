@@ -9,8 +9,8 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 
 ## Assignments
  
-- Guiding Question Set 4A 
-- Guiding Question Set 4B
+- [Guiding Question Set 4A](https://psu.instructure.com/courses/1866869/quizzes/3317735)
+- [Guiding Question Set 4B](https://psu.instructure.com/courses/1866869/quizzes/3317745)
 - [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Tuesday
 
 
