@@ -13,6 +13,7 @@
 - [Guiding Question Set 3A](https://psu.instructure.com/courses/1866869/quizzes/3317727) 
 - [Guiding Question Set 3B](https://psu.instructure.com/courses/1866869/quizzes/3317742)
 - [HW 3](https://genchem.science.psu.edu/homework-3-houck), submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by next Tuesday
+* [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by next Friday to Canvas (good exam review!)
 
 ## Study Materials
 - [Problem Set: Periodic Trends](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends_key.pdf))
