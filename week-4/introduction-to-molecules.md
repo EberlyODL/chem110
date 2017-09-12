@@ -17,3 +17,19 @@ The mass of a substance can be converted to moles by dividing the mass by the mo
 
 The number of moles of a substance can be multiplied by Avogadro's number ($$N_A$$) to determine how many molecules are present.  Similarly, you can divide the number of molecules by $$N_A$$ to determine the number of moles that are present.
 
+**Example:**
+How many aspirin molecules are in a 325 mg dose of aspirin?
+> $$325\text{ mg}(\frac{1\text{ g}}{1000\text{ mg}})(\frac{1\text{ mol}}{180.157\text{ g}})(\frac{6.022\times10^{23}\text{ molecules}}{1\text{ mol}}) = 1.09\times10^{21} \text{molecules}$$ 
+
+
+An extension of this concept is calculating the number of atoms of a particular type.   
+
+Example:
+How many carbon atoms are in a 325 mg dose of aspirin?
+
+The first 3 steps of the calculation are the same as above.  The 4th step is to use the mole ratio.  The mole ratio tells how many atoms per molecule there are and is determined from the molecular formula.  Aspirin has 9 carbon atoms per molecule.
+
+> $$325\text{ mg}(\frac{1\text{ g}}{1000\text{ mg}})(\frac{1\text{ mol}}{180.157\text{ g}})(\frac{6.022\times10^{23}\text{ molecules}}{1\text{ mol}}) = 1.09\times10^{21} \text{molecules}$$ 
+
+
+
