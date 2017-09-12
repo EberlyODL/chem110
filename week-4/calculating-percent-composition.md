@@ -15,8 +15,8 @@ The second equation describes the mass percentage of an element in a compound as
 
 $$\text{% Oxygen} = \frac{4 \text{ O atoms} \times 15.999 \text{ g/mol}}{180.157 \text{ g/mol}}\times 100\text{%} = 35.522\text{% oxygen in aspirin}$$
 
-Finally, all of the mass percentages in a compound must total 100%. Therefore, I can calculate the mass percentage of hydrogen in ribose now that I know the mass percentages of carbon and oxygen: 
+Finally, all of the mass percentages in a compound must total 100%. Therefore, I can calculate the mass percentage of hydrogen in aspirin now that I know the mass percentages of carbon and oxygen: 
 
-% Hydrogen = 100% - 40.0% - 53.284% = 6.7% hydrogen in ribose
+$$\text{% Hydrogen} = 100\text{%} - 60.0\text{%} - 35.522\text{%}= 4.5\text{% hydrogen in aspirin}$$
 
 Alternatively we could have solved for the mass percentage of hydrogen using the same equation that we used for oxygen. We would have gotten the same answer. 
