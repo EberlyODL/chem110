@@ -22,12 +22,13 @@ How many aspirin molecules are in a 325 mg dose of aspirin?
 > $$325\text{ mg}(\frac{1\text{ g}}{1000\text{ mg}})(\frac{1\text{ mol}}{180.157\text{ g}})(\frac{6.022\times10^{23}\text{ molecules}}{1\text{ mol}}) = 1.09\times10^{21} \text{molecules}$$ 
 
 
-An extension of this concept is calculating the number of atoms of a particular type.   
+An extension of this concept is calculating the number of atoms of a particular type in a compound.   
 
-Example:
+**Example:**
 How many carbon atoms are in a 325 mg dose of aspirin?
 
-The first 3 steps of the calculation are the same as above.  The 4th step is to use the mole ratio.  The mole ratio tells how many atoms per molecule there are and is determined from the molecular formula.  Aspirin has 9 carbon atoms per molecule.
+The first 3 steps of the calculation are the same as above.  The 4th step is to use the mole ratio.  The mole ratio tells how many atoms per molecule there are and is determined from the molecular formula.  Aspirin has 9 carbon atoms per molecule $$(\frac{9\text{ C atoms}}{1\text{ molecule}})$$.
+
 
 > $$325\text{ mg}(\frac{1\text{ g}}{1000\text{ mg}})(\frac{1\text{ mol}}{180.157\text{ g}})(\frac{6.022\times10^{23}\text{ molecules}}{1\text{ mol}})(\frac{9\text{ C atoms}}{1\text{ molecule}}) = 9.78\times10^{21} \text{C atoms}$$ 
 
