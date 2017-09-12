@@ -20,3 +20,4 @@ Finally, all of the mass percentages in a compound must total 100%. Therefore, I
 $$\text{% Hydrogen} = 100\text{%} - 60.0\text{%} - 35.522\text{%}= 4.5\text{% hydrogen in aspirin}$$
 
 Alternatively we could have solved for the mass percentage of hydrogen using the same equation that we used for oxygen. We would have gotten the same answer. 
+
