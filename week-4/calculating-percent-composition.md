@@ -7,7 +7,8 @@ The percent composition describes the mass percentage of each element in a compo
 
 As an example, if a 100.0 gram sample of aspirin contains 60.0 grams of carbon, we can use this equation to calculate the mass percentage (or percent composition) of carbon in aspirin: 
 
-$$\text{% Carbon} = \frac{60.0 \text { g carbon}}{100 \text{ g aspirin}} = 60.0% $$ 
+
+$$\text{% Carbon} = \frac{60.0 \text { g carbon}}{100 \text{ g aspirin}}\times 100 \text% = 60.0 \text{% carbon in aspirin}$$ 
 
 
 The second equation describes the mass percentage of an element in a compound as equaling the number of atoms of that element in the compound, times the atomic weight of the element, divided by the molecular weight of the compound. If I wanted to calculate the mass percentage of oxygen in ribose, I could do so as follows (see molecular weight from slide 2):
