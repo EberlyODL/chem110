@@ -33,4 +33,4 @@ The first 3 steps of the calculation are the same as above.  The 4th step is to 
 > $$325\text{ mg}(\frac{1\text{ g}}{1000\text{ mg}})(\frac{1\text{ mol}}{180.157\text{ g}})(\frac{6.022\times10^{23}\text{ molecules}}{1\text{ mol}})(\frac{9\text{ C atoms}}{1\text{ molecule}}) = 9.78\times10^{21} \text{C atoms}$$ 
 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=2667|entity_type=node|render=display_mode|display_mode=h5p]
