@@ -7,7 +7,8 @@
 * [HW 4](https://genchem.science.psu.edu/homework-4-houck), is due Tuesday
 * Review your exam once it is available.
 
-
+## Readings
+* Chapter 06.4-
 
 ## Assignments
 - Guiding Question Set 5A

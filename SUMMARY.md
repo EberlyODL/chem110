@@ -75,8 +75,8 @@
   * [Ionic Bonding](week-4/ionic-bonding.md)
 * [Week 5](week-5.md)
   * [Covalent Bonding](test.md)
-  * Bond Polarity & Electronegativity
-  * Lewis Structures
+  * [Bond Polarity & Electronegativity](bond-polarity-and-electronegativity.md)
+  * [Lewis Structures](lewis-structures.md)
 * [Week 6](week-6.md)
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
