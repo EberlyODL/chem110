@@ -71,7 +71,8 @@
   * [Introduction to Compounds](week-4/introduction-to-molecules.md)
   * [Percent Composition](week-4/calculating-percent-composition.md)
   * [Determining Chemical Formula](week-4/determining-chemical-formula.md)
-  * Introduction to Bonding
+  * [Introduction to Bonding](week-4/introduction-to-bonding.md)
+  * [Ionic Bonding](week-4/ionic-bonding.md)
 * [Week 5](week-5.md)
   * [Covalent Bonding](test.md)
   * Bond Polarity & Electronegativity
