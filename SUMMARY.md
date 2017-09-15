@@ -71,8 +71,11 @@
   * [Introduction to Compounds](week-4/introduction-to-molecules.md)
   * [Percent Composition](week-4/calculating-percent-composition.md)
   * [Determining Chemical Formula](week-4/determining-chemical-formula.md)
+  * Introduction to Bonding
 * [Week 5](week-5.md)
-  * [test](test.md)
+  * [Covalent Bonding](test.md)
+  * Bond Polarity & Electronegativity
+  * Lewis Structures
 * [Week 6](week-6.md)
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
