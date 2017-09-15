@@ -8,7 +8,8 @@
 * Review your exam once it is available.
 
 ## Readings
-* Chapter 06.4-
+* Chapter 06.4-06.6  (note we are skipping 06.3 for now)
+* Chapter 07.1-07.3
 
 ## Assignments
 - Guiding Question Set 5A
