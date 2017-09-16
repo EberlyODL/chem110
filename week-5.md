@@ -12,8 +12,9 @@
 * Chapter 07.1-07.3
 
 ## Assignments
-- Guiding Question Set 5A
-- Guiding Question Set 5B
+- [Guiding Question Set 5A](https://psu.instructure.com/courses/1866869/quizzes/3317729) (Due by Friday)
+- [Guiding Question Set 5B](https://psu.instructure.com/courses/1866869/quizzes/3317755) (Due by Friday)
+-[Knowledge Check 4](https://psu.instructure.com/courses/1866869/quizzes/3268980) (Due by Sunday)
 - [HW 5](https://genchem.science.psu.edu/homework-5-houck), submit to Canvas by next Tuesday
 
 
