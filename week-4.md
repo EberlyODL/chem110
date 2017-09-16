@@ -16,9 +16,11 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 _I extended the Guiding Question Sets to Sunday to allow you to focus on the exam in the early part of the week._
 
 
-- [Guiding Question Set 4A](https://psu.instructure.com/courses/1866869/quizzes/3317735)
+- [Guiding Question Set 4A](https://psu.instructure.com/courses/1866869/quizzes/3317735) (Due Friday)
 
-- [Guiding Question Set 4B](https://psu.instructure.com/courses/1866869/quizzes/3317745)
+- [Guiding Question Set 4B](https://psu.instructure.com/courses/1866869/quizzes/3317745) (Due Friday)
+- [Knowledge Check 3](https://psu.instructure.com/courses/1866869/quizzes/3268977) (Due Sunday)
+
 - [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Tuesday
 
 
