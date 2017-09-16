@@ -5,7 +5,7 @@
 
 ## Action Items
 * [HW 4](https://genchem.science.psu.edu/homework-4-houck), is due Tuesday
-* Review your exam once it is available.
+* Review your exam once the results are available.
 
 ## Readings
 * Chapter 06.4-06.6  (note we are skipping 06.3 for now)
