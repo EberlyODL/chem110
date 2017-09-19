@@ -20,4 +20,4 @@ Electronegativity is a periodic trend that is related to $$Z_{eff}$$, and its va
 
 Whether or not a bond is polar is determined by the difference in the electronegativity values of the two bonded atoms (in terms of absolute value). When the difference in electronegativity (Δχ) is large, the more bond is more polar, and the partial charges carried by each atom in the bond are larger (there will be greater charge separation). Bonds exist along a continuum from nonpolar to polar, becoming more and more polar as Δχ increases (as shown on the graph). 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=3388|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
