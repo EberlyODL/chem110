@@ -1,13 +1,17 @@
 # Week 6
 
-**Assignments**
+## Action Items
+
+
+## Readings
+
+
+## Assignments
  
-- eBook and Syllabus Scavenger Hunt
-- Guiding Question Set 1A 
-- Guiding Question Set 1B
-- [HW 6](https://genchem.science.psu.edu/homework-6-houck), submit to Canvas by 08/29
+- Guiding Question Set 6A 
+- Guiding Question Set 6B
+- [HW 6](https://genchem.science.psu.edu/homework-6-houck), submit to Canvas by net Tuesday
 
-
-
+## Study Resources
 
 
