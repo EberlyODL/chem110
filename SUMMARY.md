@@ -86,7 +86,8 @@
   * [Resonance](resonance.md)
   * VSEPR Theory
     * Intro to Geometry
-    * Key Concepts
+    * [Key Concepts](key-concepts.md)
+    * [Try it: Electron Domain Geometry](try-it-electron-domain-geometry.md)
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
     * video: Intro

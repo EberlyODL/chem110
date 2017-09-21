@@ -8,6 +8,8 @@ Skeletal structures are a standardized formalism that is used as shorthand for r
 
 ## Try it!
 
+[ciscode|rev=1|tool=elmsmedia|item=2676|entity_type=node|render=display_mode|display_mode=h5p]
+
 For more practice drawing and interpreting skeletal structures, try filling in the empty boxes in the table below:
 
 
