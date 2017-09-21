@@ -99,7 +99,7 @@ Now that we can identify metal ions, let's first look at how we can write a name
 
 Metals in groups 1, 2, and 3 on the periodic table form only one type of ion.  The names of of ionic compounds containing one of these metals will take the following form:
 
-<div style="overflow:hidden;float:none;max-width:600px;margin:auto">
+<div style="overflow:hidden;float:none;max-width:500px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=2925|entity_type=node|render=display_mode|display_mode=image]</div>
 
 Transition metals and a handful of main group metals have several possible charge states.  The names of of ionic compounds containing a metal with multiple oxidation states take the following form:
