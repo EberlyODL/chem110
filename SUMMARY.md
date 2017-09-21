@@ -77,9 +77,9 @@
   * [Covalent Bonding](test.md)
   * [Bond Polarity & Electronegativity](bond-polarity-and-electronegativity.md)
   * [Lewis Structures](lewis-structures.md)
-    * Exceptions to the Octet
 * [Week 6](week-6.md)
   * Skeletal Structures
+  * [Exceptions to the Octet](exceptions-to-the-octet.md)
   * Resonance
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
