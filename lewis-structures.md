@@ -9,7 +9,9 @@ When representing molecules, we will use the Lewis model for drawing structures.
 
 As you become familiar with drawing Lewis structures, you may find the following steps useful to have on hand.
 
-Steps to Drawing Lewis Structures
+[ciscode|rev=1|tool=elmsmedia|item=3391|entity_type=node|render=display_mode|display_mode=h5p]
+
+Download a printable file here: [Steps to Drawing Lewis Structures](https://media.ed.science.psu.edu/sites/media/ed/files/documents/drawing_lewis_dot_structures.pdf)
 
 [ciscode|rev=1|tool=elmsmedia|item=3386|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
