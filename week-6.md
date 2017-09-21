@@ -4,7 +4,7 @@
 * [HW 5](https://genchem.science.psu.edu/homework-5-houck), is due Tuesday
 
 
-## Readings
+## [Readings](https://genchem.science.psu.edu)
 * Chapter 07.4-07.5
 * Chapter 08.1-08.2
 

@@ -7,7 +7,7 @@
 * [HW 4](https://genchem.science.psu.edu/homework-4-houck), is due Tuesday
 * Review your exam once the results are available.  
 
-## Readings
+## [Readings](https://genchem.science.psu.edu)
 * Chapter 06.4-06.6  (note we are skipping 06.3 for now)
 * Chapter 07.1-07.3
 
