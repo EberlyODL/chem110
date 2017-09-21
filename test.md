@@ -30,3 +30,7 @@ Figure 3 on the right shows the region of space an electron could inhabit betwee
 The curve shown in Figure 4 describes energy as a function of the distance between two bonded nuclei (i.e., internuclear distance). When the nuclei are far apart (on the far right), there is no interaction. As the nuclei come closer together, the nuclei begin to share electrons and form a bond. As that happens, the energy goes down since electrons and protons are brought closer together on average. As the distance between the nuclei continues to decrease, energy reaches some minimum before beginning to increase again. The distance at which energy is minimized is the bond distance. This describes the physical distance between two bonded nuclei (i.e., the length of the bond). The reason energy increases as distance continues to decrease is more complicated than it may seem, and is beyond the scope of this course. 
 
 The bond dissociation energy (often abbreviated BDE) describes the energy needed to break a bond. As shown on the graph, it is the difference in energy between the two bonded atoms and the two lone, non-bonded atoms. 
+
+## Try it!
+
+[ciscode|rev=1|tool=elmsmedia|item=2671|entity_type=node|render=display_mode|display_mode=h5p]
