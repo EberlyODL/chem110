@@ -79,6 +79,7 @@
   * [Lewis Structures](lewis-structures.md)
     * [Formal Charge](lewis-structures/formal-charge.md)
     * [Drawing Lewis Structures](lewis-structures/drawing-lewis-structures.md)
+    * [Try it: Drawing Lewis Structures](lewis-structures/try-it-drawing-lewis-structures.md)
     * [Skeletal Structures](lewis-structures/skeletal-structures.md)
 * [Week 6](week-6.md)
   * [Exceptions to the Octet](exceptions-to-the-octet.md)
