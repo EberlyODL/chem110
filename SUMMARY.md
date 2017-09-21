@@ -81,9 +81,11 @@
     * [Drawing Lewis Structures](lewis-structures/drawing-lewis-structures.md)
     * [Skeletal Structures](lewis-structures/skeletal-structures.md)
 * [Week 6](week-6.md)
-  * [Skeletal Structures](skeletal-structures.md)
   * [Exceptions to the Octet](exceptions-to-the-octet.md)
   * [Resonance](resonance.md)
+  * VSEPR Theory
+    * Intro to Geometry
+    * Key Concepts
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
     * video: Intro
