@@ -77,6 +77,9 @@
   * [Covalent Bonding](test.md)
   * [Bond Polarity & Electronegativity](bond-polarity-and-electronegativity.md)
   * [Lewis Structures](lewis-structures.md)
+    * [Formal Charge](lewis-structures/formal-charge.md)
+    * [Drawing Lewis Structures](lewis-structures/drawing-lewis-structures.md)
+    * [Skeletal Structures](lewis-structures/skeletal-structures.md)
 * [Week 6](week-6.md)
   * [Skeletal Structures](skeletal-structures.md)
   * [Exceptions to the Octet](exceptions-to-the-octet.md)
@@ -95,6 +98,7 @@
   * Summary
 * Exam 2
 * [Week 8](week-8.md)
+  * [Intro to Organic](week-8/intro-to-organic.md)
 * [Week 9](week-9.md)
 * [Week 10](week-10.md)
 * Exam 3
