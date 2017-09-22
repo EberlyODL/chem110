@@ -77,4 +77,15 @@
   * [Covalent Bonding](test.md)
   * [Bond Polarity & Electronegativity](bond-polarity-and-electronegativity.md)
   * [Lewis Structures](lewis-structures.md)
+    * [Formal Charge](lewis-structures/formal-charge.md)
+    * [Drawing Lewis Structures](lewis-structures/drawing-lewis-structures.md)
+    * [Try it: Drawing Lewis Structures](lewis-structures/try-it-drawing-lewis-structures.md)
+    * [Skeletal Structures](lewis-structures/skeletal-structures.md)
+* [Week 6](week-6.md)
+  * [Exceptions to the Octet](exceptions-to-the-octet.md)
+  * [Resonance](resonance.md)
+  * VSEPR Theory
+    * Intro to Geometry
+    * [Key Concepts](key-concepts.md)
+    * [Try it: Electron Domain Geometry](try-it-electron-domain-geometry.md)
 * [End of Book](end-of-book.md)

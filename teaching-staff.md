@@ -20,7 +20,3 @@ Hello, my name is Zachary Rhoden.  I am a second year graduate student in the Le
 
 ## Learning Assistants
 
-Coming soon!
-
-
-
