@@ -1,25 +1,30 @@
 # Skeletal Structures
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=3394\|entity\_type=node\|render=display\_mode\|display\_mode=mediavideo**thumbnail**right\]
+[ciscode|rev=1|tool=elmsmedia|item=3394|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right\]
 
 We’ve been learning how to represent simple molecules using Lewis structures. For more complicated molecules, however, writing out Lewis structures can laborious and time consuming. Similarly, the cluttered formalism used for Lewis structures can be difficult to interpret with a quick glance. In this lesson, we will learn about an alternative formalism that is commonly used for representing the structures of carbon-containing molecules.
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=3396\|entity\_type=node\|render=display\_mode\|display\_mode=image**right**lightboxed\]
+[ciscode|rev=1|tool=elmsmedia|item=3396|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
 Skeletal structures are a standardized formalism that is used as shorthand for representing the structures of molecules. They can be drawn quickly, and they aren’t as crowded as Lewis structures. We’ll examine how to draw these structures from a Lewis structure in the video on the right.
 
 ## Try it!
 
-\[ciscode\|rev=1\|tool=elmsmedia\|item=2676\|entity\_type=node\|render=display\_mode\|display\_mode=h5p\]
+[ciscode|rev=1|tool=elmsmedia|item=2676|entity_type=node|render=display_mode|display_mode=h5p]
 
 For more practice drawing and interpreting skeletal structures, try filling in the empty boxes in the table below:
 
 | Lewis structure | Condensed Structural Formula | Bond-line structure |
 | :--- | :--- | :--- |
-|  | CH$$\_3$$COCH$$\_3$$ |  |
-|  |  |  |
+|  | CH$$_3$$COCH$$_3$$ |  |
+|  |  | <div style="float:right;max-width:100px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3397|entity_type=node|render=display_mode|display_mode=image]</div> |
 |  |  |  |
 
 A video solution is available here:  
-\[ciscode\|rev=1\|tool=elmsmedia\|item=3395\|entity\_type=node\|render=display\_mode\|display\_mode=mediavideo\_\_poster\]
+
+[ciscode|rev=1|tool=elmsmedia|item=3395|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+
+<div style="float:right;max-width:100px;margin:auto">
+[ciscode|rev=1|tool=elmsmedia|item=3397|entity_type=node|render=display_mode|display_mode=image]</div>
 
