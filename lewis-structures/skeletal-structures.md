@@ -1,6 +1,6 @@
 # Skeletal Structures
 
-[ciscode|rev=1|tool=elmsmedia|item=3394|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right\]
+[ciscode|rev=1|tool=elmsmedia|item=3394|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 We’ve been learning how to represent simple molecules using Lewis structures. For more complicated molecules, however, writing out Lewis structures can laborious and time consuming. Similarly, the cluttered formalism used for Lewis structures can be difficult to interpret with a quick glance. In this lesson, we will learn about an alternative formalism that is commonly used for representing the structures of carbon-containing molecules.
 
@@ -17,9 +17,9 @@ For more practice drawing and interpreting skeletal structures, try filling in t
 | Lewis structure | Condensed Structural Formula | Bond-line structure |
 | :--- | :--- | :--- |
 |  | CH$$_3$$COCH$$_3$$ |  |
-|  |  | <div style="float:right;max-width:100px;margin:auto">
-[ciscode|rev=1|tool=elmsmedia|item=3397|entity_type=node|render=display_mode|display_mode=image]</div> |
-|  |  |  |
+|  |  | 
+[ciscode|rev=1|tool=elmsmedia|item=3397|entity_type=node|render=display_mode|display_mode=image]|
+|[ciscode|rev=1|tool=elmsmedia|item=3398|entity_type=node|render=display_mode|display_mode=image]  |  |  |
 
 A video solution is available here:  
 
