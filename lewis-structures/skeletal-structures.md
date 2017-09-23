@@ -14,7 +14,7 @@ Skeletal structures are a standardized formalism that is used as shorthand for r
 
 For more practice drawing and interpreting skeletal structures, try filling in the empty boxes in the table below:
 
-| Lewis structure | Condensed Structural Formula | Bond-line structure  |
+| Lewis structure | Condensed Structural Formula | Bond-line structure |
 | :--- | :--- | :--- |
 |  | CH$$\_3$$COCH$$\_3$$ |  |
 |  |  |  |
