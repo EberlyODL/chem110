@@ -8,18 +8,17 @@ We’ve been learning how to represent simple molecules using Lewis structures. 
 
 Skeletal structures are a standardized formalism that is used as shorthand for representing the structures of molecules. They can be drawn quickly, and they aren’t as crowded as Lewis structures. We’ll examine how to draw these structures from a Lewis structure in the video on the right.
 
+<div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
+
+
+
 ## Try it!
 
 [ciscode|rev=1|tool=elmsmedia|item=2676|entity_type=node|render=display_mode|display_mode=h5p]
 
 For more practice drawing and interpreting skeletal structures, try filling in the empty boxes in the table below:
 
-| Lewis structure | Condensed Structural Formula | Bond-line structure |
-| :--- | :--- | :--- |
-|  | CH$$_3$$COCH$$_3$$ |  |
-|  |  | 
-[ciscode|rev=1|tool=elmsmedia|item=3397|entity_type=node|render=display_mode|display_mode=image]|
-|[ciscode|rev=1|tool=elmsmedia|item=3398|entity_type=node|render=display_mode|display_mode=image]  |  |  |
+
 
 A video solution is available here:  
 
