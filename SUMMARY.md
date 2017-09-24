@@ -84,8 +84,8 @@
 * [Week 6](week-6.md)
   * [Exceptions to the Octet](exceptions-to-the-octet.md)
   * [Resonance](resonance.md)
-  * VSEPR Theory
-    * Intro to Geometry
+  * [VSEPR Theory](vsepr-theory.md)
+    * [Intro to Geometry](intro-to-geometry.md)
     * [Key Concepts](key-concepts.md)
     * [Try it: Electron Domain Geometry](try-it-electron-domain-geometry.md)
 * [Week 7](week-7.md)
