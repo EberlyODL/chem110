@@ -5,6 +5,7 @@
 
 # Exceptions to the Octet Rule
 
+[ciscode|rev=1|tool=elmsmedia|item=3425|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 
 ## Try it!
