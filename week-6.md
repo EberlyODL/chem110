@@ -11,8 +11,7 @@
 
 ## Assignments
  
-- [Guiding Question Set 6A](https://psu.instructure.com/courses/1866869/quizzes/3317762) 
-- [Guiding Question Set 6B](https://psu.instructure.com/courses/1866869/quizzes/3317747)
+- [Guiding Question Set 6](https://psu.instructure.com/courses/1866869/quizzes/3317762) 
 - [HW 6](https://genchem.science.psu.edu/homework-6-houck), submit to Canvas by next Tuesday
 
 ## Study Resources
