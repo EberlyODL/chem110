@@ -6,4 +6,4 @@
 * Analyze the shape and bond angles of each central atom in a large molecule. 
 
 
-Lewis structures convey only the connectivity of atoms and placement of electrons.  Using the Valence Shell Electron Pair Repulsion model, we will be able to predict a molecule's three-dimensional shape.  The shape is important for 
+Lewis structures convey only the connectivity of atoms and placement of electrons.  Using the Valence Shell Electron Pair Repulsion (VSEPR) model, we will be able to predict a molecule's three-dimensional shape.  The shape is important for determining a molecule's polarity, which has a big impact on its physical properties.  A practical application of molecular shape is in drug design.  Drugs are often small molecules that have a specific target in the body.  In order to bind or react with the target, the shape of the molecule has to be just right.  
