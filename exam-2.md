@@ -21,6 +21,6 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
 * [Exam 2 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_1_study_guide.pdf)
-* [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3268976) (for practice)
+* [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3268974) (for practice)
 * [Practice Exam 2A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a_key.pdf))
 * Practice Exam 2B (Key)
