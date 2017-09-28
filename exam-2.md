@@ -22,5 +22,5 @@ Please let me know if you have questions or concerns!
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
 * [Exam 2 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_2_study_guide_f17.pdf)
 * [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3268974) (for practice)
-*  Practice Exam 2A(Key)
+* Practice Exam 2A (Key)
 * Practice Exam 2B (Key)
