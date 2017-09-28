@@ -15,5 +15,6 @@
 - [HW 6](https://genchem.science.psu.edu/homework-6-houck), submit to Canvas by next Tuesday
 
 ## Study Resources
-
+Problem Set: Lewis Structures
+Problem Set: Lewis Strcutures, formal charge, bond polarity
 
