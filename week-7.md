@@ -14,7 +14,7 @@
 ## Assignments
  
 - [Guiding Question Set 7](https://psu.instructure.com/courses/1866869/quizzes/3317765) 
-- [HW 7](https://genchem.science.psu.edu/homework-7-houck), submit to Canvas by next Tuesday
+- [HW 7](https://genchem.science.psu.edu/homework-7-houck), submit to Canvas by next Tuesday (all content is on Exam 2)
 
 ## Study Resources
 
