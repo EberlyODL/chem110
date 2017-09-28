@@ -90,17 +90,12 @@
     * [Try it: Electron Domain Geometry](try-it-electron-domain-geometry.md)
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
-    * video: Intro
-    * video: VSEPR
-    * [quiz: Test yourself](lesson-1/molecular-geometry/quiz-check-yourself.md)
   * [Hybridization](lesson-1/hybridization.md)
     * sp3 hybridization
     * sp2 hybridization
     * sp hybridization
-    * Mulitiple bonds
     * Test Yourself
-  * Summary
-* Exam 2
+* [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
   * [Intro to Organic](week-8/intro-to-organic.md)
 * [Week 9](week-9.md)
