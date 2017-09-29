@@ -17,4 +17,5 @@
 ## Study Resources
 Problem Set: Lewis Structures
 Problem Set: Lewis Strcutures, formal charge, bond polarity
+[Problem Set: Skeletal Structures](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset11_condensedformula_bondline.pdf) (Key)
 
