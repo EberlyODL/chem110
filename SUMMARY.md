@@ -89,9 +89,9 @@
     * [Key Concepts](key-concepts.md)
     * [Try it: Electron Domain Geometry](try-it-electron-domain-geometry.md)
 * [Week 7](week-7.md)
-  * [Molecular Geometry](lesson-1/molecular-geometry.md)
+  * [Molecular Polarity](lesson-1/molecular-geometry.md)
   * [Hybridization](lesson-1/hybridization.md)
-    * sp3 hybridization
+    * [sp3 hybridization](lesson-1/hybridization/sp3-hybridization.md)
     * sp2 hybridization
     * sp hybridization
     * Test Yourself
