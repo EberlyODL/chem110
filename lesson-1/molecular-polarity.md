@@ -26,5 +26,5 @@ Figure 1 shows the example of water. If you write out the Lewis structure of wat
 
 [ciscode|rev=1|tool=elmsmedia|item=3494|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
-
+For additional examples, please watch the video to the right.
 
