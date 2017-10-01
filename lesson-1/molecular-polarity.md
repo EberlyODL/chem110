@@ -15,6 +15,8 @@ Earlier, we encountered dipole moment in the context of polar covalent bonds. In
 
 > $$\mu = \delta\text r$$
 
+<div style="float:none;max-width:500px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3503|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]</div
+
 Now, we will examine dipole moments for complete molecules, rather than for isolated bonds. A molecule is polar if there is a net separation of charge between two “ends” or “sides” of the molecule. In other words, a polar molecule is one that has a negative “end” and a positive “end”. In order for a molecule to be polar (to have a net dipole) it must have polar bonds, and the geometries of those bonds must not cause them to cancel each other out (i.e., they can’t be pointed in opposite directions or in directions where they add to zero, which in some cases may not be exactly opposite, such as in the case of trigonal planar molecules). 
 
 To determine the polarity of a molecule you should start by drawing the Lewis structure. Then use the Lewis structure to determine the molecular geometry of the molecule. Next, draw in the dipoles for each bond in the structure. The formalism that is used for this is to show a dipole using an arrow with a cross at its tail. The arrow head points towards the negative end of the dipole (the direction in which electrons are more attracted), and the tail (which resembles a plus sign) points towards the positive end of the dipole. Once you’ve drawn out the dipoles you need to decide whether the dipoles cancel (i.e., whether or not they point in opposite directions). 
