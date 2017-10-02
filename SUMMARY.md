@@ -95,7 +95,7 @@
     * [sp3 hybridization](lesson-1/hybridization/sp3-hybridization.md)
     * [sp2 hybridization](lesson-1/hybridization/sp2-hybridization.md)
     * [sp hybridization](lesson-1/hybridization/sp-hybridization.md)
-    * Test Yourself
+    * [Test Yourself](lesson-1/hybridization/test-yourself.md)
 * [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
   * [Intro to Organic](week-8/intro-to-organic.md)
