@@ -10,3 +10,4 @@
 
 
 
+The five electron domain geometries give rise to 13 molecular geometries.  The molecular geometry describes the shape of the molecule considering only the bonded atoms.
