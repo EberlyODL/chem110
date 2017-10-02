@@ -93,8 +93,8 @@
   * [Molecular Polarity](lesson-1/molecular-polarity.md)
   * [Hybridization](lesson-1/hybridization.md)
     * [sp3 hybridization](lesson-1/hybridization/sp3-hybridization.md)
-    * sp2 hybridization
-    * sp hybridization
+    * [sp2 hybridization](lesson-1/hybridization/sp2-hybridization.md)
+    * [sp hybridization](lesson-1/hybridization/sp-hybridization.md)
     * Test Yourself
 * [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
