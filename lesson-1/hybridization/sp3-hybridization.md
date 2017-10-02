@@ -1,8 +1,7 @@
-<div style="float:right;margin:auto"><ebook-button title="Molecular polarity" link="https://genchem.science.psu.edu/08-4-molecular-polarity"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Hybridization" link="https://genchem.science.psu.edu/09-2-hybridization"></ebook-button></div>
 
 
-# Molecular Polarity
+# $$sp^3$$ Hybridization
 
-**Learning Objectives:** _After this lesson, you should be able to…_
-* Determine the hybrid orbitals involved in covalent bonding using Lewis structures, VSEPR shapes, and with consideration for resonance.
-* Differentiate between sigma and pi bonds, and recognize the types of orbitals involved in these bonds. 
+
+[ciscode|rev=1|tool=elmsmedia|item=3505|entity_type=node|render=display_mode|display_mode=mediavideo__poster]

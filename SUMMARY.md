@@ -91,7 +91,7 @@
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
   * [Molecular Polarity](lesson-1/molecular-polarity.md)
-  * [Hybridization](lesson-1/hybridization.md)
+  * [Valence Bond Theory](lesson-1/hybridization.md)
     * [sp3 hybridization](lesson-1/hybridization/sp3-hybridization.md)
     * [sp2 hybridization](lesson-1/hybridization/sp2-hybridization.md)
     * [sp hybridization](lesson-1/hybridization/sp-hybridization.md)
