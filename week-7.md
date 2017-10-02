@@ -20,4 +20,4 @@
 ## Study Resources
 
 - [Problem set: VSEPR & Resonance](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset13_vsepr_resonance.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset13_vsepr_resonance_key.pdf))
-- [Problem set: Hybridization](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset14_hybridization.pdf) (Key)
+- [Problem set: Hybridization](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset14_hybridization.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset14_hybridization_0.pdf))
