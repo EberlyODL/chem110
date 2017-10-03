@@ -17,6 +17,9 @@
 - [Knowledge Check 4](https://psu.instructure.com/courses/1866869/quizzes/3268980) (Due by Sunday)
 - [HW 5](https://genchem.science.psu.edu/homework-5-houck), submit to Canvas by next Tuesday
 
+## Study Resources
+* [Problem Set: Molecules and Compounds](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problem_set_ch_5_6.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset7_ch_5_6_key.pdf))
+* [Problem Set: Nomenclature](https://media.ed.science.psu.edu/sites/media/ed/files/documents/nomenclature_jdh.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset8_nomenclature_key.pdf))
 
 
 This week we're continuing to build on the concept of bonding.  We'll explore covalent bonding in detail and learn how to draw Lewis structures of simple molecules.
