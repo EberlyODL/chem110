@@ -14,3 +14,4 @@ The five electron domain geometries give rise to 13 molecular geometries.  The m
 
 A summary of the molecular geometries is shown below.  The names describe the shapes, so focus on looking for the shape as described by the name.  This will help you recognize them!
 
+[ciscode|rev=1|tool=elmsmedia|item=3514|entity_type=node|render=display_mode|display_mode=image__left__lightboxed]
