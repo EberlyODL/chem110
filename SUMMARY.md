@@ -106,8 +106,8 @@
     * [Overview](week-8/intermolecular-forces/overview.md)
     * [Forces involving ions](week-8/intermolecular-forces/forces-involving-ions.md)
     * [Polar Molecules](week-8/intermolecular-forces/polar-molecules.md)
-    * Hydrogen bonding
-    * Dispersion Forces
+    * [Hydrogen bonding](week-8/intermolecular-forces/hydrogen-bonding.md)
+    * [Dispersion Forces](week-8/intermolecular-forces/dispersion-forces.md)
     * Summary
 * [Week 9](week-9.md)
 * [Week 10](week-10.md)
