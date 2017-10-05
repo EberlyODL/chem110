@@ -1,7 +1,6 @@
 <div style="float:right;margin:auto"><ebook-button title="Orbital Overlap" link="https://genchem.science.psu.edu/09-1-orbital-overlap"></ebook-button></div>
 
-<div style="float:right;margin:auto"><ebook-button title="Pi bonds" link="https://genchem.science.psu.edu/09-3-%CF%80-bonds
-"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Pi bonds" link="https://genchem.science.psu.edu/09-3-%CF%80-bonds"></ebook-button></div>
 
 
 

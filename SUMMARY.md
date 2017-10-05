@@ -91,17 +91,17 @@
 * [Week 7](week-7.md)
   * [Molecular Geometry](lesson-1/molecular-geometry.md)
   * [Molecular Polarity](lesson-1/molecular-polarity.md)
-  * [Valence Bond Theory](lesson-1/hybridization.md)
-    * [sp3 hybridization](lesson-1/hybridization/sp3-hybridization.md)
-    * [sp2 hybridization](lesson-1/hybridization/sp2-hybridization.md)
-    * [sp hybridization](lesson-1/hybridization/sp-hybridization.md)
-    * [Test Yourself](lesson-1/hybridization/test-yourself.md)
+* [Valence Bond Theory](lesson-1/hybridization.md)
+  * [sp3 hybridization](lesson-1/hybridization/sp3-hybridization.md)
+  * [sp2 hybridization](lesson-1/hybridization/sp2-hybridization.md)
+  * [sp hybridization](lesson-1/hybridization/sp-hybridization.md)
+  * [Test Yourself](lesson-1/hybridization/test-yourself.md)
 * [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
   * [Intro to Organic](week-8/intro-to-organic.md)
     * [Hydrocarbons](week-8/intro-to-organic/hydrocarbons.md)
-    * Isomers
-    * Functional Groups
+    * [Isomers](week-8/intro-to-organic/isomers.md)
+    * [Functional Groups](week-8/intro-to-organic/functional-groups.md)
   * [Intermolecular forces](week-8/intermolecular-forces.md)
     * Overview
     * Forces involving ions
