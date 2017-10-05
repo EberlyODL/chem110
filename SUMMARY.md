@@ -99,6 +99,16 @@
 * [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
   * [Intro to Organic](week-8/intro-to-organic.md)
+    * Hydrocarbons
+    * Isomers
+    * Functional Groups
+  * [Intermolecular forces](week-8/intermolecular-forces.md)
+    * Overview
+    * Forces involving ions
+    * Polar Molecules
+    * Hydrogen bonding
+    * Dispersion Forces
+    * Summary
 * [Week 9](week-9.md)
 * [Week 10](week-10.md)
 * Exam 3
