@@ -1,0 +1,5 @@
+
+
+Organic molecules are compounds that contain carbon. Organic molecules are enormously diverse, owing to the fact that carbon forms strong, stable bonds to other carbon atoms and to other atoms like hydrogen, oxygen, nitrogen, sulfur, and the halogens. Carbon also forms four bonds simultaneously, which allows for complex, branched molecules. Carbon is also capable of forming bonds with higher bond orders, adding even more diversity to the organic molecules that exist. 
+
+The large number of organic molecules makes a classification scheme necessary. The organic molecules with the simplest molecular formulas are the hydrocarbons. These are compounds that consist only of carbon and hydrogen. Other organic compounds contain elements other than carbon and hydrogen; these additional atoms are known as heteroatoms, and they can include nitrogen, oxygen, sulfur, chlorine, etc. Different groupings of organic molecules (e.g., alcohols, ethers, etc.) are defined by the types of atoms they contain and by the way in which those atoms are bonded together (i.e., members of a grouping share a common defining set of atoms). 

@@ -99,7 +99,7 @@
 * [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
   * [Intro to Organic](week-8/intro-to-organic.md)
-    * Hydrocarbons
+    * [Hydrocarbons](week-8/intro-to-organic/hydrocarbons.md)
     * Isomers
     * Functional Groups
   * [Intermolecular forces](week-8/intermolecular-forces.md)
