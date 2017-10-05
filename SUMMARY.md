@@ -103,7 +103,7 @@
     * [Isomers](week-8/intro-to-organic/isomers.md)
     * [Functional Groups](week-8/intro-to-organic/functional-groups.md)
   * [Intermolecular forces](week-8/intermolecular-forces.md)
-    * Overview
+    * [Overview](week-8/intermolecular-forces/overview.md)
     * Forces involving ions
     * Polar Molecules
     * Hydrogen bonding
