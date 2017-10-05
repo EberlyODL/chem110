@@ -104,8 +104,8 @@
     * [Functional Groups](week-8/intro-to-organic/functional-groups.md)
   * [Intermolecular forces](week-8/intermolecular-forces.md)
     * [Overview](week-8/intermolecular-forces/overview.md)
-    * Forces involving ions
-    * Polar Molecules
+    * [Forces involving ions](week-8/intermolecular-forces/forces-involving-ions.md)
+    * [Polar Molecules](week-8/intermolecular-forces/polar-molecules.md)
     * Hydrogen bonding
     * Dispersion Forces
     * Summary
