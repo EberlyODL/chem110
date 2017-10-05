@@ -1,6 +1,6 @@
 <div style="float:right;margin:auto"><ebook-button title="Alkanes" link="https://genchem.science.psu.edu/10-1-alkanes"></ebook-button></div>
 
-<div style="float:right;margin:auto"><ebook-button title="Other hydrocarbons" link="https://genchem.science.psu.edu/10-1-alkanes"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Other hydrocarbons" link="https://genchem.science.psu.edu/10-2-other-hydrocarbons"></ebook-button></div>
 
 
 # Organic Chemistry
