@@ -95,6 +95,7 @@
   * [sp3 hybridization](lesson-1/hybridization/sp3-hybridization.md)
   * [sp2 hybridization](lesson-1/hybridization/sp2-hybridization.md)
   * [sp hybridization](lesson-1/hybridization/sp-hybridization.md)
+  * [Delocalized pi bonding](lesson-1/hybridization/delocalized-pi-bonding.md)
   * [Test Yourself](lesson-1/hybridization/test-yourself.md)
 * [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
