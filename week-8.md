@@ -5,7 +5,7 @@ It's exam week!  The exam covers week 4-7 (Chapters 5-9 in the ebook).
 ## Action Items
 * [HW 7](https://genchem.science.psu.edu/homework-7-houck), is due Tuesday
 * Sign up for your desired exam time on Examity
-* Review the Exam 2 Preparation page
+* Review the [Exam 2 Preparation page](https://courses.ed.science.psu.edu/chem110/exam-2.md)
 * Take Exam 2
 
 
