@@ -18,7 +18,7 @@ It's exam week!  The exam covers week 4-7 (Chapters 5-9 in the ebook).
 
 _I extended the GSQ set until Sunday to allow you to focus on studying._
 
-- [Guiding Question Set 7](https://psu.instructure.com/courses/1866869/quizzes/3317765) 
+- [Guiding Question Set 8](https://psu.instructure.com/courses/1866869/quizzes/3317754) 
 - [HW 8](https://genchem.science.psu.edu/homework-8-houck), submit to Canvas by next Tuesday
 
 ## Study Resources
