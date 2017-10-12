@@ -1,5 +1,10 @@
 <div style="float:right;margin:auto"><ebook-button title="Electrostatic Interactions" link="https://genchem.science.psu.edu/11-2-electrostatic-interactions"></ebook-button></div>
 
+**Learning Objectives:** _After this lesson, you should be able to…_
+* Differentiate between intramolecular and intermolecular forces.
+* Explain the differences between solids, liquids, and gases at the molecular level, and relate kinetic energy and temperature to IMF strength and phases of matter.
+* Use melting point and boiling point data to determine relative IMF strength.
+* Describe and identify ion-ion, ion-dipole, ion-induced dipole, dipole-dipole, dipole-induced dipole, and dispersion interactions.
 
 
 # Overview of Intermolecular Forces (IMF)
