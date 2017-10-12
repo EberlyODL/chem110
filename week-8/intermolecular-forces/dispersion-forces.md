@@ -6,4 +6,6 @@
 * Define polarizability and describe how molecular size and shape influence dispersion forces. 
 
 
+All molecules experience London dispersion forces (LDF).  Even though this is the weakest type of intermolecular forces, if the molecule is large enough, LDF can contribute the most to the total IMF.
+
 
