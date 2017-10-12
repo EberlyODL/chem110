@@ -1,6 +1,6 @@
 # Week 8
 
-It's exam week!  The exam covers week 4-7 (Chapters 5-9 in the ebook).  
+
 
 ## Action Items
 * [HW 8](https://genchem.science.psu.edu/homework-8-houck), is due Tuesday
