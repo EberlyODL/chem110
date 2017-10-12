@@ -7,7 +7,7 @@
 
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 13.
+* Chapter 13.1-13.5
 
 
 ## Assignments
