@@ -111,6 +111,11 @@
     * [Dispersion Forces](week-8/intermolecular-forces/dispersion-forces.md)
     * [Summary](week-8/intermolecular-forces/summary.md)
 * [Week 9](week-9.md)
+  * Heating Curves
+  * Try it!
+  * Vapor Pressure
+  * Phase Diagrams
+  * Liquid Properties
 * [Week 10](week-10.md)
 * Exam 3
 * [Week 11](week-11.md)
