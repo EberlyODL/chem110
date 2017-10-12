@@ -8,3 +8,7 @@ In this lesson you will be introduced to a variety of functional groups. A funct
 
 [ciscode|rev=1|tool=elmsmedia|item=3527|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
+
+# Try it!
+
+[ciscode|rev=1|tool=elmsmedia|item=2714|entity_type=node|render=display_mode|display_mode=h5p]
