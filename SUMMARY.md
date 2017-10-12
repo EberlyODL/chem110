@@ -114,9 +114,9 @@
   * [Phase Changes](week-9/phase-changes.md)
   * [Heating Curves](week-9/heating-curves.md)
   * Try it!
-  * Vapor Pressure
-  * Phase Diagrams
-  * Liquid Properties
+  * [Vapor Pressure](week-9/vapor-pressure.md)
+  * [Phase Diagrams](week-9/phase-diagrams.md)
+  * [Liquid Properties](week-9/liquid-properties.md)
 * [Week 10](week-10.md)
 * Exam 3
 * [Week 11](week-11.md)
