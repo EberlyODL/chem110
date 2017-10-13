@@ -110,4 +110,12 @@
     * [Hydrogen bonding](week-8/intermolecular-forces/hydrogen-bonding.md)
     * [Dispersion Forces](week-8/intermolecular-forces/dispersion-forces.md)
     * Summary
+    * [Summary](week-8/intermolecular-forces/summary.md)
+* [Week 9](week-9.md)
+  * [Phase Changes](week-9/phase-changes.md)
+  * [Heating Curves](week-9/heating-curves.md)
+  * Try it!
+  * [Vapor Pressure](week-9/vapor-pressure.md)
+  * [Phase Diagrams](week-9/phase-diagrams.md)
+  * [Liquid Properties](week-9/liquid-properties.md)
 * [End of Book](end-of-book.md)
