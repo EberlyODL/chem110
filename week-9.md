@@ -12,7 +12,7 @@
 
 ## Assignments
 
-- [Guiding Question Set 9](https://psu.instructure.com/courses/1quizzes/3317754) 
+- [Guiding Question Set 9](https://psu.instructure.com/courses/1866869/quizzes/3317746) 
 - [HW 9](https://genchem.science.psu.edu/homework-9-houck), submit to Canvas by next Tuesday
 
 ## Study Resources
