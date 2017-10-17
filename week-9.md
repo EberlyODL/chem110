@@ -2,7 +2,7 @@
 
 
 ## Action Items
-* [HW 8](https://genchem.science.psu.edu/homework-8-houck), is due Tuesday
+* [HW 8](https://genchem.science.psu.edu/homework-8-wc), is due Tuesday
 * Review your Exam 2 results when they are available
 
 
