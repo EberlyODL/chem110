@@ -113,7 +113,7 @@
 * [Week 9](week-9.md)
   * [Phase Changes](week-9/phase-changes.md)
   * [Heating Curves](week-9/heating-curves.md)
-  * Try it!
+  * [Heating Curve Calculations](week-9/try-it.md)
   * [Vapor Pressure](week-9/vapor-pressure.md)
   * [Phase Diagrams](week-9/phase-diagrams.md)
   * [Liquid Properties](week-9/liquid-properties.md)
