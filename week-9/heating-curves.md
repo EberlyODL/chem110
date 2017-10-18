@@ -3,3 +3,4 @@
 
 # Heating Curves
 
+When heat is applied to a system, two changes can occur: 1) the temperature could increase or 2) a phase change could occur.  The amount of heat required to warm a substance by    
