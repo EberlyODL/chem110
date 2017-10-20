@@ -125,7 +125,7 @@
     * [Try it!](week-10/electrolytes/try-it-electrolytes.md)
   * [Solubility](week-10/solubility.md)
     * Types of Solutions
-* Exam 3
+* [Exam 3 Preparation](exam-3.md)
 * [Week 11](week-11.md)
 * [Week 12](week-12.md)
 * Exam 4
