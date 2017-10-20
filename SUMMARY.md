@@ -119,10 +119,10 @@
   * [Phase Diagrams](week-9/phase-diagrams.md)
   * [Liquid Properties](week-9/liquid-properties.md)
 * [Week 10](week-10.md)
-  * Dissolution Process
-  * Electrolytes
-    * Identifying Electrolytes
-    * Try it: Electrolytes
+  * [Dissolution Process](week-10/dissolution-process.md)
+  * [Electrolytes](week-10/electrolytes.md)
+    * [Identifying Electrolytes](week-10/electrolytes/identifying-electrolytes.md)
+    * [Try it!](week-10/electrolytes/try-it-electrolytes.md)
   * [Solubility](week-10/solubility.md)
     * Types of Solutions
 * Exam 3
