@@ -114,8 +114,17 @@
 * [Week 9](week-9.md)
   * [Phase Changes](week-9/phase-changes.md)
   * [Heating Curves](week-9/heating-curves.md)
-  * Try it!
+    * [Heating Curve Calculations](week-9/try-it.md)
+    * Try it!
   * [Vapor Pressure](week-9/vapor-pressure.md)
   * [Phase Diagrams](week-9/phase-diagrams.md)
   * [Liquid Properties](week-9/liquid-properties.md)
+* [Week 10](week-10.md)
+  * [Dissolution Process](week-10/dissolution-process.md)
+  * [Electrolytes](week-10/electrolytes.md)
+    * [Identifying Electrolytes](week-10/electrolytes/identifying-electrolytes.md)
+    * [Try it!](week-10/electrolytes/try-it-electrolytes.md)
+  * [Solubility](week-10/solubility.md)
+    * Types of Solutions
+* [Exam 3 Preparation](exam-3.md)
 * [End of Book](end-of-book.md)
