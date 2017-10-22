@@ -127,6 +127,9 @@
     * Types of Solutions
 * [Exam 3 Preparation](exam-3.md)
 * [Week 11](week-11.md)
+  * [Concentration](week-11/concentration.md)
+    * [Units of Concentration](week-11/concentration/units-of-concentration.md)
+    * [Dilution](week-11/concentration/dilution.md)
 * [Week 12](week-12.md)
 * Exam 4
 * [Week 13](week-13.md)
