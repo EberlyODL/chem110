@@ -21,3 +21,7 @@ Phase diagrams can give a few useful pieces of information.
 > 4) Predict changes in state that may occur with changing temperature and/or pressure
 
 [ciscode|rev=1|tool=elmsmedia|item=3735|entity_type=node|render=display_mode|display_mode=h5p]
+
+## Try it!
+
+[ciscode|rev=1|tool=elmsmedia|item=2615|entity_type=node|render=display_mode|display_mode=h5p]
