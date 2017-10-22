@@ -8,3 +8,6 @@ Materials exist as solids, liquids, or gases depending on the strength of the in
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3714|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+## Try it!
+[ciscode|rev=1|tool=elmsmedia|item=2627|entity_type=node|render=display_mode|display_mode=mediasvg__right__small__lightboxed]
