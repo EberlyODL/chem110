@@ -7,7 +7,6 @@
 Calculate the energy required to warm solid ice from -10 ºC to steam at 120 ºC.
 
 
-
 [ciscode|rev=1|tool=elmsmedia|item=2789|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 ### Problem 2
