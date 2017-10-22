@@ -2,6 +2,16 @@
 
 ## Heating Curve Calculations
 
+Data you may need to complete the problems below:
+$$C_s$$ (ice) = 2.09 J/(g·K)
+$$C_s$$ (liquid) = 4.18 J/(g·K)
+$$C_s$$ (steam) = 1.84 J/(g·K)
+$$\Delta H_{fus (ice)}$$ = 6.02 kJ/mol
+$$\Delta H_{vap (water)}$$ = 40.67 kJ/mol
+$$\Delta H_{fus (solid N2)}$$ = 0.72 kJ/mol
+$$\Delta H_{vap (liq N2)}$$ = 5.59 kJ/mol
+
+
 [ciscode|rev=1|tool=elmsmedia|item=2789|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 
