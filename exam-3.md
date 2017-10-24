@@ -21,7 +21,7 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
 
-* [Exam 3 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/document)
+* [Exam 3 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_3_study_guide_f17wc.pdf)
 
 * [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3269000) (for practice)
 
