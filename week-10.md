@@ -16,7 +16,7 @@
 
 ## Study Resources
 
-Problem Set: Solutions (Key)
+[Problem Set: Solutions](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset18_solutions.pdf) (Key)
 
 
 

@@ -23,7 +23,7 @@ _I extended the GSQ set until Sunday to allow you to focus on studying for Exam 
 
 ## Study Resources
 
-Problem Set: Isomers and Functional Groups (Key)
+[Problem Set: Isomers and Functional Groups](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset15_isomersfunctional_groupswc.pdf) (Key)
 
 
 
