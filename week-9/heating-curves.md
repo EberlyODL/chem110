@@ -3,7 +3,18 @@
 
 # Heating Curves
 
-Define specific heat and molar heat capacity. Know the proper units for these quantities and be able to convert between these quantities using molar mass. Sketch a heating/cooling curve of a pure substance, showing how the temperature of a substance is affected by the addition/removal of heat. –	Describe the heating curves in terms of changes in kinetic and potential energy.  –	Calculate the total amount of heat transferred when a substance changes temperature and/or undergoes a phase transition.
+**Learning Objectives:** _After this lesson, you should be able to…_
+
+
+* Define specific heat and molar heat capacity. Know the proper units for these quantities and be able to convert between these quantities using molar mass. 
+
+* Sketch a heating/cooling curve of a pure substance, showing how the temperature of a substance is affected by the addition/removal of heat. 
+
+* Describe the heating curves in terms of changes in kinetic and potential energy.  
+
+* Calculate the total amount of heat transferred when a substance changes temperature and/or undergoes a phase transition.
+
+
 [ciscode|rev=1|tool=elmsmedia|item=3729|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 When heat is applied to a system, two changes can occur: 1) the temperature could increase or 2) a phase change could occur.  The amount of heat required to warm a substance 1 $$^{\circ}$$C or 1 K is known as the heat capacity.  Heat capacity is an extrinsic property, meaning that it depends on the amount.  The specific heat (or specific heat capacity), $$C_s$$ is the amount of heat required to warm 1 g of a substance 1 $$^{\circ}$$C or 1 K.  The molar heat capacity, $$C_m$$ is the amount of heat necessary to warm 1 mol of a substance 1 $$^{\circ}$$C or 1 K.
