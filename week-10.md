@@ -11,7 +11,7 @@
 
 ## Assignments
 
-- [Guiding Question Set 10](https://psu.instructure.com/courses/1866869/quizzes/3317753) 
+- [Guiding Question Set 10](https://psu.instructure.com/courses/1866869/quizzes/3317753) (Due Friday)
 - [HW 10](https://genchem.science.psu.edu/homework-10-houck), submit to Canvas by next Tuesday
 
 ## Study Resources
