@@ -1,6 +1,9 @@
 <div style="float:right;margin:auto"><ebook-button title="Properties of Liquids" link="https://genchem.science.psu.edu/13-5-properties-liquids"></ebook-button></div>
 
+**Learning Objectives:** _After this lesson, you should be able to…_
 
+* Define viscosity and surface tension.
+* Given structures (formula) of molecules, predict their relative properties based on intermolecular forces.
 
 # Properties of Liquids
 
