@@ -130,6 +130,9 @@
   * [Concentration](week-11/concentration.md)
     * [Units of Concentration](week-11/concentration/units-of-concentration.md)
     * [Dilution](week-11/concentration/dilution.md)
+  * Intro to Gases
+    * Kinetic Molecular Theory
+    * Molecular Speeds
 * [Week 12](week-12.md)
 * Exam 4
 * [Week 13](week-13.md)
