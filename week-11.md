@@ -8,7 +8,7 @@ It's exam week!  The exam covers week 8-10 (Chapters 10-11, 13, 14.1-14.2, 14.4 
 
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 14.3
+* Chapter 14.3 (skip mole fraction)
 * Chapter 12.1 (skip $$\mu_{rms}$$ calculations)
 * Chapter 12.2 (only read the first paragraph and Figure  12-2-1. We are skipping effusion/diffusion and Graham's Law calculations)
 
