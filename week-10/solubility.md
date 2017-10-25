@@ -1,7 +1,12 @@
 <div style="float:right;margin:auto"><ebook-button title="Solubility" link="https://genchem.science.psu.edu/14-4-solubility"></ebook-button></div>
 
 
+<div style="float:right;margin:auto"><ebook-button title="Solubility" link="https://genchem.science.psu.edu/14-4-solubility"></ebook-button></div>
 
+
+# Solubility
+
+[ciscode|rev=1|tool=elmsmedia|item=3768|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 Solubility of MgCl$$_2$$

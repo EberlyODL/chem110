@@ -124,7 +124,7 @@
     * [Identifying Electrolytes](week-10/electrolytes/identifying-electrolytes.md)
     * [Try it!](week-10/electrolytes/try-it-electrolytes.md)
   * [Solubility](week-10/solubility.md)
-    * Types of Solutions
+    * [Types of Solutions](week-10/solubility/types-of-solutions.md)
 * [Exam 3 Preparation](exam-3.md)
 * [Week 11](week-11.md)
   * [Concentration](week-11/concentration.md)
