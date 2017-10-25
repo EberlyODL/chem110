@@ -134,8 +134,8 @@
     * Kinetic Molecular Theory
     * Molecular Speeds
 * [Week 12](week-12.md)
-* Exam 4
 * [Week 13](week-13.md)
+* Exam 4 Preparation
 * [Week 14](week-14.md)
 * [Week 15](week-15.md)
 * Final Exam
