@@ -1,5 +1,10 @@
 <div style="float:right;margin:auto"><ebook-button title="Solubility" link="https://genchem.science.psu.edu/14-4-solubility"></ebook-button></div>
 
+**Learning Objectives:** _After this lesson, you should be able to…_
+
+* Define solubility and determine whether a solution is unsaturated, saturated, or supersaturated.
+
+* Predict whether a solute will be soluble in a solvent based on similar IMFs.
 
 
 # Solubility
