@@ -131,9 +131,9 @@
     * [Units of Concentration](week-11/concentration/units-of-concentration.md)
     * [Concentration of Ions](week-11/concentration/concentration-of-ions.md)
     * [Dilution](week-11/concentration/dilution.md)
-  * Intro to Gases
-    * Kinetic Molecular Theory
-    * Molecular Speeds
+  * [Intro to Gases](week-11/intro-to-gases.md)
+    * [Kinetic Molecular Theory](week-11/intro-to-gases/kinetic-molecular-theory.md)
+    * [Molecular Speeds](week-11/intro-to-gases/molecular-speeds.md)
 * [Week 12](week-12.md)
 * [Week 13](week-13.md)
 * Exam 4 Preparation
