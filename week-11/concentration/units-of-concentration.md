@@ -3,6 +3,7 @@
 **Learning Objectives:** _After this lesson, you should be able to…_
 
 
+
 Concentration describes the amount of a solute in a solution versus the total amount of solvent and/or solution present. Concentration can be expressed in a variety of ways, which are outlined below. 
 
 The mass fraction describes the mass of solute in a solution divided by the total mass of the solution. The mass fraction will always have a value between zero and one, representing the two extreme cases in which there is no solute (mass fraction = 0) or no solvent (mass fraction = 1). The mass fraction can be converted into a mass percentage by multiplying it by 100%. The mass percentage would range in value from 0% to 100%. 
@@ -11,4 +12,4 @@ The concentration of a solute in a solution could also be expressed as a mole fr
 
 We can also express concentration in terms of molarity (M). The molarity of a solute in a solution is equal to the number of moles of the solute in the solution divided by the total number of liters of solution. The unit molar (M) is used to express concentration in terms of molarity. If the concentration of a solute in a solution is 1 M, that means that one liter of that solution would contain one mole of that solute. 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=3784|entity_type=node|render=display_mode|display_mode=mediavideo]
