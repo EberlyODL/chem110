@@ -21,10 +21,10 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
 
-* [Exam 3 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/document)
+* [Exam 3 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_3_study_guide_f17wc.pdf)
 
 * [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3269000) (for practice)
 
-* [Practice Exam 3A]
+* [Practice Exam 3A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc_key.pdf))
 
-* [Practice Exam 3B]
+* [Practice Exam 3B](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3b_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3b_key.pdf))

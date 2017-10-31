@@ -11,12 +11,12 @@
 
 ## Assignments
 
-- [Guiding Question Set 10](https://psu.instructure.com/courses/1866869/quizzes/) 
+- [Guiding Question Set 10](https://psu.instructure.com/courses/1866869/quizzes/3317753) (Due Friday)
 - [HW 10](https://genchem.science.psu.edu/homework-10-houck), submit to Canvas by next Tuesday
 
 ## Study Resources
 
-
+[Problem Set: Solutions](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset18_solutions.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset18_solutions_key.pdf))
 
 
 

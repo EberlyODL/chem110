@@ -1,10 +1,26 @@
 # Week 11
 
-**Assignments**
- 
-- Guiding Question Set 1A 
-- Guiding Question Set 1B
-- [HW 11](https://genchem.science.psu.edu/homework-11-houck), submit to Canvas by 08/29
+It's exam week!  The exam covers weeks 8-10 (Chapters 10-11, 13, 14.1-14.2, 14.4 in the ebook). 
+
+## Action Items
+* [HW 10](https://genchem.science.psu.edu/homework-10-houck), is due Tuesday
+* Sign up for Exam 3 in Examity
+
+
+## [Readings](https://genchem.science.psu.edu)
+* Chapter 14.3 (skip mole fraction)
+* Chapter 12.1 (skip $$\mu_{rms}$$ calculations)
+* Chapter 12.2 (only read the first paragraph and Figure  12-2-1. We are skipping effusion/diffusion and Graham's Law calculations.)
+
+
+## Assignments
+
+- [Guiding Question Set 11](https://psu.instructure.com/courses/1866869/quizzes/331) (Extended to Sunday due to Exam 3)
+- [HW 11](https://genchem.science.psu.edu/homework-11-houck), submit to Canvas by next Tuesday
+
+
+## Study Resources
+
 
 
 
