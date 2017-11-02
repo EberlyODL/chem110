@@ -16,6 +16,8 @@
 
 Covalent bonding results from the overlap of atomic orbitals to form a new bonding orbital. The shared electron pair is contained within the bonding orbital. The example of the covalent bond in $$H_2$$ is shown in Figure 1. When hydrogen exists as a free atom its 1s atomic orbital houses its lone electron. When two hydrogen atoms come together, their 1s orbitals overlap, forming a new orbital that houses the shared pair of electrons.
 
+<div style="clear:both;"></div>
+
 [ciscode|rev=1|tool=elmsmedia|item=3516|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
 The plot on the right in Figure 2 should look familiar, as we saw one like it in earlier. Like before, this graph is plotting energy versus the distance between a pair of hydrogen nuclei. As the two atoms come closer together their orbitals begin to overlap, enabling the sharing of electrons, leading to a decrease in energy. Beyond some point, however, energy increases with decreasing distance. At some point in between, however, energy is minimized. The distance that minimizes energy is the bond distance.
