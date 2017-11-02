@@ -1,3 +1,4 @@
+# Dilution
 
 Solutions can be manipulated by transferring the solution (moving a portion of a solution from one container to another) or by dilution (making a weaker solution by adding more solvent). The to the right describes how each process affects the concentrations of solutes in the solution. In this illustration a red-colored solute is dissolved in the initial solution at the top of the figure. The dark red color of this solution implies that the concentration of the solute is high. When some of the solution is poured out (i.e., transferred), as shown in the left arrow, the concentration of the solution remains constant (the color of the solution didn’t change, indicating that the solute concentration did not change). The volume of the solution and the total number of moles of solute in the solution did change, but the concentration (the ratio of moles of solute to the volume of the solution) remained the same. 
 
