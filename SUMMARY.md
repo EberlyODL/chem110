@@ -135,6 +135,10 @@
     * [Kinetic Molecular Theory](week-11/intro-to-gases/kinetic-molecular-theory.md)
     * [Molecular Speeds](week-11/intro-to-gases/molecular-speeds.md)
 * [Week 12](week-12.md)
+  * Gas Laws
+  * Density and Ideal Gases
+  * STP
+  * Change of States
 * [Week 13](week-13.md)
 * Exam 4 Preparation
 * [Week 14](week-14.md)
