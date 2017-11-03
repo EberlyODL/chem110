@@ -1,7 +1,7 @@
 # Week 12
 
 ## Action Items
-* [HW 11](https://genchem.science.psu.edu/homework-11-houck), is due Tuesday
+* [HW 11](https://genchem.science.psu.edu/homework-11-wc), is due Tuesday
 * Review your Exam 3 feedback when it is available
 
 
