@@ -10,7 +10,7 @@
 
 * Interpret a Boltzmann distribution of molecular speeds and match Boltzmann curves to gas samples of various temperatures and molar masses.
 
-
+As you read ebook section 12.1, please skip the rms speed calculations (i.e. E12-1-3).  I only expect you know the relative relationship of temperature and mass on molecular speed.  In section 12.2, only read to the end of Figure 12-2-1.  We will be skipping effusion and diffusion.
 
 Now, we will revisit kinetic molecular theory, which we introduced when we learned about IMFs, and we will use it to model the behavior of gases. As we saw earlier in the course, the central idea behind kinetic molecular theory is that molecules are in constant motion (i.e., molecules have kinetic energy). When kinetic molecular theory is used to model the behavior of gases, it uses the five key postulates that are shown below. Postulates 1-3 are largely self-explanatory. When we say “elastic collisions” in postulate 4 we mean that when gas molecules collide, the total amount of kinetic energy stays the same (kinetic energy isn’t converted into potential energy during collisions). Postulate 5 is really important. It states that the average amount of kinetic energy that the gas contains (abbreviated with the Greek letter epsilon, ε) is proportional to temperature. In other words, the average kinetic energy in the gas is determined solely by the temperature. The identity of the gas doesn’t matter, thus any two gases will have the same average kinetic energy if they are at the same temperature. The higher the temperature, the more kinetic energy the molecules have on average. 
 
