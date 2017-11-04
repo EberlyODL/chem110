@@ -4,6 +4,6 @@ Solutions can be manipulated by transferring the solution (moving a portion of a
 
 When extra water (i.e., solvent) is added to the initial solution to dilute it, as shown in the right arrow, the concentration of the solute in the solution decreases, as reflected by the lighter red color of the resulting solution. The total number of moles of solute remained constant in the solution (no solute was added or removed from the solution), but the volume of the solution increased. Thus, the concentration of the solute (the ratio of moles of solute to volume of the solution) decreased. 
 
-
+[ciscode|rev=1|tool=elmsmedia|item=3785|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 [ciscode|rev=1|tool=elmsmedia|item=2601|entity_type=node|render=display_mode|display_mode=h5p]
