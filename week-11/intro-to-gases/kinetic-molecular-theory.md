@@ -4,6 +4,11 @@
 
 **Learning Objectives:** _After this lesson, you should be able to…_
 
+* Describe the key postulates of KMT and explain how KMT relates to behavior of gas particles.
+
+* Connect the effect of temperature on the average kinetic energies and the root-mean-square speed of gases.
+
+* Interpret a Boltzmann distribution of molecular speeds and match Boltzmann curves to gas samples of various temperatures and molar masses.
 
 
 
