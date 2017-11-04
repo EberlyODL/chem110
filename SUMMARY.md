@@ -133,7 +133,6 @@
     * [Dilution](week-11/concentration/dilution.md)
   * [Intro to Gases](week-11/intro-to-gases.md)
     * [Kinetic Molecular Theory](week-11/intro-to-gases/kinetic-molecular-theory.md)
-    * [Molecular Speeds](week-11/intro-to-gases/molecular-speeds.md)
 * [Week 12](week-12.md)
   * [Gas Laws](week-12/gas-laws.md)
   * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)

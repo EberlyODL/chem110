@@ -16,6 +16,8 @@ Now, we will revisit kinetic molecular theory, which we introduced when we learn
 
 These postulates are part of a theoretical model used to describe the behavior of gases. Gases that perfectly follow all of these postulates are known as ideal gases (they behave ideally). In reality no gas is perfectly ideal, and in fact there are times when engineers deliberately make a gas behave non-ideally, but under most conditions, most gases are pretty close to ideal. Therefore, this model is useful for describing the behaviors of most gases. 
 
-Molecular speed is influenced by temperature and molar mass.  As we have discussed, the kinetic energy is proportional to temperature.  At higher temperatures, molecules are moving faster.  With respect to mass, faster molecules will move slower than lighter molecules.
+## Molecular Speeds 
+
+Molecular speed is influenced by temperature and molar mass.  As we have discussed, the kinetic energy is proportional to temperature.  At higher temperatures, molecules are moving faster.  With respect to mass, faster molecules will move slower than lighter molecules at constant temperature.
  
 [ciscode|rev=1|tool=elmsmedia|item=3797|entity_type=node|render=display_mode|display_mode=h5p]
