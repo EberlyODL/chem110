@@ -1,7 +1,19 @@
 <div style="float:right;margin:auto"><ebook-button title="Concentration" link="https://genchem.science.psu.edu/14-3-concentration"></ebook-button></div>
 
+# Units of Concentration
+
 **Learning Objectives:** _After this lesson, you should be able to…_
 
+* Define mass fraction, weight percent, mole fraction, ppm, ppb, ppt, molarity, and convert from any concentration unit to another.
+
+* Calculate the concentration of ions in an electrolyte solution.
+
+* Determine the concentration of species (compounds or ions) after transfer or dilution.
+
+*Determine the concentration of species in solution when two (or more) solutions are mixed.
+
+
+[ciscode|rev=1|tool=elmsmedia|item=3784|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 
 Concentration describes the amount of a solute in a solution versus the total amount of solvent and/or solution present. Concentration can be expressed in a variety of ways, which are outlined below. 
@@ -12,4 +24,6 @@ The concentration of a solute in a solution could also be expressed as a mole fr
 
 We can also express concentration in terms of molarity (M). The molarity of a solute in a solution is equal to the number of moles of the solute in the solution divided by the total number of liters of solution. The unit molar (M) is used to express concentration in terms of molarity. If the concentration of a solute in a solution is 1 M, that means that one liter of that solution would contain one mole of that solute. 
 
-[ciscode|rev=1|tool=elmsmedia|item=3784|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+
+[ciscode|rev=1|tool=elmsmedia|item=3798|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
