@@ -135,8 +135,9 @@
     * [Kinetic Molecular Theory](week-11/intro-to-gases/kinetic-molecular-theory.md)
 * [Week 12](week-12.md)
   * [Gas Laws](week-12/gas-laws.md)
-  * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)
   * [STP](week-12/stp.md)
+  * [Partial Pressure](week-12/partial-pressure.md)
+  * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)
   * [Change of States](week-12/change-of-states.md)
 * [Week 13](week-13.md)
 * Exam 4 Preparation
