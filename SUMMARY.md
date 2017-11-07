@@ -137,7 +137,7 @@
   * [Gas Laws](week-12/gas-laws.md)
   * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)
   * [STP](week-12/stp.md)
-  * Change of States
+  * [Change of States](week-12/change-of-states.md)
 * [Week 13](week-13.md)
 * Exam 4 Preparation
 * [Week 14](week-14.md)

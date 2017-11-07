@@ -3,10 +3,12 @@
 ## Action Items
 * [HW 11](https://genchem.science.psu.edu/homework-11-wc), is due Tuesday
 * Review your Exam 3 feedback when it is available
+* Use the grade calculation spreadsheet and evaluate your standing in the course
 
 
 ## [Readings](https://genchem.science.psu.edu)
-
+Chapter 12.3-6
+Chapter 15.1
 
 
 ## Assignments
