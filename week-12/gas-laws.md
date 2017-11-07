@@ -13,8 +13,39 @@ In the following lessons we will examine the properties of gases. Gases have a u
 
 The three diagrams in Figure 2 illustrate the differences between solids, liquids, and gases at the molecular level. Notice that in liquids and solids the molecules are close to each other; they are held close to one another by intermolecular interactions. A solid is able to hold its own shape and a liquid spreads out on the bottom of the container. In an ideal gas, however, the molecules are spread apart and not interacting with each other (refer back to KMT). Also, notice that the gas fills the volume of the container, whereas the liquid and solid do not. 
 
+We can describe the state of a gas in terms of the number of molecules of gas molecules in the sample (n), its pressure (P), its volume (V), and its absolute temperature (T). Absolute temperature is measured in units of Kelvin. The convert from °C to Kelvin you simply add 273.15 to the temperature in Celsius. The coldest temperature possible temperature, which is unachievable, is 0 K, or absolute zero. 
 
-A sample of gas is described by four state variables, pressure (P), volume (V), temperature (T) and the amount of gas particles, usually expressed in moles (n). These variables completely define the state of a gas and dictate its physical experimentally measurable properties. We can explore the relationship between these variables by keeping two variables constant while manipulating the others. Under constant pressure and temperature, the volume of gas is directly proportional to the number of moles (Avogadro's law). At constant temperature and an unchanging number of moles of gas, the pressure is inversely proportional to the volume (Boyle's law). With the pressure and number of moles kept constant, the volume of gas is directly proportional to temperature (Charles's law). All of these PVT relationships can be derived directly from KMT.
+These parameters are related to one another by three fundamental relationships, listed to the right. Boyle’s Law describes the relationship between pressure and volume, Charles’s Law describes the relationship between volume and temperature, and Avogadro’s Law describes the relationship between volume and number of moles in the sample. You don’t need to memorize the name of each relationship. 
+
+Boyle’s Law, Charles’s Law, and Avogadro’s Law are all proportionalities. Boyle’s law states that V is proportional to 1/P, or we can also say that V is inversely proportional to P. Charles’s Law states that V is proportional to T, and Avogadro’s Law states that n is proportional to V. We can rewrite each proportionality as an equation by adding in a proportionality constant (k), as shown below.
+
+> $$V \propto \frac1P \rightarrow V = \frac kP   $$ 
+
+> $$V \propto T \rightarrow V = kT   $$ 
+
+> $$n \propto V \rightarrow n = kV   $$ 
+
+> $$P \propto T \rightarrow P = kT$$
+
+The reason why you don’t need to memorize Boyle’s Law, Charles’s Law, and Avogradro’s Law is because all three relationships are reflected in the ideal gas law. The ideal gas law ($$PV=nRT$$) describes how all four parameters (P, V, n, and T) relate to each other. R is the gas constant, whose value is $$0.08206\frac{L·atm}{mol·K}$$. 
+
+Shown below, we see how each of the relationships above relate to the ideal gas law. Starting with Boyle’s law (V=k/P), we can rearrange the ideal gas law to solve it for V (V=nRT/P). This allows us to see that the proportionality constant for Boyle’s Law is nRT (as shown in parentheses on the right side). Thus, Boyle’s Law only holds true when both n and T are constant. We can do the same thing for Charles’s Law, and we see that its proportionality constant equals nR/P (as shown in parentheses on the right side). The same process, applied to Avogadro’s Law gives us a proportionality constant of P/RT. 
+
+| Law | Variables | Relationship to IGL |
+| :--- | :--- | :--- | :--- |
+| Boyle's | $$V =\frac kP  $$ | $$V =\frac {nRT}P = (nRT)\frac 1P  $$ | 
+| Charles' | $$V = kT  $$ | $$V =\frac {nRT}P = (\frac{nR}P)T  $$ |
+| Avogadro's | $$n = kV  $$ | $$n =\frac {PV}{RT} = (\frac{P}{RT})V  $$
+| Gay-Lussac's | $$P = kT  $$ | $$P =\frac {nRT}{V} = (\frac{nR}{V})T  $$
+
+
+
+
+
+
+
+
+
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3837|entity_type=node|render=display_mode|display_mode=h5p]
