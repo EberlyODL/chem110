@@ -13,7 +13,7 @@ Chapter 15.1
 
 ## Assignments
 
-- [Guiding Question Set 12](https://psu.instructure.com/courses/1866869/quizzes/331) 
+- [Guiding Question Set 12](https://psu.instructure.com/courses/1866869/quizzes/3317728) 
 - [HW 12](https://genchem.science.psu.edu/homework-12-wc), submit to Canvas by next Tuesday
 
 
