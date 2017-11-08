@@ -9,6 +9,7 @@
 
 * Use ppm to describe the mole fraction of a gas.
 
+[ciscode|rev=1|tool=elmsmedia|item=3854|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
 In this lesson, we will examine the behaviors of mixtures of gases. Generally speaking, each gas in a mixture behaves independently of the other gases in the mixture. We can describe each gas in a mixture in terms of its partial pressure. The partial pressure of a gas is the pressure that this gas would exert if it were the only gas in the container. For example, in the gas mixture illustrated in the diagram, the partial pressure of the gas represented with green dots would be the pressure in the container if all of the purple dots were removed. Similarly, the partial pressure of gas represented with purple dots would be the pressure in the container if all of the green dots were removed. One way to think about this is that the green gas doesn’t affect how evenly the purple gas is distributed in the box.
 
