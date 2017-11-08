@@ -9,7 +9,12 @@
 
 * Use the ideal gas law to calculate P, V, T, n, or mass of a gas sample given the necessary experimental information.
 
+[ciscode|rev=1|tool=elmsmedia|item=3856|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
+
 In the following lessons we will examine the properties of gases. Gases have a unique set of properties. Gases will assume the shape and volume of their container (i.e., the volume of a gas equals the volume of its container). Gases also exert a force, called pressure (P), against surfaces they contact. Gases also have low densities and are compressible. By compressible, we mean that we can decrease the volume of a gas by applying a force to it. This is illustrated by the diagram of a piston in Figure 1. When a force is applied to the piston, it will decrease the volume of the gas contained within it. 
+
+
+[ciscode|rev=1|tool=elmsmedia|item=3855|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
 The three diagrams in Figure 2 illustrate the differences between solids, liquids, and gases at the molecular level. Notice that in liquids and solids the molecules are close to each other; they are held close to one another by intermolecular interactions. A solid is able to hold its own shape and a liquid spreads out on the bottom of the container. In an ideal gas, however, the molecules are spread apart and not interacting with each other (refer back to KMT). Also, notice that the gas fills the volume of the container, whereas the liquid and solid do not. 
 
