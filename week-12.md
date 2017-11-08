@@ -7,8 +7,8 @@
 
 
 ## [Readings](https://genchem.science.psu.edu)
-Chapter 12.3-6
-Chapter 15.1
+* Chapter 12.3-4, 6 (skip 12.5)
+* Chapter 15.1
 
 
 ## Assignments
