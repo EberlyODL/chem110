@@ -139,6 +139,7 @@
   * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)
   * [Partial Pressure](week-12/partial-pressure.md)
   * [Change of States](week-12/change-of-states.md)
+  * [Solubility of Gases](week-12/solubility-of-gases.md)
   * Intro to Chemical Reactions
     * Balancing Chemical Reactions
     * Reaction Types
