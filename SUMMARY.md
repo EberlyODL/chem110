@@ -140,9 +140,9 @@
   * [Partial Pressure](week-12/partial-pressure.md)
   * [Change of States](week-12/change-of-states.md)
   * [Solubility of Gases](week-12/solubility-of-gases.md)
-  * Intro to Chemical Reactions
-    * Balancing Chemical Reactions
-    * Reaction Types
+  * [Intro to Chemical Reactions](week-12/intro-to-chemical-reactions.md)
+    * [Balancing Chemical Reactions](week-12/intro-to-chemical-reactions/balancing-chemical-reactions.md)
+    * [Reaction Types](week-12/intro-to-chemical-reactions/reaction-types.md)
 * [Week 13](week-13.md)
 * Exam 4 Preparation
 * [Week 14](week-14.md)
