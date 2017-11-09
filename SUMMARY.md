@@ -144,6 +144,15 @@
     * [Balancing Chemical Reactions](week-12/intro-to-chemical-reactions/balancing-chemical-reactions.md)
     * [Reaction Types](week-12/intro-to-chemical-reactions/reaction-types.md)
 * [Week 13](week-13.md)
+  * Double Displacement
+  * Gas Evolution
+  * Strong acid-Strong base
+  * Weak Acid\(Base\) - Strong Base\(Acid\)
+  * Stoichiometry
+  * [Theoretical Yield](week-13/yield.md)
+  * [Limiting Reactant](week-13/limiting-reactant.md)
+  * [Percent Yield](week-13/percent-yield.md)
+  * [Combustion Analysis](week-13/combustion-analysis.md)
 * Exam 4 Preparation
 * [Week 14](week-14.md)
 * [Week 15](week-15.md)
