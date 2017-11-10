@@ -137,7 +137,23 @@
     * [Molecular Speeds](week-11/intro-to-gases/molecular-speeds.md)
 * [Week 12](week-12.md)
   * [Gas Laws](week-12/gas-laws.md)
-  * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)
   * [STP](week-12/stp.md)
   * Change of States
+  * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)
+  * [Partial Pressure](week-12/partial-pressure.md)
+  * [Change of States](week-12/change-of-states.md)
+  * [Solubility of Gases](week-12/solubility-of-gases.md)
+  * [Intro to Chemical Reactions](week-12/intro-to-chemical-reactions.md)
+    * [Balancing Chemical Reactions](week-12/intro-to-chemical-reactions/balancing-chemical-reactions.md)
+    * [Reaction Types](week-12/intro-to-chemical-reactions/reaction-types.md)
+* [Week 13](week-13.md)
+  * Double Displacement
+  * Gas Evolution
+  * Strong acid-Strong base
+  * Weak Acid\(Base\) - Strong Base\(Acid\)
+  * Stoichiometry
+  * [Theoretical Yield](week-13/yield.md)
+  * [Limiting Reactant](week-13/limiting-reactant.md)
+  * [Percent Yield](week-13/percent-yield.md)
+  * [Combustion Analysis](week-13/combustion-analysis.md)
 * [End of Book](end-of-book.md)
