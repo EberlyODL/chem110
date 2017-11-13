@@ -144,11 +144,12 @@
     * [Balancing Chemical Reactions](week-12/intro-to-chemical-reactions/balancing-chemical-reactions.md)
     * [Reaction Types](week-12/intro-to-chemical-reactions/reaction-types.md)
 * [Week 13](week-13.md)
-  * Double Displacement
-  * Gas Evolution
-  * Strong acid-Strong base
-  * Weak Acid\(Base\) - Strong Base\(Acid\)
-  * Stoichiometry
+  * [Double Displacement](week-13/double-displacement.md)
+    * [Precipitation](week-13/double-displacement/test.md)
+    * Gas Evolution
+    * Strong acid-Strong base
+    * Weak Acid\(Base\) - Strong Base\(Acid\)
+  * [Stoichiometry](week-13/stoichiometry.md)
   * [Theoretical Yield](week-13/yield.md)
   * [Limiting Reactant](week-13/limiting-reactant.md)
   * [Percent Yield](week-13/percent-yield.md)
