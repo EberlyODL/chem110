@@ -146,15 +146,15 @@
 * [Week 13](week-13.md)
   * [Double Displacement](week-13/double-displacement.md)
     * [Precipitation](week-13/double-displacement/test.md)
-    * Gas Evolution
+    * [Gas Evolution](week-13/double-displacement/gas-evolution.md)
     * [Strong acid-Strong base](week-13/double-displacement/strong-acid-strong-base.md)
     * [Weak Acid\(Base\) - Strong Base\(Acid\)](week-13/double-displacement/weak-acidbase-strong-baseacid.md)
-    * Try it: Net Ionic Equation
+    * [Try it: Net Ionic Equation](week-13/double-displacement/try-it-net-ionic-equation.md)
   * [Single Displacement & Redox](week-13/single-displacement-and-redox.md)
-  * [Stoichiometry](week-13/stoichiometry.md)
-  * [Theoretical Yield](week-13/yield.md)
-  * [Limiting Reactant](week-13/limiting-reactant.md)
-  * [Percent Yield](week-13/percent-yield.md)
+  * [Reaction Stoichiometry](week-13/stoichiometry.md)
+    * [Theoretical Yield](week-13/yield.md)
+    * [Limiting Reactant](week-13/limiting-reactant.md)
+    * [Percent Yield](week-13/percent-yield.md)
   * [Combustion Analysis](week-13/combustion-analysis.md)
 * Exam 4 Preparation
 * [Week 14](week-14.md)
