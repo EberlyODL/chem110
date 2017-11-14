@@ -7,7 +7,8 @@
 # Single Displacement and Redox Definitions
 
 In this lesson, we will learn about reduction and oxidation (redox) reactions. These reactions involve atoms either gaining or losing electrons. 
-For now, we will focus on the definitions and 
+
+Single displacement reactions are one type of redox reaction.  Combination, decomposition, and combustion reactions can also be classified as redox.
 
 
 
