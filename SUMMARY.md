@@ -152,6 +152,8 @@
     * [Weak Acid\(Base\) - Strong Base\(Acid\)](week-13/double-displacement/weak-acidbase-strong-baseacid.md)
     * [Try it: Net Ionic Equation](week-13/double-displacement/try-it-net-ionic-equation.md)
   * [Single Displacement & Redox](week-13/single-displacement-and-redox.md)
+    * [Oxidation Number](week-13/single-displacement-and-redox/oxidation-number.md)
+    * [Try it: Oxidation Number](week-13/single-displacement-and-redox/try-it-oxidation-number.md)
   * [Reaction Stoichiometry](week-13/stoichiometry.md)
     * [Theoretical Yield](week-13/yield.md)
     * [Limiting Reactant](week-13/limiting-reactant.md)
