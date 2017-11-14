@@ -6,7 +6,8 @@
 
 # Single Displacement and Redox Definitions
 
-
+In this lesson, we will learn about reduction and oxidation (redox) reactions. These reactions involve atoms either gaining or losing electrons. 
+For now, we will focus on the definitions and 
 
 
 
@@ -19,7 +20,7 @@
 
 # Oxidation Number
 
-In the upcoming lecture we will learn about reduction and oxidation (redox) reactions. These reactions involve atoms either gaining or losing electrons. We can keep track of how many electrons an atom has using its oxidation number, a convention used to describe the charge of an atom. The rules for assigning oxidation numbers (also known as oxidation states) are described below.
+ We can keep track of how many electrons an atom has using its oxidation number, a convention used to describe the charge of an atom. The rules for assigning oxidation numbers (also known as oxidation states) are described below.
 
 > 1) Oxidation state of an atom in elemental form is zero.
 
