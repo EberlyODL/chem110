@@ -131,6 +131,7 @@
     * [Units of Concentration](week-11/concentration/units-of-concentration.md)
     * [Concentration of Ions](week-11/concentration/concentration-of-ions.md)
     * [Dilution](week-11/concentration/dilution.md)
+    * [Try it: Dilution](week-11/concentration/try-it-dilution.md)
   * [Intro to Gases](week-11/intro-to-gases.md)
     * [Kinetic Molecular Theory](week-11/intro-to-gases/kinetic-molecular-theory.md)
 * [Week 12](week-12.md)
