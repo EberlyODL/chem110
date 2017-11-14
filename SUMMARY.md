@@ -156,7 +156,7 @@
     * [Limiting Reactant](week-13/limiting-reactant.md)
     * [Percent Yield](week-13/percent-yield.md)
   * [Combustion Analysis](week-13/combustion-analysis.md)
-* Exam 4 Preparation
+* [Exam 4 Preparation](exam-4-preparation.md)
 * [Week 14](week-14.md)
 * [Week 15](week-15.md)
 * Final Exam
