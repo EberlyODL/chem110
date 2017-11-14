@@ -147,8 +147,10 @@
   * [Double Displacement](week-13/double-displacement.md)
     * [Precipitation](week-13/double-displacement/test.md)
     * Gas Evolution
-    * Strong acid-Strong base
-    * Weak Acid\(Base\) - Strong Base\(Acid\)
+    * [Strong acid-Strong base](week-13/double-displacement/strong-acid-strong-base.md)
+    * [Weak Acid\(Base\) - Strong Base\(Acid\)](week-13/double-displacement/weak-acidbase-strong-baseacid.md)
+    * Try it: Net Ionic Equation
+  * [Single Displacement & Redox](week-13/single-displacement-and-redox.md)
   * [Stoichiometry](week-13/stoichiometry.md)
   * [Theoretical Yield](week-13/yield.md)
   * [Limiting Reactant](week-13/limiting-reactant.md)
