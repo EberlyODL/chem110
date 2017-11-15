@@ -6,8 +6,12 @@
 
 
 **Combustion**
+[ciscode|rev=1|tool=elmsmedia|item=4084|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
 
 Combustion reactions are characterized by a fuel (usually an organic compound) mixing with oxygen gas and producing carbon dioxide and water.
+
+_Example_:
+> $$CH_4 + 2O_2 \longrightarrow CO_2 + 2H_2O$$
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
@@ -16,12 +20,23 @@ Combustion reactions are characterized by a fuel (usually an organic compound) m
 
 **Combination**
 
+When two (or more) elements or compounds come together to make larger ones.
+
+_Examples_:
+> $$2 Mg + O_2 \longrightarrow  2 MgO$$
+
+> $$2H_2 + O_2 \longrightarrow 2H_2O$$
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 
 **Decomposition**
 
+A compound breaks down into two or more smaller ones.
+
+_Example_: 
+
+> $$2 H_2O \longrightarrow 2H_2 + O_2$$
 
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
@@ -29,6 +44,10 @@ Combustion reactions are characterized by a fuel (usually an organic compound) m
 
 **Double Displacement**
 
+When salts in aqueous solution mix, a double displacement reaction could occur.  Two metals (or hydrogen atoms) swap places.  
+
+Examples:
+> $$CuSO_4 + Ca
 
 
 
