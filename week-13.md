@@ -13,7 +13,7 @@
 
 ## Assignments
 
-- [Guiding Question Set 13](https://psu.instructure.com/courses/1866869/quizzes/) 
+- [Guiding Question Set 13](https://psu.instructure.com/courses/1866869/quizzes/3317768) 
 - [HW 13](https://genchem.science.psu.edu/homework-13-houck), submit to Canvas by next Tuesday
 
 

@@ -18,3 +18,6 @@ The partial pressures of all of the gases in a mixture add up to the total press
 We can also describe the gases in a mixture in terms of their mole fraction ($$X_i$$, where “i” is the identity of a specific gas in the mixture). The mole fraction for a gas in a mixture is the number of moles of that particular gas ($$n_i$$) divided by the total number of moles present ($$n_{tot}$$) (i.e., $$X_i=n_i/n_{tot}$$). If we look at the diagram again, the mole fraction of the gas represented by the green dots would be equal to the total number of green atoms divided by the total number of atoms (green and purple) in the container. 
 
 The mole fraction for a gas is also equal to the partial pressure of the gas divided by the total pressure (Pt) (i.e., $$X_i=P_i/P_{tot}$$). The later relationship can be rearranged to show that the partial pressure of a gas is proportional to its mole fraction in a mixture ($$P_i=X_i*P_{tot}$$). 
+
+
+[ciscode|rev=1|tool=elmsmedia|item=4068|entity_type=node|render=display_mode|display_mode=mediavideo]
