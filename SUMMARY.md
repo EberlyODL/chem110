@@ -161,6 +161,12 @@
   * [Combustion Analysis](week-13/combustion-analysis.md)
 * [Exam 4 Preparation](exam-4-preparation.md)
 * [Week 14](week-14.md)
+  * Enthalpy
+  * Reaction Enthalpies
+  * Calorimetry
+  * Bond dissociation energies
+  * Hess' Law
+  * Heats of Formation
 * [Week 15](week-15.md)
 * Final Exam
 
