@@ -138,7 +138,6 @@
 * [Week 12](week-12.md)
   * [Gas Laws](week-12/gas-laws.md)
   * [STP](week-12/stp.md)
-  * Change of States
   * [Density and Ideal Gases](week-12/density-and-ideal-gases.md)
   * [Partial Pressure](week-12/partial-pressure.md)
   * [Change of States](week-12/change-of-states.md)
