@@ -1,4 +1,4 @@
-<div style="float:right;margin:auto"><ebook-button title="Stoichimetry" link="https://genchem.science.psu.edu/15-4-stoichiometry"></ebook-button></div>
+<div style="float:right;margin:auto"><ebook-button title="Stoichiometry" link="https://genchem.science.psu.edu/15-4-stoichiometry"></ebook-button></div>
 
 
 # Stoichiometry

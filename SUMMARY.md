@@ -162,4 +162,14 @@
     * [Limiting Reactant](week-13/limiting-reactant.md)
     * [Percent Yield](week-13/percent-yield.md)
   * [Combustion Analysis](week-13/combustion-analysis.md)
+    * [Try it: Reaction Calculations](week-13/try-it-reaction-calculations.md)
+* [Exam 4 Preparation](exam-4-preparation.md)
+* [Week 14](week-14.md)
+  * [Combustion Analysis](week-13/combustion-analysis.md)
+  * Enthalpy
+  * Reaction Enthalpies
+  * Calorimetry
+  * Bond dissociation energies
+  * Hess' Law
+  * Heats of Formation
 * [End of Book](end-of-book.md)
