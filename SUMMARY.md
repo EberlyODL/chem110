@@ -97,7 +97,7 @@
     * [sp hybridization](lesson-1/hybridization/sp-hybridization.md)
     * [Delocalized pi bonding](lesson-1/hybridization/delocalized-pi-bonding.md)
     * [Test Yourself](lesson-1/hybridization/test-yourself.md)
-  * [Exam 2 Preparation](exam-2.md)
+* [Exam 2 Preparation](exam-2.md)
 * [Week 8](week-8.md)
   * [Intro to Organic](week-8/intro-to-organic.md)
     * [Hydrocarbons](week-8/intro-to-organic/hydrocarbons.md)
