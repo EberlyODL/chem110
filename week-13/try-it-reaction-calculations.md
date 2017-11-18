@@ -1,6 +1,6 @@
 # Try it: Reaction Calculations
 
-Below you will find four representative problems involving reaction calculations.  There are full solutions available as video screencasts on the right.  For additional practice, please review Week 13 Recitation problem #5 and try problem set 21!  
+Below you will find four representative problems involving reaction calculations.  There are full solutions available as video screencasts on the right.  For additional practice, please try problem set 21!  
 
 
 ## Solution reaction: What is the mass of precipitate produced?
