@@ -109,7 +109,6 @@
     * [Polar Molecules](week-8/intermolecular-forces/polar-molecules.md)
     * [Hydrogen bonding](week-8/intermolecular-forces/hydrogen-bonding.md)
     * [Dispersion Forces](week-8/intermolecular-forces/dispersion-forces.md)
-    * Summary
     * [Summary](week-8/intermolecular-forces/summary.md)
 * [Week 9](week-9.md)
   * [Phase Changes](week-9/phase-changes.md)
