@@ -27,4 +27,4 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 
 * [Practice Exam 4A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_4a_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_4a_key_wc.pdf))
 
-* [Practice Exam 4B](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_4b_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3b_key.pdf))
+* [Practice Exam 4B](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_4b_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_exam_4b_key_wc.pdf))
