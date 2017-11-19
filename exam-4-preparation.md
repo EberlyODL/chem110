@@ -25,6 +25,6 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 
 * [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3268981) (for practice)
 
-* [Practice Exam 4A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc_key.pdf))
+* [Practice Exam 4A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_4a_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc_key.pdf))
 
-* [Practice Exam 4B](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3b_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3b_key.pdf))
+* [Practice Exam 4B](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_4b_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3b_key.pdf))
