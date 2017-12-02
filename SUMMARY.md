@@ -165,9 +165,9 @@
   * [Enthalpy](week-13/enthalpy.md)
   * [Reaction Enthalpies](week-13/reaction-enthalpies.md)
   * Calorimetry
-  * Bond dissociation energies
-  * Hess' Law
+  * [Hess' Law](week-13/hess-law.md)
   * Heats of Formation
+  * Bond dissociation energies
 * [Week 15](week-15.md)
 * Final Exam
 
