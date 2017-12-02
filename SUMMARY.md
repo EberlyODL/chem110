@@ -162,7 +162,6 @@
 * [Exam 4 Preparation](exam-4-preparation.md)
 * [Week 14](week-14.md)
   * [Combustion Analysis](week-13/combustion-analysis.md)
-  * [Enthalpy](week-13/enthalpy.md)
   * [Reaction Enthalpies](week-13/reaction-enthalpies.md)
   * [Calorimetry](week-13/calorimetry.md)
   * [Hess' Law](week-13/hess-law.md)
