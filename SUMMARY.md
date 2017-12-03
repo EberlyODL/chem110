@@ -134,7 +134,6 @@
     * [Try it: Dilution](week-11/concentration/try-it-dilution.md)
   * [Intro to Gases](week-11/intro-to-gases.md)
     * [Kinetic Molecular Theory](week-11/intro-to-gases/kinetic-molecular-theory.md)
-    * [Molecular Speeds](week-11/intro-to-gases/molecular-speeds.md)
 * [Week 12](week-12.md)
   * [Gas Laws](week-12/gas-laws.md)
   * [STP](week-12/stp.md)
@@ -159,15 +158,13 @@
     * [Theoretical Yield](week-13/yield.md)
     * [Limiting Reactant](week-13/limiting-reactant.md)
     * [Percent Yield](week-13/percent-yield.md)
-  * [Combustion Analysis](week-13/combustion-analysis.md)
     * [Try it: Reaction Calculations](week-13/try-it-reaction-calculations.md)
 * [Exam 4 Preparation](exam-4-preparation.md)
 * [Week 14](week-14.md)
   * [Combustion Analysis](week-13/combustion-analysis.md)
-  * Enthalpy
-  * Reaction Enthalpies
-  * Calorimetry
-  * Bond dissociation energies
-  * Hess' Law
-  * Heats of Formation
-* [End of Book](end-of-book.md)
+  * [Reaction Enthalpies](week-13/reaction-enthalpies.md)
+  * [Calorimetry](week-13/calorimetry.md)
+  * [Hess' Law](week-13/hess-law.md)
+  * [Heats of Formation](week-13/heats-of-formation.md)
+  * [Bond dissociation energies](week-13/bond-dissociation-energies.md)
+* Final Exam
