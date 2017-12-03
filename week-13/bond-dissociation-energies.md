@@ -1,4 +1,10 @@
+<div style="float:right;margin:auto"><ebook-button title="Bond Energies" link="https://genchem.science.psu.edu/16-5-bond-energies"></ebook-button></div>
 
+
+
+
+
+# Bond Dissociation Energy
 
 The final estimation of $$\Delta H _{rxn}$$ uses bond dissociation energy (BDE) values to estimate $$\Delta H  _{rxn}$$ given the number and type of bonds that are broken and formed during the process. As we saw earlier in the semester, bond dissociation energy is the enthalpy that must be absorbed for a bond to in a molecule to break in the gas phase. In our e-book you can find lists of BDE values for a variety of bonds. For example, if you look up the BDE for an H-H single bond, you’ll see that this bond has a bond dissociation energy of 436 kJ/mol. That means that a mole of $$H_2$$ in the gas phase would need to absorb 436 kJ of energy in order for the H-H bond to break.
 
