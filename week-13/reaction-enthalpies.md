@@ -14,6 +14,5 @@ An example of a thermochemical equation is the combustion of hydrogen to produce
 
 [ciscode|rev=1|tool=elmsmedia|item=4147|entity_type=node|render=display_mode|display_mode=h5p]
 
-## Try it!
-[ciscode|rev=1|tool=elmsmedia|item=4146|entity_type=node|render=display_mode|display_mode=mediavideo]
+
 
