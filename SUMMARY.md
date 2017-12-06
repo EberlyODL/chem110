@@ -169,7 +169,7 @@
   * [Hess' Law](week-13/hess-law.md)
     * [Try it: Hess's Law](week-13/hess-law/try-it-hesss-law.md)
   * [Heats of Formation](week-13/heats-of-formation.md)
-    * Try it: Heats of Formation
+    * [Try it: Heats of Formation](week-13/heats-of-formation/try-it-heats-of-formation.md)
   * [Bond dissociation energies](week-13/bond-dissociation-energies.md)
 * [Week 15](week-15.md)
 * Final Exam
