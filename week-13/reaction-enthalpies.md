@@ -1,7 +1,7 @@
 <div style="float:right;margin:auto"><ebook-button title="Reaction Enthalpies" link="https://genchem.science.psu.edu/16-1-reaction-enthalpies"></ebook-button></div>
 
 
-# Intro to Enthalpy of Reactions
+# Enthalpy of Reactions
 
 
 As we learned earlier in the course, enthalpy is the heat transferred at constant pressure. We’ve encountered enthalpy several times throughout the course, and we discussed it thoroughly in the context of physical processes such as phase transitions. Chemical processes also have enthalpy changes associated with them. The enthalpy change associated with a chemical reaction is known as the heat of reaction (ΔHrxn). Like other values of ΔH that we have encountered, ΔHrxn can be positive or negative (endothermic or exothermic). In an endothermic reaction the bonds that are broken during the reaction are stronger on average than the bonds that are formed. Conversely, in an exothermic reaction the bonds that are broken during the reaction are weaker on average than the bonds that are formed. 
