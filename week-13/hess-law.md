@@ -10,3 +10,5 @@ There are three strategies for calculating heats of reaction. The first of these
 
 Hess’s Law works because enthalpy is a state function and is thus not path dependent. In this example it doesn’t matter which path is taken when A is converted to C, the enthalpy change will always be the same, regardless of whether B is formed as an intermediate during the process. 
 
+[ciscode|rev=1|tool=elmsmedia|item=4148|entity_type=node|render=display_mode|display_mode=mediavideo]
+

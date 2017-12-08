@@ -163,8 +163,12 @@
 * [Week 14](week-14.md)
   * [Combustion Analysis](week-13/combustion-analysis.md)
   * [Reaction Enthalpies](week-13/reaction-enthalpies.md)
+    * [Try it: Reaction Enthalpies](week-13/reaction-enthalpies/try-it-reaction-enthalpies.md)
   * [Calorimetry](week-13/calorimetry.md)
+    * [Try it: Calorimetry](week-13/calorimetry/try-it-calorimetry.md)
   * [Hess' Law](week-13/hess-law.md)
+    * [Try it: Hess's Law](week-13/hess-law/try-it-hesss-law.md)
   * [Heats of Formation](week-13/heats-of-formation.md)
+    * [Try it: Heats of Formation](week-13/heats-of-formation/try-it-heats-of-formation.md)
   * [Bond dissociation energies](week-13/bond-dissociation-energies.md)
 * Final Exam
