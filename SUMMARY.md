@@ -172,5 +172,5 @@
     * [Try it: Heats of Formation](week-13/heats-of-formation/try-it-heats-of-formation.md)
   * [Bond dissociation energies](week-13/bond-dissociation-energies.md)
 * [Week 15](week-15.md)
-* Final Exam
+* [Final Exam](final-exam.md)
 
