@@ -30,7 +30,7 @@ We can divide covalent bonds into two categories: sigma (σ) bonds and pi (π) b
 
 In contrast to sigma bonds, pi bonds feature two regions of overlap, and they result from the side-to-side overlap of two p orbitals (Figure 4). In contrast to sigma bonds, pi bonds are not symmetric if viewed down the length of the internuclear axis. Instead, you would observe two regions of electron density on either side of the internuclear axis. As a consequence of this, it is not possible for pi bonds to rotate without disrupting the overlap between the two p orbitals.
 
-You’ll also notice that in the slide we show p orbitals as being shaded with two different colors. These colors represent the sign of the orbital’s wave function in that region of space. Bonding can only take place when orbital regions with the same wave function sign overlap.
+You’ll also notice that in the figure we show p orbitals as being shaded with two different colors. These colors represent the sign of the orbital’s wave function in that region of space. Bonding can only take place when orbital regions with the same wave function sign overlap.
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3504|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
