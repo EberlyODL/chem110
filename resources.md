@@ -17,7 +17,7 @@ In this course, there will be several types of videos.  I encourage you to take 
 Recitations will one-hour meetings with 3-6 other students in the course.  We will schedule these during the first week and begin meetings in week 2.  Two learning assistants will be logged on to help guide you and your teammates through solving problems.  Recitation worksheets will be available on each "Week X" page.
 
 **Problem Sets**
-Even more practice problems are available in Problem Sets.  Each problem set contains exam-level questions and are intended to be used as preparation for the exam.  
+Even more practice problems are available in Problem Sets.  Each problem set contains exam-level questions and are intended to be used as preparation for the exam.  These are completely optional.
 
 **[Piazza](https://psu.instructure.com/courses/1866869/external_tools/195053)**
 If you have any content-related questions, please do not hesitate to post them on [Piazza](https://psu.instructure.com/courses/1866869/external_tools/195053)! The instructional staff will monitor this to get you an answer as soon as possible.  Other students can even answer questions that can be approved.  When someone asks a question, everyone can benefit!
