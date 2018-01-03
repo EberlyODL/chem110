@@ -14,17 +14,16 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 
 ## Action Items
 
-- Respond to the [When is Good](http://whenisgood.net/z7tj85x) poll indicating your availability for a weekly, one-hour recitation (problem solving session).  Ignore the dates in the poll - I will schedule a recurring meeting for the semester.
+- Respond to the [When is Good](http://whenisgood.net/sbefax3) poll indicating your availability for a weekly, one-hour recitation (problem solving session).  Ignore the dates in the poll - I will schedule a recurring meeting for the semester.
 - Introduce yourself on the "Introductions" discussion post on [Piazza](https://psu.instructure.com/courses/1866869/external_tools/195053).
-- [Introductory Homework](https://genchem.science.psu.edu/introductory-homework-houck) (Submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by 8/27, refer to the [HW Expectations](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf))
+- [Introductory Homework](https://genchem.science.psu.edu/introductory-homework-houck) (Submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by 01/11, refer to the [HW Expectations](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf))
 - Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
 
 ## Assignments
 
-- [eBook and Syllabus Scavenger Hunt](https://psu.instructure.com/courses/1866869/quizzes/3302905)
-- [Guiding Question Set 1A](https://psu.instructure.com/courses/1866869/quizzes/3269028) 
-- [Guiding Question Set 1B](https://psu.instructure.com/courses/1866869/quizzes/3269030)
-- [HW 1](https://genchem.science.psu.edu/homework-1-houck), submit to [Canvas](https://psu.instructure.com/courses/1866869/modules)
+- [eBook and Syllabus Scavenger Hunt](https://psu.instructure.com/courses/1924663/quizzes/3367084)
+- [Guiding Question Set 1](https://psu.instructure.com/courses/1924663/quizzes/3367078)
+- [HW 1](https://genchem.science.psu.edu/homework-1-houck), submit to [Canvas](https://psu.instructure.com/courses/1924663/modules)
 
 
 ## Study Materials
@@ -37,5 +36,4 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 
 
 This week we will start with the very basics - the building blocks of matter.  We will learn about the structure of an atom, define isotopes, and see how atoms form molecules and ions.  Because atoms, molecules, and ions are all so small, we will need a way to count them.  We will use the mole (Avogadro's number) to count "things" on the atomic scale and convert between mass and moles.  Last, we will introduce energy as this is a key concept in chemistry.  We will talk in detail about electrostatic potential energy and light energy.  You will likely notice that energy is a theme that is weaved throughout the course. 
-
 
