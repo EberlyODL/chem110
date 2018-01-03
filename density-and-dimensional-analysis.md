@@ -47,6 +47,6 @@ Time in minutes =$$(58.5 kJ)(\frac{1000 J}{1 kJ})\frac{1 sec}{850J})(\frac{1 min
 [ciscode|rev=1|tool=elmsmedia|item=3209|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
 
-#### **[Click here](https://psu.instructure.com/courses/1866869/assignments/9446806 "Conversions Part A") to try out the Part A quiz for this section.**
+#### **[Click here](https://psu.instructure.com/courses/1924663/quizzes/3367095 "Conversions Part A") to try out the Part A quiz for this section.**
 
-#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446803 "Conversions Part B")!**
+#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1924663/quizzes/3367101 "Conversions Part B")!**
