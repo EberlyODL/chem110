@@ -41,7 +41,7 @@ There is one other unusual unit that you'll see from time to time in CHEM 110, t
 
 ## Video Examples
 
-[ciscode|rev=1|tool=elmsmedia|item=3210\|entity_type=node|render=display_mode\|display_mode=mediavideo]
+[ciscode|rev=1|tool=elmsmedia|item=3210|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 #### [**Click here**](https://psu.instructure.com/courses/1924663/quizzes/3367130 "Metric Units Part A")** to try out the Part A quiz for this section.**
 
