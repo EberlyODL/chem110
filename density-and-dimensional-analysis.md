@@ -41,10 +41,10 @@ Time in minutes =$$(58.5 kJ)(\frac{1000 J}{1 kJ})\frac{1 sec}{850J})(\frac{1 min
 
 ## Video Examples
 
-[ciscode|rev=1|tool=elmsmedia|item=3208|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3208|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3209|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3209|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 #### **[Click here](https://psu.instructure.com/courses/1924663/quizzes/3367095 "Conversions Part A") to try out the Part A quiz for this section.**
