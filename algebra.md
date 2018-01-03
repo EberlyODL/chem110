@@ -58,7 +58,7 @@ Similarly, when you divide two of the same base, you can subtract the exponents.
 $$\frac{n^x}{n^y}=n^{x-y}$$
 
 
-**_Example 1: _**
+**_Example 1: _**
 
 $$10^2\cdot10^{-6}=$$
 
@@ -69,7 +69,7 @@ $$10^2\cdot10^{-6}=10^{-4}$$
 
 If you're asked to express this as a decimal, keep in mind that the negative exponent is equivalent to saying 1/10<sup>4</sup>, or 1/10,000, or simply 0.0001.
 
-**_Example 2: _**
+**_Example 2: _**
 
 $$10^2\div10^{-6}=$$
 
@@ -129,6 +129,6 @@ Now I know the values of both x and y; x = -3 and y = -7
 
 [ciscode|rev=1|tool=elmsmedia|item=3207|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
-#### **[Click here](https://psu.instructure.com/courses/1866869/assignments/9446800 "Algebra Part A") to try out the Part A quiz for this section.**
+#### **[Click here](https://psu.instructure.com/courses/1924663/quizzes/3367077 "Algebra Part A") to try out the Part A quiz for this section.**
 
-#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1866869/assignments/9446799 "Algebra Part B")!**
+#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1924663/quizzes/3367105 "Algebra Part B")!**
