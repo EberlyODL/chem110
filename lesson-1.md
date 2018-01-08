@@ -4,10 +4,7 @@
 Each week will begin with an overview page of what will be covered that week. _Action items_ are tasks that need to be completed in the nearer future and reminders for things upcoming.
 Under the _Assignments_ heading, you will find the things you need to complete over the course of the week. Most weeks will follow a standard schedule. Guiding Question Sets will be due by Sunday. Homework will be due by the following Thursday. Last, the optional Knowledge Check for the week is due by the following Sunday. (The deadline for all assignments is 11:59 pm on the due date.)
 
-The figure below illustrates a typical weekly schedule:
-<div style="float:none;max-width:1000px;margin:auto">
-[ciscode|rev=1|tool=elmsmedia|item=3243|entity_type=node|render=display_mode|display_mode=image]
-</div>
+
 
 I am also including _Study Materials_ that you may wish to work through. These will include optional problem sets that cover the week's content. If you don't have a chance to use them each week, they are definitely something to revisit as you prepare for exams.
 
