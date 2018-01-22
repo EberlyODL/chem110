@@ -3,16 +3,15 @@
 
 
 ## Action Items
-* [HW 2](https://genchem.science.psu.edu/homework-2-houck) is due Tuesday on Canvas
+* [HW 2](https://genchem.science.psu.edu/homework-2-houck) is due Thursday on Canvas
 * Login to Examity and make sure your profile is up-to-date.
-* Think about when you will take your exam between 09/13 and 09/16.  You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
+* Think about when you will take your exam between 01/25 and 01/27.  You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
 
 
 ## Assignments
  
-- [Guiding Question Set 3A](https://psu.instructure.com/courses/1866869/quizzes/3317727) 
-- [Guiding Question Set 3B](https://psu.instructure.com/courses/1866869/quizzes/3317742)
-- [HW 3](https://genchem.science.psu.edu/homework-3-houck), submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by next Tuesday
+- Guiding Question Set 3
+- [HW 3](https://genchem.science.psu.edu/homework-3-houck), submit to Canvas by next Thursday
 * [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by next Friday to Canvas (good exam review!)
 
 ## Study Materials
