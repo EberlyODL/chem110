@@ -10,7 +10,7 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 
 ## Assignments
  
-- [Guiding Question Set 2A](https://psu.instructure.com/courses/1924663/quizzes/3367082)
+- [Guiding Question Set 2](https://psu.instructure.com/courses/1924663/quizzes/3367082)
 - [HW 2](https://genchem.science.psu.edu/homework-2-houck), submit to Canvas by next Thursday
 
 ## Study Materials
