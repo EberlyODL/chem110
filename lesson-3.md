@@ -5,7 +5,7 @@
 ## Action Items
 * [HW 2](https://genchem.science.psu.edu/homework-2-houck) is due Thursday on Canvas
 * Login to Examity and make sure your profile is up-to-date.
-* Think about when you will take your exam between 01/25 and 01/27.  You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
+* Think about when you will take your exam between 02/02 and 02/03.  You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
 
 
 ## Assignments
