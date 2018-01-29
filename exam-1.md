@@ -37,7 +37,11 @@ Please let me know if you have questions or concerns!
 
 ## Resources:
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
+
 * [Exam 1 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_1_study_guide.pdf)
+
 * [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1924663/quizzes/3367112) (for practice)
+
 * [Practice Exam 1A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a_key.pdf))
-* Practice Exam 1B is available in Examity for you to get the experience of authenticating and connecting with a proctor before you take the actual exam.  I hope that will reduce some stress!  After you take the practice exam, you will be able to download the answer key.
+
+* Practice Exam 1B is available in Examity for you to get the experience of authenticating and connecting with a proctor before you take the actual exam.  I hope that will reduce some stress!  After you take the practice exam, email me for the answer key.
