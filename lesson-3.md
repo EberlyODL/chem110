@@ -10,6 +10,7 @@
 
 ## Assignments
 - Guiding Question Set 3
+- Knowledge Check 2
 - [HW 3](https://genchem.science.psu.edu/homework-3-houck), submit to Canvas by next Thursday
 * [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by next Friday to Canvas (good exam review!)
 
