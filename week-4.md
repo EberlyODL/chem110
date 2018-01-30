@@ -7,21 +7,17 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 ## Action Items
 * Schedule your exam in [Examity](https://psu.instructure.com/courses/1866869/external_tools/196889?display=borderless)
 * Schedule and take practice exam 1B in Examity (optional, but encouraged!)
-* [HW 3](https://genchem.science.psu.edu/homework-3-houck), is due Tuesday
+* [HW 3](https://genchem.science.psu.edu/homework-3-houck), is due Thursday
 * [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by Friday to Canvas
 
 
 ## Assignments
 
-_I extended the Guiding Question Sets to Sunday to allow you to focus on the exam in the early part of the week._
+- Guiding Question Set 4
 
+- Knowledge Check 3
 
-- [Guiding Question Set 4A](https://psu.instructure.com/courses/1866869/quizzes/3317735) (Due Friday)
-
-- [Guiding Question Set 4B](https://psu.instructure.com/courses/1866869/quizzes/3317745) (Due Friday)
-- [Knowledge Check 3](https://psu.instructure.com/courses/1866869/quizzes/3268977) (Due Sunday)
-
-- [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Tuesday
+- [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Thursday
 
 
 
