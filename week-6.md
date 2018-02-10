@@ -1,7 +1,7 @@
 # Week 6
 
 ## Action Items
-* [HW 5](https://genchem.science.psu.edu/homework-5-wc), is due Tuesday
+* [HW 5](https://genchem.science.psu.edu/homework-5-wc), is due Thursday
 
 
 ## [Readings](https://genchem.science.psu.edu)
@@ -11,8 +11,8 @@
 
 ## Assignments
  
-- Guiding Question Set 6
-- [HW 6](https://genchem.science.psu.edu/homework-6-wc), submit to Canvas by next Tuesday
+- Guiding Question Set 6 by Sunday
+- [HW 6](https://genchem.science.psu.edu/homework-6-wc), submit to Canvas by next Thursday
 
 ## Study Resources
 * [Problem Set: Lewis Structures](https://media.ed.science.psu.edu/sites/media/ed/files/documents/lewis_dot_structures.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/lewis_dot_structures_key_2.pdf))
