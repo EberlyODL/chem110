@@ -14,7 +14,7 @@
 ## Assignments
 - Guiding Question Set 5(Due by Sunday)
 - Knowledge Check 4 (Due by Sunday)
-- [HW 5](https://genchem.science.psu.edu/homework-5-houck), submit to Canvas by next Thursday
+- [HW 5](https://genchem.science.psu.edu/homework-5-wc), submit to Canvas by next Thursday
 
 ## Study Resources
 * [Problem Set: Molecules and Compounds](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problem_set_ch_5_6.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset7_ch_5_6_key.pdf))
