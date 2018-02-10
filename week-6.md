@@ -11,7 +11,8 @@
 
 ## Assignments
  
-- Guiding Question Set 6 by Sunday
+- Guiding Question Set 6 (Due by Sunday)
+- Knowledge Check 5 (optional, due by Sunday)
 - [HW 6](https://genchem.science.psu.edu/homework-6-wc), submit to Canvas by next Thursday
 
 ## Study Resources
