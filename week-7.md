@@ -15,6 +15,7 @@
  
 - Optional [extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/ec_molecular_geometry_wc.pdf) on molecular geometry (worth 2 points), due by Friday
 - Guiding Question Set 7 (Due by Sunday)
+- Knowledge Check 6 (optional, due by Sunday)
 - [HW 7](https://genchem.science.psu.edu/homework-7-wc), submit to Canvas by next Thursday (all content is on Exam 2)
 
 ## Study Resources
