@@ -1,7 +1,7 @@
 # Week 7
 
 ## Action Items
-* [HW 6](https://genchem.science.psu.edu/homework-6-houck), is due Tuesday
+* [HW 6](https://genchem.science.psu.edu/homework-6-wc), is due Thursday
 * Sign up for your desired exam time on Examity
 * Review the Exam 2 Preparation page
 
@@ -14,8 +14,9 @@
 ## Assignments
  
 - Optional [extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/ec_molecular_geometry_wc.pdf) on molecular geometry (worth 2 points), due by Friday
-- [Guiding Question Set 7](https://psu.instructure.com/courses/1866869/quizzes/3317765) 
-- [HW 7](https://genchem.science.psu.edu/homework-7-houck), submit to Canvas by next Tuesday (all content is on Exam 2)
+- Guiding Question Set 7 (Due by Sunday)
+- Knowledge Check 6 (optional, due by Sunday)
+- [HW 7](https://genchem.science.psu.edu/homework-7-wc), submit to Canvas by next Thursday (all content is on Exam 2)
 
 ## Study Resources
 
