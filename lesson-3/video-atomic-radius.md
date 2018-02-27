@@ -4,7 +4,11 @@
 
 [ciscode|rev=1|tool=elmsmedia|item=3349|entity_type=node|render=display_mode|display_mode=image__right]
 
-The periodic table is arranged into rows called _periods_ and columns known as _groups_.  Elements in the same group have similar properties.  Elements that are metals are found in the left side and middle of the periodic table. The nonmetals are found in the top right of the periodic table. Metalloids (which are somewhere in between) are found around the bold diagonal line shown in the periodic table to the right, which represents the boundary between metals and nonmetals.
+The periodic table is arranged into rows called _periods_ and columns known as _groups_.  Elements in the same group have similar properties.  Elements that are metals are found in the left side and middle of the periodic table.
+ The nonmetals are found in the top right of the periodic table. Metalloids (which are
+ somewhere in between) are found around the bold diagonal line shown in the
+ periodic table to the right, which represents the boundary between metals and
+ nonmetals.
 
 ## Effective Nuclear Charge
 [ciscode|rev=1|tool=elmsmedia|item=3348|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
@@ -31,9 +35,9 @@ $$Z_{eff}$$ increases ever so slightly down a group if we look at precisely calc
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3344|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3344|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 ## Try it!
 
-[ciscode|rev=1|tool=elmsmedia|item=2565|entity_type=node|render=display_mode|display_mode=h5p]
+[ciscode|rev=1|tool=elmsmedia|item=2664|entity_type=node|render=display_mode|display_mode=h5p]
