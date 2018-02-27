@@ -31,9 +31,9 @@ $$Z_{eff}$$ increases ever so slightly down a group if we look at precisely calc
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3344|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+[ciscode|rev=1|tool=elmsmedia|item=3344|entity_type=node|render=display_mode|display_mode=mediavideo]
 
 
 ## Try it!
 
-[ciscode|rev=1|tool=elmsmedia|item=2565|entity_type=node|render=display_mode|display_mode=h5p]
+[ciscode|rev=1|tool=elmsmedia|item=2664|entity_type=node|render=display_mode|display_mode=h5p]
