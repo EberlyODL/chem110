@@ -13,4 +13,4 @@ There are a few exceptions to the order of filling in the transition metals.  I 
 [ciscode|rev=1|tool=elmsmedia|item=3337|entity_type=node|render=display_mode|display_mode=h5p]
 
 
-
+<houck-math> </houck-math>

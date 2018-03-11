@@ -17,3 +17,5 @@ There are a few exceptions to the trend in ionization energy.  The reason is roo
 2) What is a reasonable range for the 6th ionization energy? (all options in kJ/mol)
 
 [ciscode|rev=1|tool=elmsmedia|item=2666|entity_type=node|render=display_mode|display_mode=h5p]
+
+<houck-math> </houck-math>

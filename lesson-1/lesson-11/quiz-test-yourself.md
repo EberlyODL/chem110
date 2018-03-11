@@ -6,3 +6,5 @@ A "Try it!" page is an opportunity for you to practice.  In my residential cours
 [ciscode|rev=1|tool=elmsmedia|item=2653|entity_type=node|render=display_mode|display_mode=h5p]
 
 [ciscode|rev=1|tool=elmsmedia|item=2651|entity_type=node|render=display_mode|display_mode=h5p]
+
+<houck-math> </houck-math>

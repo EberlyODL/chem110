@@ -9,3 +9,5 @@ Wolfgang Pauli said that no two electrons could have the same four quantum numbe
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3289|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+
+<houck-math> </houck-math>

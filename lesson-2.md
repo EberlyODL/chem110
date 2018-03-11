@@ -20,3 +20,4 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 
 Last week we covered the basics of atomic structure, counting atoms & molecules in mole units, and introducing energy in the context of chemistry.  We will continue exploring energy this week and see how energy, specifically light, can be used to probe matter and elucidate more details about its structure.
 
+<houck-math> </houck-math>

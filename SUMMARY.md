@@ -61,7 +61,7 @@
     * [Classification of Electrons](lesson-3/electron-configuration/classification-of-electrons.md)
     * [Configuration of Ions](lesson-3/electron-configuration/configuration-of-ions.md)
     * [Try it!](lesson-3/electron-configuration/try-it.md)
-  * Periodic Trends
+  * [Periodic Trends](periodic-trends.md)
     * [video: Atomic Radius](lesson-3/video-atomic-radius.md)
     * [video: Ionization Energy](lesson-3/video-ionization-energt.md)
     * [video: Electron Affinity](lesson-3/video-electron-affinity.md)
@@ -173,3 +173,4 @@
   * [Bond dissociation energies](week-13/bond-dissociation-energies.md)
 * [Week 15](week-15.md)
 * [Final Exam](final-exam.md)
+

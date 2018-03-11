@@ -14,3 +14,5 @@ Cotton is cellulose, which is a polymer of glucose.  (Polymers contain repeating
 If we subject ordinary cotton and gun cotton to combustion, we see a drastic difference!  After observing this, you are probably not surprised to learn that nitro groups are present in other common explosives, like TNT (trinitrotoluene).
 
 [video]
+
+<houck-math> </houck-math>

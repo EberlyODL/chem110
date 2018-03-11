@@ -7,3 +7,5 @@ The fact that energy level splitting occurs in a multi-electron atom is rooted i
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3351|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+
+<houck-math> </houck-math>

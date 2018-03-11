@@ -45,3 +45,5 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 * [Practice Exam 1A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a_key.pdf))
 
 * Practice Exam 1B is available in Examity for you to get the experience of authenticating and connecting with a proctor before you take the actual exam.  I hope that will reduce some stress!  After you take the practice exam, email me for the answer key.
+
+<houck-math> </houck-math>

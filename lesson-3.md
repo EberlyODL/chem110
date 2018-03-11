@@ -23,3 +23,4 @@ This week, we will finally know the true structure of an atom! The structure of 
 In fact, the periodic table was arranged by grouping elements with similar properties. As we will see, the arrangement of elements in the table is related to its electron configuration and produces several trends.
 
 
+<houck-math> </houck-math>
