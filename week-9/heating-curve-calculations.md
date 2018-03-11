@@ -8,3 +8,5 @@ To calculate the energy to warm a substance or to undergo a phase transition, th
 2) Calculating the energy required to complete a phase transition
 
 [ciscode|rev=1|tool=elmsmedia|item=3718|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+<houck-math> </houck-math>

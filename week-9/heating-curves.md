@@ -24,3 +24,5 @@ When heat is applied to a system, two changes can occur: 1) the temperature coul
 Heating curves are a graph showing the temperature of a substance plotted against the amount of energy it has absorbed.  Cooling curves, on the other hand, show the temperature versus the amount of energy lost.  On the plot, you should be able to easily find melting and boiling points as well as identify the state present at a given temperature.  To learn more about these plots, please view the video below:
 
 [ciscode|rev=1|tool=elmsmedia|item=3716|entity_type=node|render=display_mode|display_mode=mediavideo]
+
+<houck-math> </houck-math>
