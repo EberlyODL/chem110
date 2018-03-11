@@ -3,3 +3,5 @@ As we’ve seen, molecules can carry three types of charges: 1.) they can be ion
 In lecture we will also introduce a special type of dipole-dipole interaction known as a hydrogen bond. Hydrogen bonds are unique from other dipole-dipole interactions between they are unusually strong and have a directional component. Hydrogen bonds only form between molecules with specific structural features (we will explore these requirements in lecture). 
 
 The effects of IMFs are additive, and the overall strength of the IMFs in a substance is the sum of all of the IMFs that are present. In other words, some substances can make more than one of the interactions listed on the slide. For example, all substances, even polar ones, exhibit dispersion forces. 
+
+<houck-math> </houck-math>
