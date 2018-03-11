@@ -133,4 +133,4 @@ Now I know the values of both x and y; x = -3 and y = -7
 
 #### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1924663/quizzes/3367105 "Algebra Part B")!**
 
-<houck-math></houck-math>
+<houck-math> </houck-math>
