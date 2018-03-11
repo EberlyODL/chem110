@@ -19,7 +19,4 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 
 - [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Thursday
 
-
-
-
-
+<houck-math> </houck-math>

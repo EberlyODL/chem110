@@ -17,3 +17,5 @@ For a recap of identifying valence electrons in an atom and an overview of drawi
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3374|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+
+<houck-math> </houck-math>

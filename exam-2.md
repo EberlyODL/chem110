@@ -28,3 +28,5 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 * [Practice Exam 2A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_2_wc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_2_wc_key_0.pdf))
 
 * [Practice Exam 2B](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_2b.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_2b_key.pdf))
+
+<houck-math> </houck-math>

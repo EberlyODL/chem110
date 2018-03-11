@@ -20,3 +20,4 @@ There are three key concepts of VSEPR theory.  The first is that electron domain
 
 The second key concept is that lone pairs take up more space about an atom.  This will result in small deviations from the predicted bond angles.  Similarly, key concept three is that multiple bonds take up more space.  This should make sense because there is more electron density in those regions and they will have increased repulsions.  Angles that include a double or triple bond will be larger while the angle that does not include the multiple bond must be smaller.
 
+<houck-math> </houck-math>

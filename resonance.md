@@ -16,3 +16,5 @@ Resonance involves the redistribution of electrons in lone pairs or double (or t
 
 
 [ciscode|rev=1|tool=elmsmedia|item=3424|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+
+<houck-math> </houck-math>
