@@ -36,7 +36,7 @@ Next we proceed to addition/subtraction. Let's add to get our final answer:
 
 **_Example 3:_** Order of operations often presents problems when students enter calculations into calculators. Be sure to use parentheses as needed. The most common mistakes we see are when students are dividing by a product, for example:
 
-<houck-math>$$\frac{10}{5\cdot4}=$$</houck-math>
+$$\frac{10}{5\cdot4}=$$
 
 
 If you type "10/5*4" into your calculator, you will get an answer of 8, which is not correct.
@@ -132,3 +132,5 @@ Now I know the values of both x and y; x = -3 and y = -7
 #### **[Click here](https://psu.instructure.com/courses/1924663/quizzes/3367077 "Algebra Part A") to try out the Part A quiz for this section.**
 
 #### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1924663/quizzes/3367105 "Algebra Part B")!**
+
+<houck-math></houck-math>
