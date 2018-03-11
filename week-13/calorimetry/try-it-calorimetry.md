@@ -13,3 +13,5 @@ What is the final temperature of a solution when 24.7 g of $$NH_4NO_3$$ dissolve
 ## See it solved!
 
 [ciscode|rev=1|tool=elmsmedia|item=4149|entity_type=node|render=display_mode|display_mode=h5p]
+
+<houck-math> </houck-math>

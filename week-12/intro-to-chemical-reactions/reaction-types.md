@@ -73,3 +73,5 @@ Example:
 What is the coefficient in front of water in the balanced reaction for the combustion of ethanol, $$CH_3CH_2OH$$?
 
 [ciscode|rev=1|tool=elmsmedia|item=2596|entity_type=node|render=display_mode|display_mode=mediasvg__right__small__lightboxed]
+
+<houck-math> </houck-math>

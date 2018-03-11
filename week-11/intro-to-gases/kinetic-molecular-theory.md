@@ -32,3 +32,5 @@ These postulates are part of a theoretical model used to describe the behavior o
 Molecular speed is influenced by temperature and molar mass.  As we have discussed, the kinetic energy is proportional to temperature.  At higher temperatures, molecules are moving faster.  With respect to mass, faster molecules will move slower than lighter molecules at constant temperature.
  
 [ciscode|rev=1|tool=elmsmedia|item=3797|entity_type=node|render=display_mode|display_mode=h5p]
+
+<houck-math> </houck-math>

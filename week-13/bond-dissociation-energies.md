@@ -27,6 +27,7 @@ During the course of this reaction the C-C bond in ethane breaks, the Cl-Cl bond
 
 The “2” in front of the C-Cl BDE comes from the fact that two of these bonds are being formed. The negative sign in from of the C-Cl BDE comes from the fact that these bonds are being formed (and thus enthalpy is decreasing). The other terms are positive since those bonds are being broken (and thus enthalpy is increasing).
 
+<houck-math> </houck-math>
 
 
 

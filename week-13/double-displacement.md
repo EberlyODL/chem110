@@ -16,3 +16,4 @@ A reaction will occur when there is a "driving force."  The driving forces we wi
 
 In these cases, a product is removed from the reaction mixture, driving the reaction to completion.  When a species is removed from the mixture, it can no longer participate in the reaction and prevents the reaction from going backwards.
 
+<houck-math> </houck-math>

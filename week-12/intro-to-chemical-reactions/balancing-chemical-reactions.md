@@ -13,3 +13,4 @@ Chemical reactions can be described using a reaction equation like the one prese
 
 [ciscode|rev=1|tool=elmsmedia|item=4065|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
 
+<houck-math> </houck-math>

@@ -7,3 +7,5 @@ $$\Delta H ^{\circ} _f$$ for $$H_2O$$(l) = –285.8 kJ/mol
 $$\Delta H ^{\circ} _f$$ for $$CO_2$$(g) = –393.5 kJ/mol.  
 
 [ciscode|rev=1|tool=elmsmedia|item=2586|entity_type=node|render=display_mode|display_mode=h5p]
+
+<houck-math> </houck-math>
