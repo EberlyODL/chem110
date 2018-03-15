@@ -1,6 +1,6 @@
 # Exam 3 Preparation
 
-Exam 3 is coming in Week 11 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between 11/01 at 12:00 am and 11/04 at 11:59 pm (EDT).  The content covered on the exam will be weeks 8-10 (Chapters 10, 11, 13, 14.1-14.2, and 14.4 in the ebook).     
+Exam 3 is coming in Week 11 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between 03/29 at 12:00 am and 03/31 at 11:59 pm (EDT).  The content covered on the exam will be weeks 8-10 (Chapters 10, 11, 13, 14.1-14.2, and 14.4 in the ebook).     
 
 The exam will be paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included).  You have the option to print all of the files. After 60 minutes, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas.  At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
@@ -23,7 +23,7 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 
 * [Exam 3 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_3_study_guide_f17wc.pdf)
 
-* [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3269000) (for practice)
+* Cumulative Knowledge Check Questions (available in Canvas for practice)
 
 * [Practice Exam 3A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc_key.pdf))
 
