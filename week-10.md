@@ -2,17 +2,17 @@
 
 
 ## Action Items
-* [HW 9](https://genchem.science.psu.edu/homework-9-houck), is due Tuesday
+* [HW 9](https://genchem.science.psu.edu/homework-9-houck), is due Thursday
 
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 14.1-14.2, 14.4 (14.3 will be covered in Week 11 and will not be on Exam 3)
+* Chapter 14.1-14.2, 14.4 (14.3 will be covered in Week 11 and will NOT be on Exam 3)
 
 
 ## Assignments
 
-- [Guiding Question Set 10](https://psu.instructure.com/courses/1866869/quizzes/3317753) (Due Friday)
-- [HW 10](https://genchem.science.psu.edu/homework-10-houck), submit to Canvas by next Tuesday
+- Guiding Question Set 10 (Due Sunday)
+- [HW 10](https://genchem.science.psu.edu/homework-10-houck), submit to Canvas by next Thursday
 
 ## Study Resources
 
