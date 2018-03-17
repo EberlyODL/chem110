@@ -10,7 +10,11 @@ According to Coulomb's law, Eel depends on the magnitude of charge and the dista
 
 > $$E_{el}= \frac{Q_1Q_2}d$$
 
-In this mathematical representation, you can easily see how changes in charge and distance will affect $$E_{el}$$. (Don't forget that as a number gets more negative, it is actually getting smaller!)
+In this mathematical representation, you can easily see how changes in charge and distance will affect $$E_{el}$$ . 
+
+<lrndesign-sidenote label="Instructor Note" icon="bookmark" bg-color="#c2e5f2">
+  (Don't forget that as a number gets more negative, it is actually getting smaller!)
+</lrndesign-sidenote>
 
 [ciscode|rev=1|tool=elmsmedia|item=3244|entity_type=node|render=display_mode|display_mode=h5p]
 
