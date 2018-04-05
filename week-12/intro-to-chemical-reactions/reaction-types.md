@@ -49,7 +49,7 @@ When salts in aqueous solution mix, a double displacement reaction could occur. 
 Examples:
 > $$CuSO_4 (aq)+ CaCl_2 (aq) \longrightarrow CuCl_2 (aq) + CaSO_4(s)\downarrow$$
 
-> $$2 HCl (aq)+ Sr(OH)_2 (aq) \longrightarrow H_2O(l) + SrCl_2 (aq)$$
+> $$2 HCl (aq)+ Sr(OH)_2 (aq) \longrightarrow 2 H_2O(l) + SrCl_2 (aq)$$
 
 > $$HNO_3 (aq) + NaHCO_3 (aq) \longrightarrow H_2O (l) + CO_2(g)\uparrow + NaNO_3 (aq)$$
 
