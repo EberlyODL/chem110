@@ -13,7 +13,7 @@
 
 ## Assignments
 
-- Guiding Question Set 12 
+- Guiding Question Set 12 (Due Sunday)
 - [HW 12](https://genchem.science.psu.edu/homework-12-wc), submit to Canvas by next Thursday
 
 
