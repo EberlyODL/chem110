@@ -1,8 +1,7 @@
 # Final Exam
 
-# Exam 4 Preparation
 
-The final exam will be proctored through Examity.  You will be able to schedule your 2-hour exam at your convenience between 12/13 at 12:00 am and 12/16 at 11:59 pm (EDT).  
+The final exam will be proctored through Examity.  You will be able to schedule your 2-hour exam at your convenience between 05/03 at 12:00 am and 05/05 at 11:59 pm (EDT).  
 
 The exam will be cumulative with about 15% of the content being Chapter 16 and the topic of combustion analysis.  The remaining portion of the exam will cover the high points from the course.  My philosophy is to see if you understand the main ideas relating to atomic structure, molecular structure, intermolecular forces, properties of liquids, gases, and solutions as well as chemical reactions.  The exam does cover a lot of material, but that means that not knowing something will carry less weight.  It is a little shorter than two midterm exams.
 
