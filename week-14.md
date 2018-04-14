@@ -3,7 +3,7 @@
 It's exam week!  The exam covers weeks 11-13 (Chapters 14.3, 12, and 15 in the ebook). 
 
 ## Action Items
-* [HW 13](https://genchem.science.psu.edu/homework-13-wc), is due Tuesday
+* [HW 13](https://genchem.science.psu.edu/homework-13-wc), is due Thursday
 * Sign up for Exam 4 in Examity
 
 
@@ -13,15 +13,10 @@ It's exam week!  The exam covers weeks 11-13 (Chapters 14.3, 12, and 15 in the e
 
 ## Assignments
 
-- [Guiding Question Set 14](https://psu.instructure.com/courses/1866869/quizzes/3317744) (Due Friday, Dec 8)
-- [HW 14](https://genchem.science.psu.edu/homework-14-wc), submit to Canvas by Friday, Dec 8
+- Guiding Question Set 14 (Due Sunday)
+- [HW 14](https://genchem.science.psu.edu/homework-14-wc), submit to Canvas by next Thursday)
 
 
 ## Study Resources
 
 
-
-
-
-
-<houck-math> </houck-math>
