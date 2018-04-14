@@ -26,7 +26,7 @@ I recommend chunking the course material into 4-5 pieces. Start with content tha
 
 * [Chapter 16 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/ch16studyguide.pdf)
 
-* [Cumulative Chapter 16 Knowledge Check Questions](https://psu.instructure.com/courses/1866869/quizzes/3268989) (for practice)
+* Cumulative Chapter 16 Knowledge Check Questions (available in Canvas for practice)
 
 * [Practice Final Exam ](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wcf17.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wc_f17_key.pdf)
 
