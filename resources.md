@@ -12,9 +12,8 @@ In this course, there will be several types of videos.  I encourage you to take 
 * Solved-problem videos will walk you through a method for solving a particular problem.  You will likely be asked to try this problem for yourself before watching the video.  Give it your best shot - the stakes will never be lower!  There may be other paths to solving a particular problem, so feel free to let me know if you arrived at an answer by a different method.
 
 
-
 **Recitation**
-Recitations will one-hour meetings with 3-6 other students in the course.  We will schedule these during the first week and begin meetings in week 2.  Two learning assistants will be logged on to help guide you and your teammates through solving problems.  Recitation worksheets will be available on each "Week X" page.
+Recitations will one-hour meetings with 5-7 other students in the course.  We will schedule these during the first week and begin meetings in week 2.  A teaching assistant will be logged on to help guide you and your teammates through solving problems.  Recitation worksheets will be available on Canvas.
 
 **Problem Sets**
 Even more practice problems are available in Problem Sets.  Each problem set contains exam-level questions and are intended to be used as preparation for the exam.  These are completely optional.
