@@ -12,11 +12,11 @@ I am also including _Study Materials_ that you may wish to work through. These w
 
 - Respond to the [When is Good]() poll indicating your availability for a weekly, one-hour recitation (problem solving session). Ignore the dates in the poll - I will schedule a recurring meeting for the semester.
 - Introduce yourself on the "Introductions" discussion post on [Piazza]().
+- eBook and Syllabus Scavenger Hunt, due 05/17
 - Work through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
 
 ## Assignments
 
-- eBook and Syllabus Scavenger Hunt, due 05/17
 - Guiding Question Set 1, due 05/20
 - [HW 1](), submit to Canvas (refer to the [HW Expectations](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf))
 
@@ -25,7 +25,7 @@ I am also including _Study Materials_ that you may wish to work through. These w
 ## Study Materials
 
 - [Problem Set: Atoms & Moles](https://media.ed.science.psu.edu/sites/media/ed/files/documents/3_problemset3_atomsmoles.pdf)
-
+- [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problem_set_energylight_key.pdf))
 
 
 
