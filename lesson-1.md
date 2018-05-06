@@ -31,7 +31,9 @@ I am also including _Study Materials_ that you may wish to work through. These w
 
 
 
-This week we will start with the very basics - the building blocks of matter. We will learn about the structure of an atom, define isotopes, and see how atoms form molecules and ions. Because atoms, molecules, and ions are all so small, we will need a way to count them. We will use the mole (Avogadro's number) to count "things" on the atomic scale and convert between mass and moles. Last, we will introduce energy as this is a key concept in chemistry. We will talk in detail about electrostatic potential energy and light energy. You will likely notice that energy is a theme that is weaved throughout the course. 
+This week we will start with the very basics - the building blocks of matter. We will learn about the structure of an atom, define isotopes, and see how atoms form molecules and ions. Because atoms, molecules, and ions are all so small, we will need a way to count them. We will use the mole (Avogadro's number) to count "things" on the atomic scale and convert between mass and moles. Last, we will introduce energy as this is a key concept in chemistry. We will talk in detail about electrostatic potential energy and light energy. You will likely notice that energy is a theme that is weaved throughout the course.  We will conclude the week looking at how energy, specifically light, can be used to probe matter and elucidate more details about its structure.
+
+
 
 <houck-math> </houck-math>
 
