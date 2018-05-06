@@ -12,14 +12,14 @@ I am also including _Study Materials_ that you may wish to work through. These w
 
 - Respond to the [When is Good]() poll indicating your availability for a weekly, one-hour recitation (problem solving session). Ignore the dates in the poll - I will schedule a recurring meeting for the semester.
 - Introduce yourself on the "Introductions" discussion post on [Piazza]().
-- [Introductory Homework](https://genchem.science.psu.edu/introductory-homework-houck) (Submit to [Canvas](https://psu.instructure.com/courses/1866869/modules) by 01/11, refer to the [HW Expectations](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf))
-- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
+- Work through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
 
 ## Assignments
 
-- [eBook and Syllabus Scavenger Hunt](https://psu.instructure.com/courses/1924663/quizzes/3367084)
-- Guiding Question Set 1
-- [HW 1](), submit to Canvas
+- eBook and Syllabus Scavenger Hunt, due 05/17
+- Guiding Question Set 1, due 05/20
+- [HW 1](), submit to Canvas (refer to the [HW Expectations](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf))
+
 
 
 ## Study Materials
