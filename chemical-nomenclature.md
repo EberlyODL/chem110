@@ -170,12 +170,14 @@ Compounds containing two elements are named by listing both elements, usually st
 | Compound | Name | Compound | Name |
 | :--- | :--- | :--- | :--- |
 | Cl$$_2$$O | dichlorine monoxide | NF$$_3$$ | nitrogen trifluoride |
-| PF$$_5$$ | phosphorous pentafluoride | Cl$$_2$$O$$_4$$ | dinitrogen tetroxide |
+| PF$$_5$$ | phosphorous pentafluoride | N$$_2$$O$$_4$$ | dinitrogen tetroxide |
 
 
 
-#### **[Click here](https://psu.instructure.com/courses/1924663/quizzes/3367109 "Nomenclature Part A") to try out the Part A quiz for this section.**
+#### **Return to Canvas to try out the Part A practice quiz for this section.**
 
-#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1924663/quizzes/3367133 "Nomenclature Part B")!**
+#### **When you're confident in the skill, take the Part B quiz!**
+
+
 
 <houck-math> </houck-math>
