@@ -8,10 +8,9 @@
 
 ## Teaching Assistant
 
-<div style="max-width:400px">[ciscode|rev=1|tool=elmsmedia|item=3231|entity_type=node|render=display_mode|display_mode=image__left]
-</div>
 
-**David Kaufmann ** ([dmk5552@psu.edu](mailto:dmk5552@psu.edu))
+
+**David Kaufmann** ([dmk5552@psu.edu](mailto:dmk5552@psu.edu))
 
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
