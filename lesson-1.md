@@ -25,7 +25,7 @@ I am also including _Study Materials_ that you may wish to work through. These w
 ## Study Materials
 
 - [Problem Set: Atoms & Moles](https://media.ed.science.psu.edu/sites/media/ed/files/documents/3_problemset3_atomsmoles.pdf)
-- [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problem_set_energylight_key.pdf))
+
 
 
 
