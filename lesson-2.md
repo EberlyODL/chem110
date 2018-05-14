@@ -4,13 +4,12 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 
 
 ## Action Items
-- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
 - [HW 1](https://genchem.science.psu.edu/homework-1-houck) is due Thursday
 
 
 ## Assignments
  
-- [Guiding Question Set 2](https://psu.instructure.com/courses/1924663/quizzes/3367082)
+- Guiding Question Set 2, due by Sunday
 - [HW 2](https://genchem.science.psu.edu/homework-2-houck), submit to Canvas by next Thursday
 
 ## Study Materials
