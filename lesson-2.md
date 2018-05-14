@@ -4,7 +4,7 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 
 
 ## Action Items
-- [HW 1](https://genchem.science.psu.edu/homework-1-houck) is due Thursday
+- [HW 1](https://genchem.science.psu.edu/homework-1-wc-summer) is due Thursday
 
 
 ## Assignments
