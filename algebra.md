@@ -129,8 +129,8 @@ Now I know the values of both x and y; x = -3 and y = -7
 
 [ciscode|rev=1|tool=elmsmedia|item=3207|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-#### **[Click here](https://psu.instructure.com/courses/1924663/quizzes/3367077 "Algebra Part A") to try out the Part A quiz for this section.**
+#### **Return to Canvas to try out the Part A practice quiz for this section.**
 
-#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1924663/quizzes/3367105 "Algebra Part B")!**
+#### **When you're confident in the skill, take the Part B quiz!**
 
 <houck-math> </houck-math>
