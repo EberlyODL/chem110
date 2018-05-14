@@ -16,5 +16,3 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 ## Study Materials
 
 - [Problem Set: Quantum Numbers](https://media.ed.science.psu.edu/sites/media/ed/files/documents/5_quantum_numbers.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/quantum_numbers_key.pdf))
-- [Problem Set: Periodic Trends](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends_key.pdf))
-
