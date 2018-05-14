@@ -1,10 +1,11 @@
-# Week 5
+# Week 4
 
+It's exam week!  We have a lighter content load this week as you prepare for your test.  The content covered will NOT be on your first exam.  The first exam covers Weeks 1-3 (Chapters 1-4 in the ebook).  The exam and practice exam need to be scheduled more than 24 hours in advance to avoid a $3.00 on-demand fee.
 
 
 
 ## Action Items
-* [HW 4](https://genchem.science.psu.edu/homework-4-houck), is due Thursday
+* [HW 3](), is due Thursday
 * Review your exam once the results are available.
 
 ## [Readings](https://genchem.science.psu.edu)
