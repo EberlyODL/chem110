@@ -170,7 +170,7 @@ Compounds containing two elements are named by listing both elements, usually st
 | Compound | Name | Compound | Name |
 | :--- | :--- | :--- | :--- |
 | Cl$$_2$$O | dichlorine monoxide | NF$$_3$$ | nitrogen trifluoride |
-| PF$$_5$$ | phosphorous pentafluoride | Cl$$_2$$O$$_4$$ | dinitrogen tetroxide |
+| PF$$_5$$ | phosphorous pentafluoride | N$$_2$$O$$_4$$ | dinitrogen tetroxide |
 
 
 
