@@ -5,7 +5,7 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 
 
 ## Action Items
-* Schedule your exam in [Examity](https://psu.instructure.com/courses/1866869/external_tools/196889?display=borderless)
+* Schedule your exam in [Examity]()
 * Schedule and take practice exam 1B in Examity (optional, but encouraged!)
 * [HW 3](https://genchem.science.psu.edu/homework-3-houck), is due Thursday
 * [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by Friday to Canvas
