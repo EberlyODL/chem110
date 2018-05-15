@@ -7,9 +7,6 @@
 
 
 
-
-
-
 ## [Readings](https://genchem.science.psu.edu)
 * Chapter 14.1-4
 
