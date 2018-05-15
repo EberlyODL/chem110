@@ -1,7 +1,7 @@
-# Week 13
+# Week 11
 
 ## Action Items
-* [HW 12](https://genchem.science.psu.edu/homework-12-wc), is due Thursday
+* [HW 10](), is due Thursday
 * Review your Exam 3 feedback when it is available
 
 
@@ -14,8 +14,9 @@
 
 ## Assignments
 
-- Guiding Question Set 13
-- [HW 13](https://genchem.science.psu.edu/homework-13-wc), submit to Canvas by next Thursday
+- Guiding Question Set 11, due by Sunday
+- Knowledge Check 10 (Optional, due by Sunday)
+- [HW 11](https://genchem.science.psu.edu/homework-13-wc), submit to Canvas by next Thursday
 
 
 ## Study Resources

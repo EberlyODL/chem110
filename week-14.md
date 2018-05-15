@@ -13,6 +13,7 @@
 ## Assignments
 
 - Guiding Question Set 12 (Due Sunday)
+- Knowledge Check 11 (Optional, due by Sunday)
 - [HW 12](), submit to Canvas by next Thursday)
 
 
