@@ -13,7 +13,7 @@
 ## Assignments
 
 - Guiding Question Set 9 (Due by Sunday)
-- [HW 9](https://genchem.science.psu.edu/homework-9-houck), submit to Canvas by next Tuesday
+- [HW 9](https://genchem.science.psu.edu/homework-9-houck), submit to Canvas by next Thursday
 - Knowledge Check 8 (Optional, due by Sunday)
 - Ch. 10 Extra credit worksheet (optional, due by Thursday, March 22)
 
