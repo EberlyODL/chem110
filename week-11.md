@@ -16,6 +16,7 @@ It's exam week!  The exam covers weeks 8-10 (Chapters 10-11, 13, 14.1-14.2, 14.4
 ## Assignments
 
 - Guiding Question Set 11, (Due Sunday)
+- Knowledge Check 10 (Optional, due by Sunday)
 - [HW 11](https://genchem.science.psu.edu/homework-11-wc), submit to Canvas by next Thursday
 
 

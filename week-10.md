@@ -12,7 +12,9 @@
 ## Assignments
 
 - Guiding Question Set 10 (Due Sunday)
+- Knowledge Check 9 (Optional, due by Sunday)
 - [HW 10](https://genchem.science.psu.edu/homework-10-houck), submit to Canvas by next Thursday
+
 
 ## Study Resources
 
