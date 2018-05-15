@@ -1,6 +1,6 @@
 # Week 7
 
-It's exam week!  The exam covers week 4-6 (Chapters 5-9 in the ebook). 
+It's exam week!  The exam covers weeks 4-6 (Chapters 5-9 in the ebook). 
 
 ## Action Items
 * [HW 6](https://genchem.science.psu.edu/homework-6-wc), is due Thursday (all content is on Exam 2)
