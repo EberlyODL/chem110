@@ -2,11 +2,13 @@
 
 ## Action Items
 * [HW 12](https://genchem.science.psu.edu/homework-12-wc), is due Thursday
+* Review your Exam 3 feedback when it is available
+
 
 
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 15.2-15.5
+* Chapter 15.1-15.5
 
 
 
