@@ -2,6 +2,9 @@
 
 ## Action Items
 * [HW 5](https://genchem.science.psu.edu/homework-5-wc), is due Thursday
+* Sign up for your desired exam time on Examity
+* Review the Exam 2 Preparation page
+
 
 
 ## [Readings](https://genchem.science.psu.edu)
