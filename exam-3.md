@@ -23,7 +23,7 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 
 * [Exam 3 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_3_study_guide_f17wc.pdf)
 
-* Cumulative Knowledge Check Questions (available in Canvas for practice)
+* Cumulative Knowledge Check Questions (for practice in Canvas under the quizzes tab)
 
 * [Practice Exam 3A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_3awc_key.pdf))
 
