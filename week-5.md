@@ -10,6 +10,11 @@ It's exam week!   The content covered will NOT be on your first exam.  The first
 * [HW 3](https://genchem.science.psu.edu/homework-3-houck), is due Thursday
 * [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by Friday to Canvas
 
+## [Readings](https://genchem.science.psu.edu)
+* Chapter 05 
+
+* Chapter 06  (we are skipping 06.3)
+
 
 ## Assignments
 
@@ -18,6 +23,11 @@ It's exam week!   The content covered will NOT be on your first exam.  The first
 - Knowledge Check 3
 
 - [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Thursday
+
+
+## Study Resources
+* [Problem Set: Molecules and Compounds](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problem_set_ch_5_6.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset7_ch_5_6_key.pdf))
+* [Problem Set: Nomenclature](https://media.ed.science.psu.edu/sites/media/ed/files/documents/nomenclature_jdh.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset8_nomenclature_key.pdf))
 
 
 
