@@ -1,11 +1,12 @@
 # Week 10
 
-It's exam week!  The exam covers weeks 8-10 (Chapters 10-11 and 13-14 in the ebook). 
+It's exam week!  The exam covers weeks 8-10 (Chapters 10-11 and 13-14 in the ebook).
 
+ 
 
 ## Action Items
 * [HW 9](), is due Thursday
-
+* Sign up for Exam 3 in Examity
 
 
 
