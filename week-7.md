@@ -1,24 +1,29 @@
-# Week 7
+# Week 5
+
+
 
 ## Action Items
-* [HW 6](https://genchem.science.psu.edu/homework-6-wc), is due Thursday
-* Sign up for your desired exam time on Examity
-* Review the Exam 2 Preparation page
-
+* [HW 4](), is due Thursday
+* Review your exam once the results are available.  
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 08.3-08.4
-* Chapter 09.1-09.3
+* Chapter 07.1-5
 
+* Chapter 08.1-2
 
 ## Assignments
- 
-- Optional [extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/ec_molecular_geometry_wc.pdf) on molecular geometry (worth 2 points), due by Friday
-- Guiding Question Set 7 (Due by Sunday)
-- Knowledge Check 6 (optional, due by Sunday)
-- [HW 7](https://genchem.science.psu.edu/homework-7-wc), submit to Canvas by next Thursday (all content is on Exam 2)
+- Guiding Question Set 5(Due by Sunday)
+- Knowledge Check 4 (Due by Sunday)
+- [HW 5](), submit to Canvas by next Thursday
+
+
 
 ## Study Resources
+* [Problem Set: Lewis Structures](https://media.ed.science.psu.edu/sites/media/ed/files/documents/lewis_dot_structures.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/lewis_dot_structures_key_2.pdf))
+* [Problem Set: Formal charge, bond polarity](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset10_lewis_structures_formal_charge_molecular_polarity.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset10_lewis_structures_formal_charge_molecular_polarity_key.pdf))
+* [Problem Set: Skeletal Structures](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset11_condensedformula_bondline.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset11_condensedformula_bondline_key.pdf))
 
-- [Problem set: VSEPR & Resonance](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset13_vsepr_resonance.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset13_vsepr_resonance_key.pdf))
-- [Problem set: Hybridization](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset14_hybridization.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset14_hybridization_0.pdf))
+
+
+This week we're continuing to build on the concept of bonding.  We'll explore covalent bonding in detail and learn how to draw Lewis structures of simple molecules.
+

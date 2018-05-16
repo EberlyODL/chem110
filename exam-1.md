@@ -1,6 +1,6 @@
 # Exam 1 Preparation
 
-Your first exam is coming in Week 4 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between 02/01 at 12:00 am and 02/03 at 11:59 pm (EDT).  The content covered on the exam will be weeks 1-3 (Chapters 1-4 in the ebook).     
+Your first exam is coming in Week 4 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between **06/07 at 12:00 am and 06/09 at 11:59 pm (EDT).**  The content covered on the exam will be weeks 1-3 (Chapters 1-4 in the ebook).     
 
 The exams are paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included).  You will complete your exam on separate paper under the proctor's supervision.  After 50 minutes, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas.  At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
@@ -40,10 +40,10 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 
 * [Exam 1 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_1_study_guide.pdf)
 
-* [Cumulative Knowledge Check Questions](https://psu.instructure.com/courses/1924663/quizzes/3367112) (for practice)
+* Cumulative Knowledge Check Questions (for practice in Canvas under the quizzes tab)
 
 * [Practice Exam 1A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/chem_110_practice_exam_1a_key.pdf))
 
-* Practice Exam 1B is available in Examity for you to get the experience of authenticating and connecting with a proctor before you take the actual exam.  I hope that will reduce some stress!  After you take the practice exam, email me for the answer key.
+* Practice Exam 1B is available in Examity for you to get the experience of authenticating and connecting with a proctor before you take the actual exam.  I hope that will reduce some stress!  After you take the practice exam, please email me for the answer key.
 
 <houck-math> </houck-math>

@@ -13,7 +13,7 @@ I am also including _Study Materials_ that you may wish to work through. These w
 - Respond to the [When is Good](http://whenisgood.net/nmjw8fa) poll indicating your availability for a weekly, one-hour recitation (problem solving session). Ignore the dates in the poll - I will schedule a recurring meeting for the semester.
 - Introduce yourself on the "Introductions" discussion post on [Piazza](https://psu.instructure.com/courses/1933137/external_tools/195053).
 - eBook and Syllabus Scavenger Hunt, due 05/17
-- Work through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
+- Work through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md), due 05/17
 
 ## Assignments
 

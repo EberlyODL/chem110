@@ -3,24 +3,18 @@
 
 
 ## Action Items
-* Schedule your exam in Examity
-* Schedule and take practice exam 1B in Examity (optional, but encouraged!)
-* [HW 3](https://genchem.science.psu.edu/homework-3-houck), is due Thursday
-* [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by Friday to Canvas
+* [HW 2](https://genchem.science.psu.edu/homework-2-houck) is due Thursday on Canvas
+* Login to Examity and make sure your profile is up-to-date.
+* Think about when you will take your exam between 06/07 and 06/09. You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
 
 
 ## Assignments
-
-- Guiding Question Set 4
-
-- Knowledge Check 3
-
-- [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Thursday
-
-
+- Guiding Question Set 3
+- Knowledge Check 2
+- [HW 3](https://genchem.science.psu.edu/homework-3-houck), submit to Canvas by next Thursday
+* [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by next Friday to Canvas (good exam review!)
 
 ## Study Materials
-
 - [Problem Set: Periodic Trends](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/periodic_trends_key.pdf))
 
 

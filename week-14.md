@@ -1,10 +1,9 @@
-# Week 14/15
+# Week 12
 
-It's exam week!  The exam covers weeks 11-13 (Chapters 14.3, 12, and 15 in the ebook). 
 
 ## Action Items
-* [HW 13](https://genchem.science.psu.edu/homework-13-wc), is due Thursday
-* Sign up for Exam 4 in Examity
+* [HW 11](), is due Thursday
+* Sign up for the Final Exam in Examity
 
 
 ## [Readings](https://genchem.science.psu.edu)
@@ -13,8 +12,9 @@ It's exam week!  The exam covers weeks 11-13 (Chapters 14.3, 12, and 15 in the e
 
 ## Assignments
 
-- Guiding Question Set 14 (Due Sunday)
-- [HW 14](https://genchem.science.psu.edu/homework-14-wc), submit to Canvas by next Thursday)
+- Guiding Question Set 12 (Due Sunday)
+- Knowledge Check 11 (Optional, due by Sunday)
+- [HW 12](), submit to Canvas by next Thursday)
 
 
 ## Study Resources

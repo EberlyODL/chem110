@@ -1,20 +1,25 @@
-# Week 12
+# Week 10
+
+It's exam week!  The exam covers weeks 8-10 (Chapters 10-11 and 13-14 in the ebook).
+
+ 
 
 ## Action Items
-* [HW 11](https://genchem.science.psu.edu/homework-11-wc), is due Thursday
-* Review your Exam 3 feedback when it is available
-* Use the grade calculation spreadsheet and evaluate your standing in the course
+* [HW 9](), is due Thursday
+* Sign up for Exam 3 in Examity
+
 
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 12.3-4, 6 (skip 12.5)
-* Chapter 15.1
+* Chapter 12.1-4, 6 (skip 12.5)
 
 
 ## Assignments
 
-- Guiding Question Set 12 
-- [HW 12](https://genchem.science.psu.edu/homework-12-wc), submit to Canvas by next Thursday
+- Guiding Question Set 10 
+- [HW 10](), submit to Canvas by next Thursday
+- Knowledge Check 9 (Optional, due by Sunday)
+
 
 
 ## Study Resources
