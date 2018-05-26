@@ -51,7 +51,7 @@
   * [Orbitals](lesson-1/orbitals.md)
     * [Orbital Characteristics](lesson-1/orbitals/orbital-characteristics.md)
   * [Weekly Recap](lesson-2/weekly-recap.md)
-* [Week 3](week-4.md)
+* [Week 3](week-3.md)
   * [Effective Nuclear Charge](effective-nuclear-charge.md)
   * [Electron Spin](electron-spin.md)
   * [Electron Configuration](lesson-3/electron-configuration.md)
