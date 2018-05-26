@@ -10,7 +10,7 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 ## Assignments
  
 - Guiding Question Set 2, due by Sunday
-- [HW 2](https://genchem.science.psu.edu/homework-2-houck), submit to Canvas by next Thursday
+- [HW 2](https://genchem.science.psu.edu/homework-2-wc-summer), submit to Canvas by next Thursday
 
 ## Study Materials
 
