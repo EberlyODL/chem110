@@ -4,8 +4,8 @@
 
 ## Action Items
 * [HW 2](https://genchem.science.psu.edu/homework-2-wc-summer) is due Thursday on Canvas
-* Login to Examity and make sure your profile is up-to-date.
-* Think about when you will take your exam between 02/02 and 02/03. You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
+* Login to Examity and make sure your profile is up-to-date. ([Instructions here](/exam-1.md))
+* Think about when you will take your exam between 06/07 and 06/09. You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
 
 
 ## Assignments
