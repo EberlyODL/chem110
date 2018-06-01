@@ -5,9 +5,9 @@ It's exam week!   The content covered will NOT be on your first exam.  The first
 
 
 ## Action Items
-* Schedule your exam in [Examity]()
+* Schedule your exam in Examity
 * Schedule and take practice exam 1B in Examity (optional, but encouraged!)
-* [HW 3](https://genchem.science.psu.edu/homework-3-houck), is due Thursday
+* [HW 3](https://genchem.science.psu.edu/homework-3-wc-summer), is due Thursday
 * [Extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/pre_exam_1_extra_credit_worksheet_wc.pdf) due by Friday to Canvas
 
 ## [Readings](https://genchem.science.psu.edu)
@@ -22,7 +22,7 @@ It's exam week!   The content covered will NOT be on your first exam.  The first
 
 - Knowledge Check 3
 
-- [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Thursday
+- [HW 4](https://genchem.science.psu.edu/homework-4-wc-summer), submit to Canvas by next Thursday
 
 
 ## Study Resources
