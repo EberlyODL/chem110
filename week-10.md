@@ -3,7 +3,7 @@
 
 
 ## Action Items
-* [HW 7](), is due Thursday
+* [HW 7](https://genchem.science.psu.edu/homework-7-wc-summer), is due Thursday
 * Review your Exam 2 results when they are available
 
 
@@ -19,7 +19,7 @@
 
 - Guiding Question Set 8, due by Sunday
 - Knowledge Check 7 (Optional, due by Sunday)
-- [HW 8](), submit to Canvas by next Thursday
+- [HW 8](https://genchem.science.psu.edu/homework-8-wc-summer), submit to Canvas by next Thursday
 
 ## Study Resources
 
