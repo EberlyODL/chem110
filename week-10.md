@@ -24,6 +24,7 @@
 ## Study Resources
 
 [Problem Set: IMF](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset16_intermolecular_forces.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset16_intermolecular_forces_key.pdf))
+
 [Problem Set: Liquids](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset17_liquids.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset17_liquids_key.pdf))
 
 
