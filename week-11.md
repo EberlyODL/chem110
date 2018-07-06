@@ -3,12 +3,12 @@
 
 ## Action Items
 * [HW 8](), is due Thursday
-* Sign up for Exam 3 in Examity
+* Sign up for Exam 3 in Examity (July 19-21)
 
 
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 14.1-4
+* Chapter 14.1, 2, and 4 (we will go back to 14.3 next week)
 
 
 
@@ -21,7 +21,6 @@
 
 
 ## Study Resources
-
 
 
 
