@@ -5,7 +5,7 @@ It's exam week!  The exam covers weeks 8-10 (Chapters 10-11 and 13-14 in the ebo
  
 
 ## Action Items
-* [HW 9](), is due Thursday
+* [HW 9](https://genchem.science.psu.edu/homework-9-wc-summer), is due Thursday
 * Sign up for Exam 3 in Examity
 
 
@@ -17,7 +17,7 @@ It's exam week!  The exam covers weeks 8-10 (Chapters 10-11 and 13-14 in the ebo
 ## Assignments
 
 - Guiding Question Set 10 
-- [HW 10](), submit to Canvas by next Thursday
+- [HW 10](https://genchem.science.psu.edu/homework-10-wc-summer), submit to Canvas by next Thursday
 - Knowledge Check 9 (Optional, due by Sunday)
 
 
