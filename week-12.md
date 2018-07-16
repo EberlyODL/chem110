@@ -28,11 +28,3 @@ It's exam week!  The exam covers weeks 8-10 (Chapters 10-11 and 13-14 (except 14
 
 
 
-
-
-
-
-
-
-
-<houck-math> </houck-math>
