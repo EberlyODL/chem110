@@ -2,7 +2,7 @@
 
 
 ## Action Items
-* [HW 9](https://genchem.science.psu.edu/homework-9-houck), is due Thursday
+* [HW 9](https://genchem.science.psu.edu/homework-9-wc), is due Thursday
 
 
 ## [Readings](https://genchem.science.psu.edu)
