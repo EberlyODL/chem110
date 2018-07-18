@@ -1,6 +1,6 @@
 # Week 10
 
-It's exam week!  The exam covers weeks 8-10 (Chapters 10-11 and 13-14 (except 14.3) in the ebook).
+It's exam week!  The exam covers weeks 7-9 (Chapters 10-11 and 13-14 (except 14.3) in the ebook).
 
  
 
