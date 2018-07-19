@@ -158,7 +158,6 @@
     * [Percent Yield](week-13/percent-yield.md)
     * [Try it: Reaction Calculations](week-13/try-it-reaction-calculations.md)
 * [Week 12](week-14.md)
-  * [Combustion Analysis](week-13/combustion-analysis.md)
   * [Reaction Enthalpies](week-13/reaction-enthalpies.md)
     * [Try it: Reaction Enthalpies](week-13/reaction-enthalpies/try-it-reaction-enthalpies.md)
   * [Calorimetry](week-13/calorimetry.md)
