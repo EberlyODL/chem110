@@ -24,9 +24,9 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend chunking the course material into 4-5 pieces. Start with content that you didn't feel confident with on midterm exams. There are comments in your old exam files you can review. Please let me know if you have any questions! From there, reviewing homework problems, recitation worksheets, and problem sets would be helpful.
 
-* [Final Exam Study Guide]()
+* [Final Exam Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/final_exam_study_guide_summer_wc.pdf)
 
-* Cumulative Knowledge Check Questions (for practice in Canvas under the quizzes tab)
+* Cumulative Knowledge Check Questions (for practice in Canvas)
 
 * [Practice Final Exam](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wcsu18.pdf) ([Key])(https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_su18_key.pdf)
 
