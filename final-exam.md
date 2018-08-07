@@ -1,9 +1,9 @@
 # Final Exam
 
 
-The final exam will be proctored through Examity. You will be able to schedule your 2-hour exam at your convenience between 05/03 at 12:00 am and 05/05 at 11:59 pm (EDT).
+The final exam will be proctored through Examity. You will be able to schedule your 2-hour exam at your convenience between 08/09 at 12:00 am and 08/11 at 11:59 pm (EDT).
 
-The exam will be cumulative with about 15% of the content being Chapter 16 and the topic of combustion analysis. The remaining portion of the exam will cover the high points from the course. My philosophy is to see if you understand the main ideas relating to atomic structure, molecular structure, intermolecular forces, properties of liquids, gases, and solutions as well as chemical reactions. The exam does cover a lot of material, but that means that not knowing something will carry less weight. It is a little shorter than two midterm exams.
+The exam will be cumulative with about 50% of the content being Chapter 12, 15, 16, and 14.3 (weeks 10-12 in the course schedule). The remaining portion of the exam will cover the high points from the course. My philosophy is to see if you understand the main ideas relating to atomic structure, molecular structure, intermolecular forces, and properties of liquids. The exam does cover a lot of material, but that means that not knowing something will carry less weight. It is a little shorter than two midterm exams.
 
 The exam will be paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included). You have the option to print all of the files. After 2 hours, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas. At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
@@ -24,11 +24,10 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend chunking the course material into 4-5 pieces. Start with content that you didn't feel confident with on midterm exams. There are comments in your old exam files you can review. Please let me know if you have any questions! From there, reviewing homework problems, recitation worksheets, and problem sets would be helpful.
 
-* [Chapter 16 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/ch16studyguide.pdf)
+* [Final Exam Study Guide]()
 
 * Cumulative Knowledge Check Questions (for practice in Canvas under the quizzes tab)
 
-* [Practice Final Exam ](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wcf17.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wc_f17_key.pdf)
-
+* [Practice Final Exam](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wcsu18.pdf) ([Key])(https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_su18_key.pdf)
 
 
