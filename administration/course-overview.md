@@ -4,11 +4,17 @@ Why is water a liquid?  Why does a party balloon float?  Is it true that microwa
 
 **Course Goals:**
 * Learn the language and basic tools of chemistry; gain general knowledge.
+
 * Connect nanoscopic properties to macroscopic properties (structure affects function).
+
 * Emphasize the role of energy in chemical and physical processes.
+
 * Develop critical thinking and analytical problem solving skills.
+
 * Increase student confidence in problem solving abilities.
+
 * Incorporate graphical methods for interpreting and presenting data.
+
 * Appreciate the value of chemistry in everyday life.
 
 
