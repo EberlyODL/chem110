@@ -12,13 +12,9 @@ Another great aspect of most HW problems is the paired problem.  If you don't kn
 
 
 **Knowledge Checks**
-The final check is a Knowledge Check.  These will be due on Sundays.  These are optional, but I do offer an incentive to complete these (as explained in the "Borderline Grade" policy in the [syllabus](https://media.ed.science.psu.edu/sites/media/ed/files/documents/houckwc_syllabus_fall17.pdf)).  Here, you will be taking exam-type questions that mix in concepts and mathematical problems.
+The final check is a Knowledge Check.  These will be due on Sundays.  These are optional, but I do offer an incentive to complete these (as explained in the "Borderline Grade" policy in the syllabus).  Here, you will be taking exam-type questions that mix in concepts and mathematical problems.
 
 
 **Exams**
 We will have four mid-term exams and a final this semester.  Exams will be proctored through Examity and consist of open-ended problems and short-answer questions. You will have the opportunity to show what you know and earn partial credit! :)
 
-The figure below illustrates a typical weekly schedule:
-<div style="float:none;max-width:1000px;margin:auto">
-[ciscode|rev=1|tool=elmsmedia|item=3243|entity_type=node|render=display_mode|display_mode=image]
-</div>
