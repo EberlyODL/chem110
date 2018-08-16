@@ -1,6 +1,6 @@
 # Precipitation Reactions
 
-[ciscode|rev=1|tool=elmsmedia|item=4081|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=4081|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Some reactions are driven by the formation of a solid precipitate from a solution. In order to determine which substances will precipitate we need to be familiar with the solubility trends for common ionic substances. Substances that are soluble in water will not form precipitates, whereas substances that are insoluble will form precipitates.
 

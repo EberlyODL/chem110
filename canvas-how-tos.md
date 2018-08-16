@@ -1,6 +1,6 @@
 # Canvas How-Tos
 
-[ciscode|rev=1|tool=elmsmedia|item=3229|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3229|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 If you are not familiar with Canvas, you may find the following resources helpful!  (Note: These videos are optional.)
 
@@ -8,7 +8,7 @@ If you are not familiar with Canvas, you may find the following resources helpfu
 
 ## Submitting Assignments
 
-[ciscode|rev=1|tool=elmsmedia|item=3228|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3228|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Learn how to submit various types of assignments.  You'll be submitting photos or scans of your written homework through a canvas assignment.  
 
@@ -16,7 +16,7 @@ Learn how to submit various types of assignments.  You'll be submitting photos o
 
 ## Quizzes
 
-[ciscode|rev=1|tool=elmsmedia|item=3225|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3225|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 The canvas quiz feature will be used in this course, although not all of the assignments are considered quizzes.  Guiding Question Sets and Knowledge Checks will be administered as a Canvas quiz.
 
@@ -24,7 +24,7 @@ The canvas quiz feature will be used in this course, although not all of the ass
 
 ## Calendar and Due Dates
 
-[ciscode|rev=1|tool=elmsmedia|item=3226|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3226|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 To help keep track of assignment due dates in all your courses, you can use the calendar feature in Canvas.
 
@@ -32,7 +32,7 @@ To help keep track of assignment due dates in all your courses, you can use the 
 
 ## Grades
 
-[ciscode|rev=1|tool=elmsmedia|item=3227|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3227|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Keeping track of your course grades in canvas is easy!  Be sure to follow up on each assignment in order to use the feedback in the future.
 

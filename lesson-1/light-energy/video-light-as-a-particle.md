@@ -25,7 +25,7 @@ Last, the observation of line spectra also supported the particle-like nature of
 
 You do not need to know the details of the experiments explained above, but you should be familiar with conclusions that were drawn (i.e. energy is proportional to frequency) and that they did not support the wave-like nature of light.
 
-[ciscode|rev=1|tool=elmsmedia|item=3237|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3237|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 
 
