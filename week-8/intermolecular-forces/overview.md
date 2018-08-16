@@ -13,7 +13,7 @@
 
 # Overview of Intermolecular Forces (IMF)
 
-[ciscode|rev=1|tool=elmsmedia|item=3548|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3548|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 In this lesson, we’re going to examine the interactions that exist between molecules. Since these interactions occur between different molecules, we call them intermolecular molecular interactions or intermolecular forces (IMFs for short). As we will see, IMFs are vital for understanding most of the properties that we observe for molecules, such as melting and boiling point. We will also see that nearly everything that happens in a living system is the result the specific patterns of IMFs that form between proteins, nucleic acids, and other biological molecules. A molecule’s structure determines the types and strengths of IMFs it can form; thus, IMFs are a key connection between structure and function. 
 
@@ -28,4 +28,4 @@ The types of charges found within molecules vary depending on the structure of t
 Experimentally we can use physical properties like melting point and boiling point to evaluate the strength of IMFs in a substance. When a substance boils, molecules have enough energy to overcome all of the interactions that they form with other molecules and enter the gas phase. Having a high boiling point means that a lot of energy is required to break the IMFs in the substance; thus, the IMFs in the substance must be strong. 
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3549|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3549|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>

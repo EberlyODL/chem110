@@ -6,7 +6,7 @@ Imagine you find an unknown white powder.  One way to determine its identity wou
 Using mass percent data, one can calculate an empirical formula of a compound.  If the molecular weight is known, one can then determine the molecular formula.  Watch the video below to see how to carry out the four-step calculation.
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3369|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3369|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 ##Try it!
 
@@ -15,4 +15,4 @@ A hydrocarbon is an organic compound consisting entirely of carbon and hydrogen.
 The molar mass this hydrocarbon is 58.12 g/mol. What is its molecular formula? 
 
 After you solve the problem, see it solved in the video below:
-[ciscode|rev=1|tool=elmsmedia|item=2787|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=2787|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
