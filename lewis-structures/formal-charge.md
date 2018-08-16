@@ -5,6 +5,6 @@ We're going to start building structures of molecules using the Lewis model.  Pa
 See the video below to learn how to determine formal charge.
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3393|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3393|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 <houck-math> </houck-math>

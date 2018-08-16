@@ -2,7 +2,7 @@
 
 # Ion Size
 
-[ciscode|rev=1|tool=elmsmedia|item=3362|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3362|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 [ciscode|rev=1|tool=elmsmedia|item=3366|entity_type=node|render=display_mode|display_mode=image__left__lightboxed]
 

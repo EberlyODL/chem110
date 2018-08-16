@@ -87,7 +87,7 @@ c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen
 
 ## 3. Writing Chemical Names from Formulas
 
-[ciscode|rev=1|tool=elmsmedia|item=3211|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3211|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Now that we can identify metal ions, let's first look at how we can write a name from a given chemical formula.   Check out the video on the right.
 
@@ -95,7 +95,7 @@ Now that we can identify metal ions, let's first look at how we can write a name
 
 ## 4. Ionic compounds
 
-[ciscode|rev=1|tool=elmsmedia|item=3212|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3212|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Metals in groups 1, 2, and 3 on the periodic table form only one type of ion.  The names of of ionic compounds containing one of these metals will take the following form:
 
@@ -121,7 +121,7 @@ Transition metals and a handful of main group metals have several possible charg
 
 ## 5. Acids
 
-[ciscode|rev=1|tool=elmsmedia|item=3213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3213|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 a) Acids based on anions ending with _-ide_ have _hydro-_ prefix and _-ic_ ending.
 
@@ -157,7 +157,7 @@ b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the na
 
 ## 6. Binary Molecular Compounds
 
-[ciscode|rev=1|tool=elmsmedia|item=3214|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3214|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Compounds containing two elements are named by listing both elements, usually starting with the element farthest to the left in the periodic table. The second element is given the _-ide_ ending. Greek prefixes are used to indicate the number of atoms. (Note: The "mono-" prefix is typically omitted from the beginning of the name.)
 

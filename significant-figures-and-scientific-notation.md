@@ -1,6 +1,6 @@
 ## Scientific Notation
 
-[ciscode|rev=1|tool=elmsmedia|item=3215|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3215|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Scientific notation is a way of expressing _really_ big or _really_ small numbers in a more convenient manner.  
 
@@ -28,7 +28,7 @@ We should also be able to go from scientific notation back to the "full" number.
 
 ## Significant Figures
 
-[ciscode|rev=1|tool=elmsmedia|item=3216|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3216|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Significant figures, otherwise known as sig figs, are the meaningful digits in a measurement or calculation.  The number of significant figures in a number is determined by how the number was measured or calculated.  Ultimately, the number of sig figs in your measurement or calculated result is indicative of the precision.  
 
@@ -56,7 +56,7 @@ Significant figures, otherwise known as sig figs, are the meaningful digits in a
 
 ## Math With Significant Figures
 
-[ciscode|rev=1|tool=elmsmedia|item=3206|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3206|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 Check out the video for all the rules on how to report an answer from a calculation with the appropriate number of significant figures!
 

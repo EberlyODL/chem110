@@ -12,7 +12,7 @@ $$\Delta H_{fus (solid N2)}$$ = 0.72 kJ/mol
 $$\Delta H_{vap (liq N2)}$$ = 5.59 kJ/mol
 
 
-[ciscode|rev=1|tool=elmsmedia|item=2789|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=2789|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 
 ### Problem 1
@@ -22,7 +22,7 @@ Calculate the energy required to warm solid ice from -10 ºC to steam at 120 º
 
 
 
-[ciscode|rev=1|tool=elmsmedia|item=2790|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=2790|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 
 ### Problem 2
@@ -31,7 +31,7 @@ Liquid $$N_2$$ is poured over a bowl of marshmallows and they reach a temperatur
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 
-[ciscode|rev=1|tool=elmsmedia|item=2791|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=2791|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 
 
@@ -42,7 +42,7 @@ Liquid $$N_2$$ is poured over a bowl containing 5.0 g of grapes initially at 20 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
 
-[ciscode|rev=1|tool=elmsmedia|item=2792|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=2792|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
 
 
 

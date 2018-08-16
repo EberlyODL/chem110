@@ -42,6 +42,6 @@ You’ll need to know the different regions of the spectrum as well as their rel
 You’ll also need to know the relative order of the regions of the visible spectrum. A convenient acronym is ROYGBIV (red, orange, yellow, green, blue, indigo, violet), which lists the regions of the visible spectrum in order of decreasing wavelength and increasing frequency.
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3266|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3266|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 <houck-math> </houck-math>

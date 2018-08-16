@@ -9,7 +9,7 @@ $$[\text{total ion}] = \frac{1 mol SrCl_2}{1 L} \frac{3 \text{mol ions}}{1 mol S
 
 Check out the video below for more examples.
 
-[ciscode|rev=1|tool=elmsmedia|item=3796|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3796|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 
 

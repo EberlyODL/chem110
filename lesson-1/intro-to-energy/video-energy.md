@@ -15,7 +15,7 @@ Now that we know the basics, let's go a little deeper. We're starting on a quest
 
 Before we get too far in our journey, we need to understand energy. In this lesson, we will look at energy in the form of heat and work and how energy is transferred between a system and surroundings.
 
-[ciscode|rev=1|tool=elmsmedia|item=3240|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3240|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 
 ## Try it!

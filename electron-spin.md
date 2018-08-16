@@ -8,6 +8,6 @@ The discovery of the fourth quantum number had implications on how electrons cou
 Wolfgang Pauli said that no two electrons could have the same four quantum numbers.  Since there are only two possible values for $$m_s$$, this means that there can only be a up to two electrons in an orbital.
 
 
-[ciscode|rev=1|tool=elmsmedia|item=3289|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3289|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 <houck-math> </houck-math>

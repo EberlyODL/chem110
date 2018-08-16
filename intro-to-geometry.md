@@ -13,6 +13,6 @@ Lewis structures convey only the connectivity of atoms and placement of electron
 
 The particular shape or geometry about an atom is based on the number of groups, known as domains, around a given atom.  
 
-[ciscode|rev=1|tool=elmsmedia|item=3474|entity_type=node|render=display_mode|display_mode=mediavideo__poster]
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3474|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
 <houck-math> </houck-math>
