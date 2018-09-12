@@ -11,6 +11,11 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 * Exam 1 Extra Credit worksheet (avail. in Canvas) due by Friday to Canvas
 
 
+## [Readings](https://genchem.science.psu.edu)
+* Chapter 05.1-05.2  
+* Chapter 06.1-06.2
+
+
 ## Assignments
 
 - Guiding Question Set 4
