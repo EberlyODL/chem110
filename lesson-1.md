@@ -24,7 +24,7 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 
 ## Study Materials
 
-- [Problem Set: Atoms & Moles](https://media.ed.science.psu.edu/sites/media/ed/files/documents/3_problemset3_atomsmoles.pdf)
+- [Problem Set: Atoms & Moles](https://media.ed.science.psu.edu/sites/media/ed/files/documents/3_problemset3_atomsmoles.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset3_atomsmoleskey.pdf))
 
 
 
