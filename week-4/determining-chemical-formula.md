@@ -1,4 +1,3 @@
-
 # Determining Chemical Formulas
 
 Imagine you find an unknown white powder.  One way to determine its identity would be to subject it to experiments such as elemental analysis (EA) and mass spectrometry (MS).  These methods can be used to collect the information necessary to determine the molecular formula of an unknown compound. In elemental analysis, a sample is burned in an excess of oxygen and various traps, collect the combustion products: carbon dioxide, water, and nitric oxide to determine the mass percent of C, H, and N, respectively.  Put simply, MS analysis will determine the molecular mass of a compound.
