@@ -5,7 +5,7 @@ It's exam week!  The exam covers week 4-7 (Chapters 5-9 in the ebook).
 ## Action Items
 * [HW 7](https://genchem.science.psu.edu/homework-7-wc), is due Thursday
 * Sign up for your desired exam time on Examity
-* Review the [Exam 2 Preparation page](https://courses.ed.science.psu.edu/chem110/exam-2.md)
+* Review the [Exam 2 Preparation page](https://courses.ed.science.psu.edu/chem110ay/exam-2.md)
 * Take Exam 2
 
 
@@ -16,8 +16,8 @@ It's exam week!  The exam covers week 4-7 (Chapters 5-9 in the ebook).
 
 ## Assignments
 
-- Guiding Question Set 8, due by Sunday, March 11
-- [HW 8](https://genchem.science.psu.edu/homework-8-wc), submit to Canvas by Thursday, March 15
+- Guiding Question Set 8, due by Sunday
+- [HW 8](https://genchem.science.psu.edu/homework-8-wc), submit to Canvas by Thursday
 
 ## Study Resources
 
