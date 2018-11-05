@@ -18,7 +18,7 @@
 
 ## Study Resources
 
-
+- [Problem Set: Chemical Reactions](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset21_inorganicreactions.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset21_inorganiccalculations_key.pdf))
 
 
 
