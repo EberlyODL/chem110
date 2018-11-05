@@ -18,6 +18,6 @@
 
 
 ## Study Resources
-
+[Problem Set: Gases](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset20_gases.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset20_gaseskey.pdf))
 
 
