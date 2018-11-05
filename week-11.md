@@ -22,3 +22,4 @@ It's exam week!  The exam covers weeks 8-10 (Chapters 10-11, 13, 14.1-14.2, 14.4
 
 ## Study Resources
 
+- [Problem Set: Concentration](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset19_concentration.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset19_concentration_key.pdf))
