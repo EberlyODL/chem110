@@ -19,3 +19,5 @@ It's exam week!  The exam covers weeks 11-13 (Chapters 14.3, 12, and 15 in the e
 
 ## Study Resources
 
+- [Problem Set: Thermochemistry](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problemset22_thermodynamics.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/thermodynamics_key.pdf))
+
