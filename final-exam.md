@@ -1,9 +1,9 @@
 # Final Exam
 
 
-The final exam will be proctored through Examity.  You will be able to schedule your 2-hour exam at your convenience between 05/03 at 12:00 am and 05/05 at 11:59 pm (EDT).  
+The final exam will be proctored through Examity.  You will be able to schedule your 2-hour exam at your convenience between 12/13 at 12:00 am and 12/15 at 11:59 pm (EST).  
 
-The exam will be cumulative with about 15% of the content being Chapter 16 and the topic of combustion analysis.  The remaining portion of the exam will cover the high points from the course.  My philosophy is to see if you understand the main ideas relating to atomic structure, molecular structure, intermolecular forces, properties of liquids, gases, and solutions as well as chemical reactions.  The exam does cover a lot of material, but that means that not knowing something will carry less weight.  It is a little shorter than two midterm exams.
+The exam will be cumulative with about 15% of the content being Chapter 16 and the topic of combustion analysis.  The remaining portion of the exam will cover the high points from the course.  My philosophy is to see if you understand the main ideas relating to atomic structure, molecular structure, intermolecular forces, properties of liquids, gases, and solutions as well as chemical reactions.  The exam does cover a lot of material, but that means that each topic will carry less weight.  It is a little shorter than two midterm exams.
 
 The exam will be paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included).  You have the option to print all of the files. After 2 hours, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas.  At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
