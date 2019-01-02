@@ -1,6 +1,6 @@
 # Canvas How-Tos
 
-<media-video>[ciscode|rev=1|tool=elmsmedia|item=3229|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3229|entity_type=node|render=display_mode|display_mode=mediavideo]</media-video>
 
 If you are not familiar with Canvas, you may find the following resources helpful!  (Note: These videos are optional.)
 
@@ -8,7 +8,7 @@ If you are not familiar with Canvas, you may find the following resources helpfu
 
 ## Submitting Assignments
 
-<media-video>[ciscode|rev=1|tool=elmsmedia|item=3228|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3228|entity_type=node|render=display_mode|display_mode=mediavideo]</media-video>
 
 Learn how to submit various types of assignments.  You'll be submitting photos or scans of your written homework through a canvas assignment.  
 
@@ -16,7 +16,7 @@ Learn how to submit various types of assignments.  You'll be submitting photos o
 
 ## Quizzes
 
-<media-video>[ciscode|rev=1|tool=elmsmedia|item=3225|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3225|entity_type=node|render=display_mode|display_mode=mediavideo]</media-video>
 
 The canvas quiz feature will be used in this course, although not all of the assignments are considered quizzes.  Guiding Question Sets and Knowledge Checks will be administered as a Canvas quiz.
 
