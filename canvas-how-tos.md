@@ -1,6 +1,6 @@
 # Canvas How-Tos
 
-<media-video>[ciscode|rev=1|tool=elmsmedia|item=3229|entity_type=node|render=display_mode|display_mode=mediavideo]</media-video>
+<media-video>[ciscode|rev=1|tool=elmsmedia|item=3229|entity_type=node]</media-video>
 
 If you are not familiar with Canvas, you may find the following resources helpful!  (Note: These videos are optional.)
 
