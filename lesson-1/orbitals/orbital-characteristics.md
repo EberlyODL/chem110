@@ -11,5 +11,3 @@ Now, we will compare the energies of the orbitals in the hydrogen atom to what w
 
 
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=3277|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
-
-<lrn-math inline></lrn-math>
