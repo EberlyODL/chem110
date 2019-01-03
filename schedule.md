@@ -1,7 +1,7 @@
-|**Week** | **Date** | **Topic/Assessments** | **Readings**\([eBook](https://genchem.science.psu.edu/offering/18/news-and-updates)\) |
+|**Week** | **Topic/Assessments** | **Readings**\([eBook](https://genchem.science.psu.edu/offering/18/news-and-updates)\) |
 | :--- | :--- | :--- | :--- |
-| 1 | 08/21-08/27 | Course Overview, Introduction to atomic structure, The mole, ions & molecules, Introduction to energy | 01.1-01.5 |
-| 2 | 08/28-09/03 | Light and Spectroscopy, Line Spectra & Bohr Model, Quantum numbers and orbitals<br>**Skills Check Due by 11:59 pm 09/03** | 01.6, 02.01-02.05 |
+| 1 | Course Overview, Introduction to atomic structure, The mole, ions & molecules, Introduction to energy | 01.1-01.5 |
+| 2 | Light and Spectroscopy, Line Spectra & Bohr Model, Quantum numbers and orbitals<br>**Skills Check Due by 11:59 pm 09/03** | 01.6, 02.01-02.05 |
 | 3 | 09/04-09/10 | Electron configuration<br>Periodic properties | Chapter 03<br>Chapter 04 |
 | | **09/13-09/16** | **EXAM 1 \(Ch. 1-4\)**<br>\(schedule your 50-minute exam with Examity\) | |
 | 4 | 09/11-09/16 | Intro to Molecules<br>Molecular formulas and % composition | 05-1<br>05-2 |
