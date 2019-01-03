@@ -7,7 +7,7 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 ## Action Items
 * Schedule your exam in Examity
 * Schedule and take practice exam 1B in Examity (optional, but encouraged!)
-* [HW 3](https://genchem.science.psu.edu/homework-3-houck), is due Thursday
+* [HW 3](https://genchem.science.psu.edu/homework-3-wc), is due Thursday
 * Exam 1 Extra Credit worksheet (avail. in Canvas) due by Friday to Canvas
 
 
@@ -16,13 +16,13 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 * Chapter 06.1-06.2
 
 
-## Assignments
+## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
 
 - Guiding Question Set 4
 
 - Knowledge Check 3
 
-- [HW 4](https://genchem.science.psu.edu/homework-4-houck), submit to Canvas by next Thursday
+- [HW 4](https://genchem.science.psu.edu/homework-4-wc-0), submit to Canvas by next Thursday
 
 
 
