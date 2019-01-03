@@ -8,7 +8,7 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 - [HW 1](https://genchem.science.psu.edu/homework-1-wc) is due Thursday
 
 
-## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
+## Assignments (all on Canvas)
  
 - Guiding Question Set 2
 - [HW 2](https://genchem.science.psu.edu/homework-2-wc), submit to Canvas by next Thursday
