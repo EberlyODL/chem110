@@ -4,15 +4,15 @@
 
 
 ## Action Items
-* [HW 4](https://genchem.science.psu.edu/homework-4-houck), is due Thursday
+* [HW 4](https://genchem.science.psu.edu/homework-4-wc-0), is due Thursday
 * Review your exam once the results are available.  
 
 ## [Readings](https://genchem.science.psu.edu)
 * Chapter 06.4-06.6  (note we are skipping 06.3)
 * Chapter 07.1-07.3
 
-## Assignments
-- Guiding Question Set 5(Due by Sunday)
+## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
+- Guiding Question Set 5 (Due by Sunday)
 - Knowledge Check 4 (Due by Sunday)
 - [HW 5](https://genchem.science.psu.edu/homework-5-wc), submit to Canvas by next Thursday
 
