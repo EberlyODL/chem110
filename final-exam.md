@@ -1,7 +1,7 @@
 # Final Exam
 
 
-The final exam will be proctored through Examity.  You will be able to schedule your 2-hour exam at your convenience between 12/13 at 12:00 am and 12/15 at 11:59 pm (EST).  
+The final exam will be proctored through Examity.  You will be able to schedule your 2-hour exam at your convenience between #dates TBA#.  
 
 The exam will be cumulative with about 15% of the content being Chapter 16 and the topic of combustion analysis.  The remaining portion of the exam will cover the high points from the course.  My philosophy is to see if you understand the main ideas relating to atomic structure, molecular structure, intermolecular forces, properties of liquids, gases, and solutions as well as chemical reactions.  The exam does cover a lot of material, but that means that each topic will carry less weight.  It is a little shorter than two midterm exams.
 
@@ -24,10 +24,10 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend chunking the course material into 4-5 pieces.  Start with content that you didn't feel confident with on midterm exams.  There are comments in your old exam files you can review.  Please let me know if you have any questions! From there, reviewing homework problems, recitation worksheets, and problem sets would be helpful.  
 
-* [Chapter 16 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/ch16studyguide.pdf)
+* Chapter 16 Study Guide (coming soon!)
 
 * Cumulative Chapter 16 Knowledge Check Questions (available in Canvas for practice)
 
-* [Practice Final Exam ](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wcf17.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wc_f17_key.pdf)
+* Practice Final Exam (coming soon!)
 
 
