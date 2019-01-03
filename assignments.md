@@ -7,7 +7,7 @@ The GQS's are meant to gauge your comprehension of the content following reading
 
 
 **Homework**
-Homework is the second level of assessment.  Weekly HW sets are available through the ebook and are due on Thursdays.  These typically cover the previous week's content.  They are open-ended problems that will be submitted as a photo or scan to the appropriate assignment in Canvas. [Details on HW expectations and grading can be found here.](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf) 
+Homework is the second level of assessment.  Weekly HW sets are available through the ebook and are due on Thursdays.  These typically cover the previous week's content.  They are open-ended problems that will be submitted as a photo or scan to the appropriate assignment in Canvas. [Details on HW expectations and grading can be found here.](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_1.pdf) 
 Another great aspect of most HW problems is the paired problem.  If you don't know how to get started, take a look at the paired problem; it will have a complete solution! If you have any questions about HW problems, I encourage you to reach out to me (or any of the teaching staff) or post your question to Piazza!  
 
 
