@@ -10,12 +10,12 @@
 * Chapter 13.1-13.5
 
 
-## Assignments
+## Assignments (all on Canvas)
 
 - Guiding Question Set 9 (Due by Sunday)
 - [HW 9](https://genchem.science.psu.edu/homework-9-wc), submit to Canvas by next Thursday
 - Knowledge Check 8 (Optional, due by Sunday)
-- Ch. 10 Extra credit worksheet (optional, due by Friday, October 26)
+- Ch. 10 Extra credit worksheet (optional, due by Friday)
 
 ## Study Resources
 
