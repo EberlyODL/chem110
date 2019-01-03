@@ -9,7 +9,7 @@
 * Chapter 08.1-08.2
 
 
-## Assignments
+## Assignments (all on Canvas)
  
 - Guiding Question Set 6 (Due by Sunday)
 - Knowledge Check 5 (optional, due by Sunday)
