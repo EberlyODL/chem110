@@ -62,6 +62,4 @@ Check out the video for all the rules on how to report an answer from a calculat
 
 
 
-#### **[Click here](https://psu.instructure.com/courses/1924663/quizzes/3367104 "Sig figs Part A") to try out the Part A quiz for this section.**
-
-#### **When you're confident in the skill, [take the Part B quiz](https://psu.instructure.com/courses/1924663/quizzes/3367079 "Sig Figs Part B")!**
+#### Go to Canvas and take the part A Skill Check quiz. When you feel confident in your skills, take part B!
