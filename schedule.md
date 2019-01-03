@@ -21,7 +21,7 @@ Please see Canvas schedule for exact dates.
 |  | **EXAM 4 \(Ch. 12, 14.3, 15\)**\(schedule your 50-minute exam with Examity\) | |
 | 14 | Reaction enthalpies<br>Calorimetry | 16-1, 16-2 |
 | 15 | Hess’s Law & Heats of formation<br>Bond dissociation energies | 16-3, 16-4, 16-5 |
-| 16 | **Final Exam**\(1 hour 50 minutes\) |  |  
+| 16 | **Final Exam**\(Schedule your 2-hour exam with Examity\) |  |  
 
 
 
