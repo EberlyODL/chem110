@@ -2,7 +2,7 @@
 
 What is a course orientation? Do I really need this?
 
-Sure! It can't hurt! Are you really ready to learn online? Take this [Online Learning Readiness Questionnaire](https://weblearning.vmhost.psu.edu/questionnaire/ORQ.HTM).
+Sure! It can't hurt! Are you really ready to learn online? Take this [Online Learning Readiness Questionnaire](http://tutorials.istudy.psu.edu/learningonline/learningonline2.html).
 
 Consider how, generally speaking, online learning differs in some key respects from traditional face-to-face learning:
 
