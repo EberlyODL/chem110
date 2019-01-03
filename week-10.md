@@ -9,11 +9,11 @@
 * Chapter 14.1-14.2, 14.4 (14.3 will be covered in Week 11 and will NOT be on Exam 3)
 
 
-## Assignments
+## Assignments (all on Canvas)
 
 - Guiding Question Set 10 (Due Sunday)
 - Knowledge Check 9 (Optional, due by Sunday)
-- [HW 10](https://genchem.science.psu.edu/homework-10-houck), submit to Canvas by next Thursday
+- [HW 10](https://genchem.science.psu.edu/homework-10-wc), submit to Canvas by next Thursday
 
 
 ## Study Resources
