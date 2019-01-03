@@ -16,7 +16,7 @@ It's exam week!  We have a lighter content load this week as you prepare for you
 * Chapter 06.1-06.2
 
 
-## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
+## Assignments (all on Canvas)
 
 - Guiding Question Set 4
 
