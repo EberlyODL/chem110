@@ -11,7 +11,7 @@
 * Chapter 09.1-09.3
 
 
-## Assignments
+## Assignments (all on Canvas)
  
 - Optional [extra credit worksheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/ec_molecular_geometry_wc.pdf) on molecular geometry (worth 2 points), due by Friday
 - Guiding Question Set 7 (Due by Sunday)
