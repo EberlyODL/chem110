@@ -12,7 +12,7 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 
 - Respond to the [When is Good](http://whenisgood.net/sc2nscq) poll indicating your availability for a weekly, one-hour recitation (problem solving session).  Ignore the dates in the poll - I will schedule a recurring meeting for the semester.
 - Introduce yourself on the "Introductions" discussion post on Piazza (link on Canvas).
-- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110AY/skills-check.md)
+- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110ay/skills-check.md)
 
 ## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
 
