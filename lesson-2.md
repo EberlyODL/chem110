@@ -4,14 +4,14 @@ Recitation begins this week!  Please attend your assigned time as it was emailed
 
 
 ## Action Items
-- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md)
-- [HW 1](https://genchem.science.psu.edu/homework-1-houck) is due Thursday
+- Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110ay/skills-check.md)
+- [HW 1](https://genchem.science.psu.edu/homework-1-wc) is due Thursday
 
 
-## Assignments
+## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
  
-- [Guiding Question Set 2](https://psu.instructure.com/courses/1924663/quizzes/3367082)
-- [HW 2](https://genchem.science.psu.edu/homework-2-houck), submit to Canvas by next Thursday
+- Guiding Question Set 2
+- [HW 2](https://genchem.science.psu.edu/homework-2-wc), submit to Canvas by next Thursday
 
 ## Study Materials
 - [Problem Set: Energy & Light](https://media.ed.science.psu.edu/sites/media/ed/files/documents/4_problem_set_energylight.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/problem_set_energylight_key.pdf))
