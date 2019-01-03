@@ -19,5 +19,5 @@ Recitations will one-hour meetings with 3-6 other students in the course.  We wi
 **Problem Sets**
 Even more practice problems are available in Problem Sets.  Each problem set contains exam-level questions and are intended to be used as preparation for the exam.  These are completely optional.
 
-**[Piazza](https://psu.instructure.com/courses/1866869/external_tools/195053)**
-If you have any content-related questions, please do not hesitate to post them on [Piazza](https://psu.instructure.com/courses/1866869/external_tools/195053)! The instructional staff will monitor this to get you an answer as soon as possible.  Other students can even answer questions that can be approved.  When someone asks a question, everyone can benefit!
+**[Piazza](https://psu.instructure.com/courses/1952043/external_tools/195053)**
+If you have any content-related questions, please do not hesitate to post them on [Piazza](https://psu.instructure.com/courses/1952043/external_tools/195053)! The instructional staff will monitor this to get you an answer as soon as possible.  Other students can even answer questions that can be approved.  When someone asks a question, everyone can benefit!
