@@ -7,11 +7,11 @@
 
 
 ## [Readings](https://genchem.science.psu.edu)
-* Chapter 12.3-4, 6 (skip 12.5)
+* Chapter 12.3-6
 * Chapter 15.1
 
 
-## Assignments
+## Assignments (all on Canvas)
 
 - Guiding Question Set 12 (Due Sunday)
 - [HW 12](https://genchem.science.psu.edu/homework-12-wc), submit to Canvas by next Thursday
