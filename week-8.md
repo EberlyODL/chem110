@@ -14,7 +14,7 @@ It's exam week!  The exam covers week 4-7 (Chapters 5-9 in the ebook).
 * Chapter 11.1-11.5
 
 
-## Assignments
+## Assignments (all on Canvas)
 
 - Guiding Question Set 8, due by Sunday
 - [HW 8](https://genchem.science.psu.edu/homework-8-wc), submit to Canvas by Thursday
