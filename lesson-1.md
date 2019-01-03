@@ -14,7 +14,7 @@ I am also including _Study Materials_ that you may wish to work through.  These 
 - Introduce yourself on the "Introductions" discussion post on Piazza (link on Canvas).
 - Be working through the [Skills Check](https://courses.ed.science.psu.edu/chem110ay/skills-check.md)
 
-## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
+## Assignments (all on Canvas)
 
 - eBook and Syllabus Scavenger Hunt
 - Guiding Question Set 1
