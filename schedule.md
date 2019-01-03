@@ -14,7 +14,7 @@ Please see Canvas schedule for exact dates.
 | 8 | Organic Molecules<br>Functional Groups & IM Forces | 10-1, 10-2<br>10-3, 11-1, 11-2, 11-3, 11-4 |
 | 9 | IM Forces & Phase ChangesHeating Curves<br>Vapor Pressure, Phase diagrams, Liquid Properties | 11-5, 13-113-213-3, 13-4, 13-5 |
 | 10 | Solution Process<br>Electrolytes<br>Solubility \(of solids and liquids\) | 14-114-214-4 |
-| | | **EXAM 3 \(Ch. 10, 11, 13, 14-1, 14-2, 14-4\)**\(schedule your 1-hour exam with Examity\) | |
+|  | **EXAM 3 \(Ch. 10, 11, 13, 14-1, 14-2, 14-4\)**\(schedule your 1-hour exam with Examity\) | |
 | 11 | Concentration<br>KMT, Gas Laws | 14-312-1 \(skip 12-2\), 12-3 |
 | 12 | Ideal Gases<br>Real gases, solubility of gases<br>Chemical reactions, ionic equations | 12-412-5, 12-6, 14-415-1, 15-2 |
 | 13 | Classes of reactions, oxidation number<br>Stoichiometry, limiting reactant, percent yieldReaction calculations, combustion analysis | 15-2, 15-315-4, 15-515-5 |
