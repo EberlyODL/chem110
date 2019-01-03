@@ -8,7 +8,7 @@
 * Think about when you will take your exam between January 31 and February 2. You must schedule with Examity at least 24 hours in advance or pay a $3.00 on-demand fee.
 
 
-## Assignments (all on [Canvas](https://psu.instructure.com/courses/1952043))
+## Assignments (all on Canvas)
 - Guiding Question Set 3
 - Knowledge Check 2
 - [HW 3](https://genchem.science.psu.edu/homework-3-wc), submit to Canvas by next Thursday
