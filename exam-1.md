@@ -38,7 +38,7 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
 
-* [Exam 1 Study Guide][ciscode|rev=1|tool=elmsmedia|item=4828|entity_type=node|render=display_mode|display_mode=document__pdf]
+* [Exam 1 Study Guide][ciscode|rev=1|tool=elmsmedia|item=4828|entity_type=node|render=display_mode|display_mode=document]
 * Cumulative Knowledge Check Questions (for practice for practice in Canvas under the quizzes tab)
 
 * Practice Exam 1A 
