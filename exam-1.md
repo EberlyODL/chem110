@@ -38,9 +38,9 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
 
-* Exam 1 Study Guide (coming soon!)
+* [Exam 1 Study Guide][ciscode|rev=1|tool=elmsmedia|item=4828|entity_type=node|render=display_mode|display_mode=document__pdf]
 * Cumulative Knowledge Check Questions (for practice for practice in Canvas under the quizzes tab)
 
-* Practice Exam 1A] (coming soon!)
+* Practice Exam 1A 
 
 * Practice Exam 1B is available in Examity for you to get the experience of authenticating and connecting with a proctor before you take the actual exam.  I hope that will reduce some stress!  After you take the practice exam, please email me for the answer key.
