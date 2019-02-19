@@ -1,6 +1,6 @@
 # Exam 2 Preparation
 
-Exam 2 is coming in Week 8 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between February 28 at 12:00 am and March 2 at 11:59 pm (EDT).  The content covered on the exam will be weeks 4-7 (Chapters 5-9 in the ebook).     
+Exam 2 is coming in Week 8 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between February 28 at 12:00 am and March 2 at 11:59 pm (EDT).  The content covered on the exam will be weeks 4-7 (Chapters 5-9 in the ebook).    
 
 The exam will be paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included).  You have the option to print all of the files. After 60 minutes, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas.  At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
@@ -21,7 +21,7 @@ Please let me know if you have questions or concerns!
 ## Resources:
 I recommend reviewing homework problems, recitation worksheets, and problem sets before you dive into any practice exams.  Use those when you feel you are ready to truly test yourself!
 
-* Exam 2 Study Guide (coming soon!)
+* [Exam 2 Study Guide](https://media.ed.science.psu.edu/sites/media/ed/files/documents/exam_2_study_guide_wc.pdf) 
 
 * Cumulative Knowledge Check Questions (under Canvas quizzes) (for practice)
 
