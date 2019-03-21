@@ -25,6 +25,6 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 
 * Cumulative Knowledge Check Questions (available in Canvas for practice)
 
-* Practice Exam 3 (coming soon!)
+* [Practice Exam 3](https://media.ed.science.psu.edu/sites/media/ed/files/documents/sp19_chem_110wc_practice_exam_3.pdf)
 
 
