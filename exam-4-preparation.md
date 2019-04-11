@@ -1,6 +1,6 @@
 # Exam 4 Preparation
 
-Exam 4 is coming in Week 14 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between April 18 at 12:00 am and April 20 at 11:59 pm (EST).  The content covered on the exam will be weeks 11-13 (section 14.3-14.4 and chapters 12 and 15 in the ebook).    
+Exam 4 is coming in Week 14 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between April 18 at 12:00 am and April 20 at 11:59 pm (EST).  The content covered on the exam will be weeks 11-13 (section 14.3-14.4 and chapters 12 and 15 in the ebook).   
 
 The exam will be paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included).  You have the option to print all of the files. After 60 minutes, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas.  At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
@@ -25,6 +25,6 @@ I recommend reviewing homework problems, recitation worksheets, and problem sets
 
 * Cumulative Knowledge Check Questions (available in Canvas for practice)
 
-* Practice Exam 4A (coming soon!)
+* [Practice Exam 4A](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_exam_4_110wc_sp19.pdf)
 
 
