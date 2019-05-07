@@ -7,12 +7,11 @@ The GQS's are meant to gauge your comprehension of the content following reading
 
 
 **Homework**
-Homework is the second level of assessment.  Weekly HW sets are available through the ebook and are due on Thursdays.  These typically cover the previous week's content.  They are open-ended problems that will be submitted as a photo or scan to the appropriate assignment in Canvas. [Details on HW expectations and grading can be found here.](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf) 
-Another great aspect of most HW problems is the paired problem.  If you don't know how to get started, take a look at the paired problem; it will have a complete solution! If you have any questions about HW problems, I encourage you to reach out to me (or any of the teaching staff) or post your question to Piazza!  
+Homework is the second level of assessment.  Weekly HW sets are available through the ebook and are due on Thursdays.  These typically cover the previous week's content.  They are open-ended problems that will be submitted as a photo or scan to the appropriate assignment in Canvas. Details on HW expectations and grading can be found in Canvas.  Another great aspect of most HW problems is the paired problem.  If you don't know how to get started, take a look at the paired problem; it will have a complete solution! If you have any questions about HW problems, I encourage you to reach out to me (or any of the teaching staff) or post your question to Piazza! 
 
 
 **Knowledge Checks**
-The final check is a Knowledge Check.  These will be due on Sundays.  These are optional, but I do offer an incentive to complete these (as explained in the "Borderline Grade" policy in the [syllabus](https://media.ed.science.psu.edu/sites/media/ed/files/documents/houckwc_syllabus_fall17.pdf)).  Here, you will be taking exam-type questions that mix in concepts and mathematical problems.
+The final check is a Knowledge Check.  These will be due on Sundays.  These are optional, but I do offer an incentive to complete these (as explained in the "Borderline Grade" policy in the syllabus).  Here, you will be taking exam-type questions that mix in concepts and mathematical problems.
 
 
 **Exams**
