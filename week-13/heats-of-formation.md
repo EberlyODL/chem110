@@ -24,4 +24,4 @@ It is worth noting that for carbon the most stable form is graphite (versus diam
 
 [ciscode|rev=1|tool=elmsmedia|item=2585|entity_type=node|render=display_mode|display_mode=h5p]
 
-<houck-math> </houck-math>
+ 

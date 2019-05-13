@@ -49,6 +49,6 @@ Liquid $$N_2$$ is poured over a bowl containing 5.0 g of grapes initially at 20 
 ### Problem 4
 If you take 5.00 g of the frozen grapes and put them in your mouth, how much heat do they absorb as it goes from -196 ºC to 37 ºC? Assume that grapes are 100% water.
 
-<houck-math> </houck-math>
+ 
 
 

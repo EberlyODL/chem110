@@ -13,4 +13,4 @@ For the purposes of comparison, scientists have defined a set of standard condit
 
   [ciscode|rev=1|tool=elmsmedia|item=3838|entity_type=node|render=display_mode|display_mode=mediavideo]
   
-  <houck-math> </houck-math>
+   

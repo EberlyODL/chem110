@@ -17,4 +17,4 @@ The molar mass this hydrocarbon is 58.12 g/mol. What is its molecular formula?
 After you solve the problem, see it solved in the video below:
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=2787|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
-<houck-math> </houck-math>
+ 

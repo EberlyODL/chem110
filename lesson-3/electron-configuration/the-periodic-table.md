@@ -9,4 +9,4 @@ Dimitri Mendeleev is credited with the organization of the periodic table.  He w
 
 [ciscode|rev=1|tool=elmsmedia|item=3342|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-<houck-math> </houck-math>
+ 

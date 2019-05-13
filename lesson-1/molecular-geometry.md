@@ -16,4 +16,4 @@ A summary of the molecular geometries is shown below.  The names describe the sh
 
 [ciscode|rev=1|tool=elmsmedia|item=3514|entity_type=node|render=display_mode|display_mode=image__left__lightboxed]
 
-<houck-math> </houck-math>
+ 

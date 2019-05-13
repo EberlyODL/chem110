@@ -35,4 +35,4 @@ You’ll also notice that in the figure we show p orbitals as being shaded with 
 
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=3504|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
-<houck-math> </houck-math>
+ 

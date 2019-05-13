@@ -38,4 +38,4 @@ A student combines 99.0 mL of 2.00 M HCl and 50.0 mL of 0.150 M Ba(OH)$$_2$$. Th
 
 How many mL of a 0.827 M NaOH solution is required for neutralization of a 35.00 mL sample of 0.737 M $$H_2SO_4$$ solution?
 
-<houck-math> </houck-math>
+ 

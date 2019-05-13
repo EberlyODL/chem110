@@ -6,4 +6,4 @@ When the Schrodinger equation is solved, it yields many possible wave functions.
 
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=3275|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
-<houck-math> </houck-math>
+ 

@@ -35,4 +35,4 @@ The first 3 steps of the calculation are the same as above.  The 4th step is to 
 
 [ciscode|rev=1|tool=elmsmedia|item=2667|entity_type=node|render=display_mode|display_mode=h5p]
 
-<houck-math> </houck-math>
+ 

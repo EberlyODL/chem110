@@ -19,4 +19,4 @@ The solubility of a dissolved gas is proportional to the partial pressure of tha
 
 Henry’s law explains why carbonated beverages release large amounts of gas when they’re opened. These beverages are packaged with pressurized carbon dioxide, with a typical can of soda having an airspace consisting of $$CO_2$$ at a partial pressure of 1.5-2.0 atm. Under this high partial pressure, the $$CO_2$$ is quite soluble in the beverage. When the soda is opened, however, the airspace in the can (which was previously pressurized $$CO_2$$) is replaced with air at about 1 atm total pressure. Air only contains a tiny amount of $$CO_2$$, so the partial pressure of $$CO_2$$ goes from 1.5-2.0 atm to nearly zero. As such, the solubility of $$CO_2$$ in the soda decreases dramatically upon opening, resulting in a supersaturated solution. Since CO2 is supersaturated in the opened soda we observe a net movement (in the form of bubbles and fizz) of gas out of the beverage. 
 
-<houck-math> </houck-math>
+ 

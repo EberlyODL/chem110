@@ -53,4 +53,4 @@ Time in minutes =$$(58.5 kJ)(\frac{1000 J}{1 kJ})\frac{1 sec}{850J})(\frac{1 min
 
 
 
-<houck-math> </houck-math>
+ 

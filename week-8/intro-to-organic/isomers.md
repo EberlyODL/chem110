@@ -20,4 +20,4 @@ Draw the isomers of <houck-math>$$C_3H_6O$$</houck-math>.  (Hint: There are eigh
 
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=3528|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 
-<houck-math> </houck-math>
+ 

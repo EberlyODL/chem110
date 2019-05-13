@@ -18,4 +18,4 @@ In the simulation below, you can see how molecular compounds like sugar compare 
 
 <div style="position: relative; width: 300px; height: 197px;"><a href="https://phet.colorado.edu/sims/sugar-and-salt-solutions/sugar-and-salt-solutions_en.jnlp" style="text-decoration: none;"><img src="https://phet.colorado.edu/sims/sugar-and-salt-solutions/sugar-and-salt-solutions-600.png" alt="Sugar and Salt Solutions" style="border: none;" width="300" height="197"/><div style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px; background-color: #FFF; opacity: 0.6; filter: alpha(opacity = 60);"></div><table style="position: absolute; width: 200px; height: 80px; left: 50px; top: 58px;"><tr><td style="text-align: center; color: #000; font-size: 24px; font-family: Arial,sans-serif;">Click to Run</td></tr></table></a></div>
 
-<houck-math> </houck-math>
+ 

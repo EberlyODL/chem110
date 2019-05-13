@@ -4,4 +4,4 @@ In lecture we will also introduce a special type of dipole-dipole interaction kn
 
 The effects of IMFs are additive, and the overall strength of the IMFs in a substance is the sum of all of the IMFs that are present. In other words, some substances can make more than one of the interactions listed on the slide. For example, all substances, even polar ones, exhibit dispersion forces. 
 
-<houck-math> </houck-math>
+ 

@@ -35,5 +35,5 @@ This week we will start with the very basics - the building blocks of matter. We
 
 
 
-<houck-math> </houck-math>
+ 
 

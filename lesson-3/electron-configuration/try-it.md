@@ -10,4 +10,4 @@ Which of the following atoms or ions have the largest number of unpaired electro
 
 You can even explore the [app in the ebook](https://genchem.science.psu.edu/apps/electron_configuration) to quiz yourself on configurations of atoms and ions!
 
-<houck-math> </houck-math>
+ 

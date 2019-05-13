@@ -30,5 +30,5 @@ A video solution is available here:
 <div style="float:right;max-width:100px;margin:auto">
 [ciscode|rev=1|tool=elmsmedia|item=3397|entity_type=node|render=display_mode|display_mode=image]</div>
 
-<houck-math> </houck-math>
+ 
 

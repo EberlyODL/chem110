@@ -24,6 +24,6 @@ In this mathematical representation, you can easily see how changes in charge an
 
 [ciscode|rev=1|tool=elmsmedia|item=2571|entity_type=node|render=display_mode|display_mode=h5p]
 
-<houck-math> </houck-math>
+ 
 
 

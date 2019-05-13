@@ -12,4 +12,4 @@ Intermolecular forces (IMFs) play a vital role in properties of liquids.  After 
 
  [ciscode|rev=1|tool=elmsmedia|item=3719|entity_type=node|render=display_mode|display_mode=h5p] 
  
- <houck-math> </houck-math>
+  

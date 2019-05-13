@@ -74,4 +74,4 @@ What is the coefficient in front of water in the balanced reaction for the combu
 
 [ciscode|rev=1|tool=elmsmedia|item=2596|entity_type=node|render=display_mode|display_mode=mediasvg__right__small__lightboxed]
 
-<houck-math> </houck-math>
+ 

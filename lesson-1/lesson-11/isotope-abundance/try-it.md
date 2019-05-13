@@ -13,4 +13,4 @@ Below is a simulation of isotopes and atomic mass:
 
 [ciscode|rev=1|tool=elmsmedia|item=3249|entity_type=node|render=display_mode|display_mode=h5p]
 
-<houck-math> </houck-math>
+ 

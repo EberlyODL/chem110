@@ -25,4 +25,4 @@ Heating curves are a graph showing the temperature of a substance plotted agains
 
 [ciscode|rev=1|tool=elmsmedia|item=3716|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-<houck-math> </houck-math>
+ 

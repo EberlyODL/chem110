@@ -133,4 +133,4 @@ Now I know the values of both x and y; x = -3 and y = -7
 
 #### **When you're confident in the skill, take the Part B quiz!**
 
-<houck-math> </houck-math>
+ 

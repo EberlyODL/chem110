@@ -9,4 +9,4 @@ A problem solving strategy is presented in the video below.
 
 [ciscode|rev=1|tool=elmsmedia|item=4142|entity_type=node|render=display_mode|display_mode=mediavideo]
 
-<houck-math> </houck-math>
+ 

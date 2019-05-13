@@ -15,4 +15,4 @@ If we subject ordinary cotton and gun cotton to combustion, we see a drastic dif
 
 [video]
 
-<houck-math> </houck-math>
+ 

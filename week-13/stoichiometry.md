@@ -7,4 +7,4 @@ In this lesson, we’re going to learn how to solve stoichiometry problems in wh
 
 [ciscode|rev=1|tool=elmsmedia|item=4078|entity_type=node|render=display_mode|display_mode=image__lightboxed]
 
-<houck-math> </houck-math>
+ 

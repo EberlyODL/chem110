@@ -15,4 +15,4 @@ III.  2 H$$_2$$(g) + O$$_2$$(g) -->  2 H$$_2$$O(g) 
 
 [ciscode|rev=1|tool=elmsmedia|item=2593|entity_type=node|render=display_mode|display_mode=h5p]
 
-<houck-math> </houck-math>
+ 
