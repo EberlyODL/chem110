@@ -16,7 +16,7 @@ Constitutional isomers are compounds that differ in their connectivity.  Of cour
 
 # Try it!
 
-Draw the isomers of <houck-math>$$C_3H_6O$$</houck-math>.  (Hint: There are eight.)
+Draw the isomers of <houck-math><lrn-math>C_3H_6O</lrn-math> </houck-math>.  (Hint: There are eight.)
 
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=3528|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>
 

@@ -11,9 +11,9 @@
 
 Light is the final form of energy that we will study.  Light behaves like a wave. In fact, light consists of perpendicular electric and magnetic fields that propagate (travel) through space. Since light is a wave, you can think of it as having a wavelength and an amplitude. The wavelength (abbreviated as lower-case Greek letter lambda, λ) of a wave describes the distance between two peaks in the wave. The amplitude of a wave is related to its intensity (the height of a peak). We will work with wavelength throughout the course, but won’t deal with amplitude again. 
 
-Waves can also be described in terms of frequency. The frequency of a wave is a measure of the number of peaks that pass by a particular point in space per unit time. The units for measuring frequency are inverse seconds (s$$^{-1}$$), which equals Hertz (Hz). Frequency is abbreviated using the lower-case Greek letter nu (ν).
+Waves can also be described in terms of frequency. The frequency of a wave is a measure of the number of peaks that pass by a particular point in space per unit time. The units for measuring frequency are inverse seconds (s<lrn-math>^{-1}</lrn-math> ), which equals Hertz (Hz). Frequency is abbreviated using the lower-case Greek letter nu (ν).
 
-All light waves move at the same speed in a vacuum (i.e., empty space). This speed is a fundamental constant which is abbreviated with a lower-case c. The speed of light is equal to about 3.0 x 10$$^8$$ m/s. The speed of light is equal to the product of a light wave’s wavelength (λ) in meters and frequency (ν) in s$$^{-1}$$; therefore c=λν (in m/s). An important consequence of this relationship is that the wavelength of a light wave is inversely proportional to its frequency. In other words, as wavelength increases, frequency decreases (and vice versa). 
+All light waves move at the same speed in a vacuum (i.e., empty space). This speed is a fundamental constant which is abbreviated with a lower-case c. The speed of light is equal to about 3.0 x 10<lrn-math>^8</lrn-math>  m/s. The speed of light is equal to the product of a light wave’s wavelength (λ) in meters and frequency (ν) in s<lrn-math>^{-1}</lrn-math> ; therefore c=λν (in m/s). An important consequence of this relationship is that the wavelength of a light wave is inversely proportional to its frequency. In other words, as wavelength increases, frequency decreases (and vice versa). 
 
 Shown below are the different regions of the electromagnetic spectrum. Where a particular type of light falls on the spectrum depends on its wavelength and frequency. The boundary between each region of the spectrum can be a bit fuzzy, and these regions are characterized mostly by how light within that region interacts with matter (Table 1). The study of light and its interaction with matter is  a field known as spectroscopy.
 
@@ -25,11 +25,11 @@ Shown below are the different regions of the electromagnetic spectrum. Where a p
 
 **Table 1: How light interacts with matter**
 
-| Type of radiation | $$\lambda$$ unit | Interaction with matter |
+| Type of radiation | <lrn-math>\lambda</lrn-math>  unit | Interaction with matter |
 | :--- | :--- | :--- |
 | radio | kilometer \(km), meter (m) | Flip nuclear spin |
 | microwave | centimeter (cm), millimeter (mm) | Causes molecular rotations |
-| infrared (IR) | micrometer \($$\mu$$m) | Causes molecular vibrations |
+| infrared (IR) | micrometer \(<lrn-math>\mu</lrn-math> m) | Causes molecular vibrations |
 | visible | nanometer (nm) | electronic transitions |
 | ultraviolet | nanometer (nm) | electronic transitions, can break certain chemical bonds |
 | X-rays | Angstrom (Å) | ionizing radiation \(ejection of electrons\) |

@@ -11,9 +11,9 @@
 
 We're going to take what we know about bond polarity and molecular shape to identify whether or not a molecule is polar.
 
-Earlier, we encountered dipole moment in the context of polar covalent bonds. In that context we saw that in a polar bond partial charges ($$\delta$$) are separated to opposite ends of the bond, with one end being positive and the other end being negative. We also saw that some bonds are more polar than others. To make these comparisons we can experimentally measure the size of the dipole moment. The dipole moment (abbreviated with the lower-case Greek letter mu, $$\mu$$) equals the amount of charge that is being separated (i.e., the partial charges) times the distance over which those charges are being separated (i.e., the bond distance). 
+Earlier, we encountered dipole moment in the context of polar covalent bonds. In that context we saw that in a polar bond partial charges (<lrn-math>\delta</lrn-math> ) are separated to opposite ends of the bond, with one end being positive and the other end being negative. We also saw that some bonds are more polar than others. To make these comparisons we can experimentally measure the size of the dipole moment. The dipole moment (abbreviated with the lower-case Greek letter mu, <lrn-math>\mu</lrn-math> ) equals the amount of charge that is being separated (i.e., the partial charges) times the distance over which those charges are being separated (i.e., the bond distance). 
 
-> $$\mu = \delta\text r$$
+> <lrn-math>\mu = \delta\text r</lrn-math> 
 
 <div style="float:none;max-width:500px;margin:auto">[ciscode|rev=1|tool=elmsmedia|item=3503|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]</div>
 
@@ -35,7 +35,7 @@ For additional examples, please watch the video to the right.
 2) Name the molecular geometry
 3) Identify whether or not the molecule is polar or nonpolar.
 
-TeF$$_6$$    SeF$$_4$$    XeF$$_2$$
+TeF<lrn-math>_6</lrn-math>     SeF<lrn-math>_4</lrn-math>     XeF<lrn-math>_2</lrn-math> 
 
 [ciscode|rev=1|tool=elmsmedia|item=3513|entity_type=node|render=display_mode|display_mode=mediavideo]
 

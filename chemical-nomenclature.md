@@ -10,9 +10,9 @@ a) Cations formed from metal atoms have the same name as the metal.  This is com
 
 | Metal | Name | Metal Ion | Name |
 | :--- | :--- | :--- | :--- |
-| K | potassium | K$$^+$$ | potassium ion |
-| Mg | magnesium | Mg$$^{2+}$$ | magnesium ion |
-| Al | Aluminum | Al$$^{3+}$$ | aluminum ion |
+| K | potassium | K<lrn-math>^+</lrn-math>  | potassium ion |
+| Mg | magnesium | Mg<lrn-math>^{2+}</lrn-math>  | magnesium ion |
+| Al | Aluminum | Al<lrn-math>^{3+}</lrn-math>  | aluminum ion |
 
 
 b) For metals that form cations of differing charges, the positive charge is given by a roman numeral in parentheses.  This will be the case for transition metals and a few metals in the main group (i.e. lead and tin).
@@ -21,8 +21,8 @@ b) For metals that form cations of differing charges, the positive charge is giv
 
 | Metal Ion | Name | Metal Ion | Name |
 | :--- | :--- | :--- | :--- |
-| Fe$$^{2+}$$ | iron(II) ion | Fe$$^{3+}$$ | iron(III) ion |
-| Cu$$^{+}$$ | copper(I) ion | Cu$$^{2+}$$ | copper(II) ion |
+| Fe<lrn-math>^{2+}</lrn-math>  | iron(II) ion | Fe<lrn-math>^{3+}</lrn-math>  | iron(III) ion |
+| Cu<lrn-math>^{+}</lrn-math>  | copper(I) ion | Cu<lrn-math>^{2+}</lrn-math>  | copper(II) ion |
 
 
 c) Cations formed from nonmetals have names ending in _-ium_.
@@ -31,8 +31,8 @@ c) Cations formed from nonmetals have names ending in _-ium_.
 
 | Compound | Name | Ion | Name |
 | :--- | :--- | :--- | :--- |
-| NH$$_3$$ | ammonia | NH$$_4^+$$ | ammonium ion |
-| H$$_2$$O | water | H$$_3$$O$$^+$$ | hydronium ion |
+| NH<lrn-math>_3</lrn-math>  | ammonia | NH<lrn-math>_4^+</lrn-math>  | ammonium ion |
+| H<lrn-math>_2</lrn-math> O | water | H<lrn-math>_3</lrn-math> O<lrn-math>^+</lrn-math>  | hydronium ion |
 
 
 
@@ -46,9 +46,9 @@ a) Monoatomic anions are formed by replacing the ending of the name of the eleme
 
 | Nonmetal | Name | Ion | Name |
 | :--- | :--- | :--- | :--- |
-| H | hydrogen | H$$^-$$ | hydride ion |
-| N | nitrogen | N$$^{3-}$$ | nitride ion |
-| O | oxygen | O$$^{2-}$$ | oxide ion |
+| H | hydrogen | H<lrn-math>^-</lrn-math>  | hydride ion |
+| N | nitrogen | N<lrn-math>^{3-}</lrn-math>  | nitride ion |
+| O | oxygen | O<lrn-math>^{2-}</lrn-math>  | oxide ion |
 
 
 
@@ -58,9 +58,9 @@ A few simple polyatomic ions also have _-ide_ ending.
 
 | Polyatomic ion | Name 
 | :--- | :--- |
-| O$$_2^{2-}$$ | peroxide ion | 
-| CN$$^-$$ | cyanide ion |
-| OH$$^-$$ | hydroxide ion | 
+| O<lrn-math>_2^{2-}</lrn-math>  | peroxide ion | 
+| CN<lrn-math>^-</lrn-math>  | cyanide ion |
+| OH<lrn-math>^-</lrn-math>  | hydroxide ion | 
 
 
 
@@ -71,19 +71,19 @@ b) Oxyanions (polyatomic ions containing oxygen) have endings _-ate _(used for t
 
 | Oxyanion | Name | Oxyanion | Name |
 | :--- | :--- | :--- | :--- |
-| NO$$_3^{-}$$ | nitrate ion | NO$$_2^-$$ | nitrite ion |
-| SO$$_4^{2-}$$ | sulfate ion | SO$$_3^{2-}$$ | sulfite ion |
-| ClO$$_4^{-}$$ | perchlorate ion | ClO$$_3^{-}$$ | chlorate ion |
-| ClO$$_2^{-}$$ | chlorite ion | ClO$$^{-}$$ | hypochlorite ion |
+| NO<lrn-math>_3^{-}</lrn-math>  | nitrate ion | NO<lrn-math>_2^-</lrn-math>  | nitrite ion |
+| SO<lrn-math>_4^{2-}</lrn-math>  | sulfate ion | SO<lrn-math>_3^{2-}</lrn-math>  | sulfite ion |
+| ClO<lrn-math>_4^{-}</lrn-math>  | perchlorate ion | ClO<lrn-math>_3^{-}</lrn-math>  | chlorate ion |
+| ClO<lrn-math>_2^{-}</lrn-math>  | chlorite ion | ClO<lrn-math>^{-}</lrn-math>  | hypochlorite ion |
 
-c) Anions derived by adding H$$^+$$ to an oxyanion are named by adding _hydrogen_ (or _dihydrogen-_ etc.) as a prefix.
+c) Anions derived by adding H<lrn-math>^+</lrn-math>  to an oxyanion are named by adding _hydrogen_ (or _dihydrogen-_ etc.) as a prefix.
 
 **Examples:**
 
 | Oxyanion | Name | Oxyanion | Name |
 | :--- | :--- | :--- | :--- |
-| CO$$_3^{2-}$$ | carbonate ion | HCO$$_3^-$$ | hydrogen carbonate ion (bicarbonate ion) |
-| PO$$_4^{3-}$$ | phosphate ion | H$$_2$$PO$$_4^{-}$$ | dihydrogen phosphate ion |
+| CO<lrn-math>_3^{2-}</lrn-math>  | carbonate ion | HCO<lrn-math>_3^-</lrn-math>  | hydrogen carbonate ion (bicarbonate ion) |
+| PO<lrn-math>_4^{3-}</lrn-math>  | phosphate ion | H<lrn-math>_2</lrn-math> PO<lrn-math>_4^{-}</lrn-math>  | dihydrogen phosphate ion |
 
 ## 3. Writing Chemical Names from Formulas
 
@@ -111,10 +111,10 @@ Transition metals and a handful of main group metals have several possible charg
 
 | Compound | Cation & Name | Anion & Name | Compound Name |
 | :--- | :--- | :--- | :--- |
-| NaCl | Na$$^+$$, sodium ion| Cl$$^-$$, chloride ion | sodium chloride |
-| CaCl$$_2$$ | Ca$$^{2+}$$, calcium ion| Cl$$^-$$, chloride ion | calcium chloride |
-| Cu(ClO$$_4$$)$$_2$$ | Cu$$^{2+}$$, copper(II) ion| ClO$$_4^-$$, perchlorate ion | copper(II) perchlorate |
-| Al$$_2$$(SO$$_4$$)$$_3$$ | Al$$^{3+}$$, aluminum ion| SO$$_4^-$$ sulfate ion | aluminum sulfate |
+| NaCl | Na<lrn-math>^+</lrn-math> , sodium ion| Cl<lrn-math>^-</lrn-math> , chloride ion | sodium chloride |
+| CaCl<lrn-math>_2</lrn-math>  | Ca<lrn-math>^{2+}</lrn-math> , calcium ion| Cl<lrn-math>^-</lrn-math> , chloride ion | calcium chloride |
+| Cu(ClO<lrn-math>_4</lrn-math> )<lrn-math>_2</lrn-math>  | Cu<lrn-math>^{2+}</lrn-math> , copper(II) ion| ClO<lrn-math>_4^-</lrn-math> , perchlorate ion | copper(II) perchlorate |
+| Al<lrn-math>_2</lrn-math> (SO<lrn-math>_4</lrn-math> )<lrn-math>_3</lrn-math>  | Al<lrn-math>^{3+}</lrn-math> , aluminum ion| SO<lrn-math>_4^-</lrn-math>  sulfate ion | aluminum sulfate |
 
 
 
@@ -133,8 +133,8 @@ a) Acids based on anions ending with _-ide_ have _hydro-_ prefix and _-ic_ endin
 
 | Anion | Name | Oxyanion | Name |
 | :--- | :--- | :--- | :--- |
-| Cl$$^{-}$$ | chloride ion | HCl | hydrochloric acid |
-| S$$^{2-}$$ | sulfide ion | H$$_2$$S | hydrosulfuric acid |
+| Cl<lrn-math>^{-}</lrn-math>  | chloride ion | HCl | hydrochloric acid |
+| S<lrn-math>^{2-}</lrn-math>  | sulfide ion | H<lrn-math>_2</lrn-math> S | hydrosulfuric acid |
 
 
 b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the name of an anion ends in _-ite_, the acid will end in _-ous_.
@@ -149,10 +149,10 @@ b) If the name of an anion ends in _-ate_, the acid will end in _-ic_. If the na
 
 | Oxyanion | Name | Oxyacid | Name |
 | :--- | :--- | :--- | :--- |
-| ClO$$_4^{-}$$ | perchlorate ion | HClO$$_4$$ | perchloric acid |
-| ClO$$_3^{-}$$ | chlorate ion | HClO$$_3$$ | chloric acid |
-| ClO$$_2^{-}$$ | chlorite ion | HClO$$_2$$ | chlorous acid |
-| ClO$$^{-}$$ | hypochlorite ion | HClO | hypochlorous acid |
+| ClO<lrn-math>_4^{-}</lrn-math>  | perchlorate ion | HClO<lrn-math>_4</lrn-math>  | perchloric acid |
+| ClO<lrn-math>_3^{-}</lrn-math>  | chlorate ion | HClO<lrn-math>_3</lrn-math>  | chloric acid |
+| ClO<lrn-math>_2^{-}</lrn-math>  | chlorite ion | HClO<lrn-math>_2</lrn-math>  | chlorous acid |
+| ClO<lrn-math>^{-}</lrn-math>  | hypochlorite ion | HClO | hypochlorous acid |
 
 
 ## 6. Binary Molecular Compounds
@@ -169,8 +169,8 @@ Compounds containing two elements are named by listing both elements, usually st
 
 | Compound | Name | Compound | Name |
 | :--- | :--- | :--- | :--- |
-| Cl$$_2$$O | dichlorine monoxide | NF$$_3$$ | nitrogen trifluoride |
-| PF$$_5$$ | phosphorous pentafluoride | N$$_2$$O$$_4$$ | dinitrogen tetroxide |
+| Cl<lrn-math>_2</lrn-math> O | dichlorine monoxide | NF<lrn-math>_3</lrn-math>  | nitrogen trifluoride |
+| PF<lrn-math>_5</lrn-math>  | phosphorous pentafluoride | N<lrn-math>_2</lrn-math> O<lrn-math>_4</lrn-math>  | dinitrogen tetroxide |
 
 
 

@@ -8,17 +8,17 @@ The conversion factors noted in the Skill Check: Metric Unit convert from one un
 
 Density is a useful intensive property of a substance, and it is defined as the amount of mass in a unit volume of the substance:
 
-$$density=\frac{mass}{volume}$$
+<lrn-math>density=\frac{mass}{volume}</lrn-math> 
 
-Mass is usually described in killograms (kg) or grams (g), and volume is usually in liters (L) or milliliters (mL). So density has a unit of either killograms per liter (kg/L) or grams per milliter (g/mL or g/cm$$^3$$). Since the volume of a liquid usually changes with temperature, chemists generally specify the density at a particular temperature. For example, the density of water is 1.00 g/mL at 10 $$^{\circ}$$C, while it is only 0.958 g/mL at 100 $$^{\circ}$$C.
+Mass is usually described in killograms (kg) or grams (g), and volume is usually in liters (L) or milliliters (mL). So density has a unit of either killograms per liter (kg/L) or grams per milliter (g/mL or g/cm<lrn-math>^3</lrn-math> ). Since the volume of a liquid usually changes with temperature, chemists generally specify the density at a particular temperature. For example, the density of water is 1.00 g/mL at 10 <lrn-math>^{\circ}</lrn-math> C, while it is only 0.958 g/mL at 100 <lrn-math>^{\circ}</lrn-math> C.
 
-Suppose we want to know the mass, in grams, of 25.0 mL of olive oil, which has a density of 0.911 g/mL at 25 $$^{\circ}$$C. The density gives us the conversion factor:
+Suppose we want to know the mass, in grams, of 25.0 mL of olive oil, which has a density of 0.911 g/mL at 25 <lrn-math>^{\circ}</lrn-math> C. The density gives us the conversion factor:
 
-$$\frac{0.911\:g}{1\:mL}$$ and $$\frac{1\:mL}{0.911\:g}$$
+<lrn-math>\frac{0.911\:g}{1\:mL}</lrn-math>  and <lrn-math>\frac{1\:mL}{0.911\:g}</lrn-math> 
 
 Because we want a mass in grams, we use the first conversion factor, which has mass in grams in the numerator. We can now solve the problem as:
 
-mass=$$(25.0mL)(\frac{0.911 g}{1 mL})=22.8g$$
+mass=<lrn-math>(25.0mL)(\frac{0.911 g}{1 mL})=22.8g</lrn-math> 
 
 
 ## Tracking Units in Problem Solving
@@ -33,11 +33,11 @@ Solution: Let's start by analyzing the problem:
 
 2) We have the following conversion factors either given or commonly known:
 
-$$\frac{1000\:J}{1\:kJ}, \frac{850\:J}{1\:sec}, \frac{1\:min}{60\:sec}$$
+<lrn-math>\frac{1000\:J}{1\:kJ}, \frac{850\:J}{1\:sec}, \frac{1\:min}{60\:sec}</lrn-math> 
 
 3) Thus converting from kJ to min, we have:
 
-Time in minutes =$$(58.5 kJ)(\frac{1000 J}{1 kJ})\frac{1 sec}{850J})(\frac{1 min}{60 sec})$$=1.15 min
+Time in minutes =<lrn-math>(58.5 kJ)(\frac{1000 J}{1 kJ})\frac{1 sec}{850J})(\frac{1 min}{60 sec})</lrn-math> =1.15 min
 
 ## Video Examples
 

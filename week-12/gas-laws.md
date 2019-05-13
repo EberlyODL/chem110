@@ -22,19 +22,19 @@ We can describe the state of a gas in terms of the number of molecules of gas mo
 
 These parameters are related to one another by three fundamental relationships, listed below. Boyle’s Law describes the relationship between pressure and volume, Charles’s Law describes the relationship between volume and temperature, and Avogadro’s Law describes the relationship between volume and number of moles in the sample. You don’t need to memorize the name of each relationship. 
 
-> Boyle's Law: $$V \propto \frac1P \rightarrow V = \frac kP   $$ 
+> Boyle's Law: <lrn-math>V \propto \frac1P \rightarrow V = \frac kP   </lrn-math>  
 
-> Charles' Law: $$V \propto T \rightarrow V = kT   $$ 
+> Charles' Law: <lrn-math>V \propto T \rightarrow V = kT   </lrn-math>  
 
-> Avogadro's Law: $$n \propto V \rightarrow n = kV   $$ 
+> Avogadro's Law: <lrn-math>n \propto V \rightarrow n = kV   </lrn-math>  
 
-> Gay-Lussac's Law: $$P \propto T \rightarrow P = kT$$
+> Gay-Lussac's Law: <lrn-math>P \propto T \rightarrow P = kT</lrn-math> 
 
 
 Boyle’s, Charles’, Avogadro’s, and Gay-Lussac's Laws are all proportionalities. Boyle’s law states that V is proportional to 1/P, or we can also say that V is inversely proportional to P. Charles’ Law states that V is proportional to T, Avogadro’s Law states that n is proportional to V, and Gay-Lussac's Law states that P is proportional to T. We can rewrite each proportionality as an equation by adding in a proportionality constant (k), as shown above.
 
 
-The reason why you don’t need to memorize Boyle’s, Charles',  Avogradro’s, and Gay-Lussac's Laws is because all four relationships are reflected in the ideal gas law. The ideal gas law ($$PV=nRT$$) describes how all four parameters (P, V, n, and T) relate to each other. R is the gas constant, whose value is $$0.08206\frac{L·atm}{mol·K}$$. 
+The reason why you don’t need to memorize Boyle’s, Charles',  Avogradro’s, and Gay-Lussac's Laws is because all four relationships are reflected in the ideal gas law. The ideal gas law (<lrn-math>PV=nRT</lrn-math> ) describes how all four parameters (P, V, n, and T) relate to each other. R is the gas constant, whose value is <lrn-math>0.08206\frac{L·atm}{mol·K}</lrn-math> . 
 
 Shown below, we see how each of the relationships above relate to the ideal gas law. Starting with Boyle’s law (V=k/P), we can rearrange the ideal gas law to solve it for V (V=nRT/P). This allows us to see that the proportionality constant for Boyle’s Law is nRT (as shown in parentheses on the right side of the table). Thus, Boyle’s Law only holds true when both n and T are constant. We can do the same thing for Charles’s Law, and we see that its proportionality constant equals nR/P (constant n and P),as shown in parentheses on the right side of the table. The same process, applied to Avogadro’s Law, gives us a proportionality constant of P/RT (constant P and T). Finally, we can see that Gay-Lussac's Law gives a proportionality constant of nR/V (constant n and V).
 
@@ -42,10 +42,10 @@ Shown below, we see how each of the relationships above relate to the ideal gas 
 
 | Law | Variables | Relationship to IGL |
 | :--- | :--- | :--- | :--- |
-| Boyle's | $$V =\frac kP  $$ | $$V =\frac {nRT}P = (nRT)\frac 1P  $$ | 
-| Charles' | $$V = kT  $$ | $$V =\frac {nRT}P = (\frac{nR}P)T  $$ |
-| Avogadro's | $$n = kV  $$ | $$n =\frac {PV}{RT} = (\frac{P}{RT})V  $$
-| Gay-Lussac's | $$P = kT  $$ | $$P =\frac {nRT}{V} = (\frac{nR}{V})T  $$
+| Boyle's | <lrn-math>V =\frac kP  </lrn-math>  | <lrn-math>V =\frac {nRT}P = (nRT)\frac 1P  </lrn-math>  | 
+| Charles' | <lrn-math>V = kT  </lrn-math>  | <lrn-math>V =\frac {nRT}P = (\frac{nR}P)T  </lrn-math>  |
+| Avogadro's | <lrn-math>n = kV  </lrn-math>  | <lrn-math>n =\frac {PV}{RT} = (\frac{P}{RT})V  </lrn-math> 
+| Gay-Lussac's | <lrn-math>P = kT  </lrn-math>  | <lrn-math>P =\frac {nRT}{V} = (\frac{nR}{V})T  </lrn-math> 
 
 
 

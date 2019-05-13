@@ -10,7 +10,7 @@
 
 > 4) Some elements have “common” oxidation numbers that can be used as a reference in determining the oxidation numbers of other atoms in the compound.
 
-In rule 1 we see that atoms in their elemental form always have oxidation numbers (“ON”) of zero. For example, each atom in $$Cl_2$$, $$O_2$$, $$P_4$$ (phosphorus), graphite (elemental carbon), and $$S_8$$ (elemental sulfur) would have an oxidation number of zero. In rule 2 we see that for monatomic ions (i.e., ions that contain just one atom) the oxidation number of ion is equal to the charge of the ion.
+In rule 1 we see that atoms in their elemental form always have oxidation numbers (“ON”) of zero. For example, each atom in <lrn-math>Cl_2</lrn-math> , <lrn-math>O_2</lrn-math> , <lrn-math>P_4</lrn-math>  (phosphorus), graphite (elemental carbon), and <lrn-math>S_8</lrn-math>  (elemental sulfur) would have an oxidation number of zero. In rule 2 we see that for monatomic ions (i.e., ions that contain just one atom) the oxidation number of ion is equal to the charge of the ion.
 
 Rule 3 states that the sum of all of the oxidation numbers in a compound equals the overall charge of a molecule or polyatomic ion. An example is the hydroxide ion (OH-). The oxidation number of hydrogen in the compound is +1 and the oxidation number of oxygen is -2 (as we would expect from rule 4). The sum of these two oxidation numbers equals the overall charge of the hydroxide ion, -1.
 

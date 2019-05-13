@@ -7,7 +7,7 @@
 
 * convert between molecular and macroscopic amounts of matter and energy using Avogadro’s number and the mole concept
 
-The mole is the chemist's dozen.  We will use it to "count" atoms, molecules, photons, etc.  Often this is done by weighing a sample since the particles are so small to physically count them.  For now, we will focus on applying Avogadro's number ($$N_A$$) to covert between objects (atoms, molecules, photons, etc.) and moles. 
+The mole is the chemist's dozen.  We will use it to "count" atoms, molecules, photons, etc.  Often this is done by weighing a sample since the particles are so small to physically count them.  For now, we will focus on applying Avogadro's number (<lrn-math>N_A</lrn-math> ) to covert between objects (atoms, molecules, photons, etc.) and moles. 
 
 > 1 mole = <lrn-math>6.022\times10^{23}</lrn-math> objects 
 

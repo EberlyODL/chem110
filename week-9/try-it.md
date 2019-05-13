@@ -3,13 +3,13 @@
 ## Heating Curve Calculations
 
 Data you may need to complete the problems below:
-$$C_s$$ (ice) = 2.09 J/(g·K)
-$$C_s$$ (liquid) = 4.18 J/(g·K)
-$$C_s$$ (steam) = 1.84 J/(g·K)
-$$\Delta H_{fus (ice)}$$ = 6.02 kJ/mol
-$$\Delta H_{vap (water)}$$ = 40.67 kJ/mol
-$$\Delta H_{fus (solid N2)}$$ = 0.72 kJ/mol
-$$\Delta H_{vap (liq N2)}$$ = 5.59 kJ/mol
+<lrn-math>C_s</lrn-math>  (ice) = 2.09 J/(g·K)
+<lrn-math>C_s</lrn-math>  (liquid) = 4.18 J/(g·K)
+<lrn-math>C_s</lrn-math>  (steam) = 1.84 J/(g·K)
+<lrn-math>\Delta H_{fus (ice)}</lrn-math>  = 6.02 kJ/mol
+<lrn-math>\Delta H_{vap (water)}</lrn-math>  = 40.67 kJ/mol
+<lrn-math>\Delta H_{fus (solid N2)}</lrn-math>  = 0.72 kJ/mol
+<lrn-math>\Delta H_{vap (liq N2)}</lrn-math>  = 5.59 kJ/mol
 
 
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=2789|entity_type=node|render=display_mode|display_mode=mediavideo__thumbnail__right]</media-video>
@@ -26,7 +26,7 @@ Calculate the energy required to warm solid ice from -10 ºC to steam at 120 º
 
 
 ### Problem 2
-Liquid $$N_2$$ is poured over a bowl of marshmallows and they reach a temperature of -196 ºC. If you put one marshmallow (weighing 0.500 g) in your mouth, how much heat does it absorb as it goes from -196 °C to 37 °C, the temperature of your body? [The specific heat of marshmallows is 2 J/g·°C.]
+Liquid <lrn-math>N_2</lrn-math>  is poured over a bowl of marshmallows and they reach a temperature of -196 ºC. If you put one marshmallow (weighing 0.500 g) in your mouth, how much heat does it absorb as it goes from -196 °C to 37 °C, the temperature of your body? [The specific heat of marshmallows is 2 J/g·°C.]
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 
@@ -37,7 +37,7 @@ Liquid $$N_2$$ is poured over a bowl of marshmallows and they reach a temperatur
 
 ### Problem 3
 
-Liquid $$N_2$$ is poured over a bowl containing 5.0 g of grapes initially at 20 ºC, freezing them completely and cooling to -196 ºC.  How much energy is transferred from the grapes.  Assume that grapes are 100% water.
+Liquid <lrn-math>N_2</lrn-math>  is poured over a bowl containing 5.0 g of grapes initially at 20 ºC, freezing them completely and cooling to -196 ºC.  How much energy is transferred from the grapes.  Assume that grapes are 100% water.
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 

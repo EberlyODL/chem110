@@ -19,7 +19,7 @@ In this lesson, we’re going to examine the interactions that exist between mol
 
 All interactions between molecules are the result of electrostatic attraction. That is, IMFs exist due to the attractive forces between opposite charges. The force that exists between two charged species is described by Coulomb’s law. We previously saw Coulomb’s law expressed in terms of energy (Chapter 1), but now (Equation 1) it is instead expressed with electrostatic force (the only difference is that “r” is squared in the equation for force). As you can see, the force between two charged species is dependent on their charges and on distance. The more charge the objectives have, the greater the force. The closer they are to one another, the greater the force. 
 
-> Equation 1: $$F = k\frac{Q_1Q_2}{r^2}$$
+> Equation 1: <lrn-math>F = k\frac{Q_1Q_2}{r^2}</lrn-math> 
 
 
 

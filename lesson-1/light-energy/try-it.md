@@ -8,14 +8,14 @@ A laser emits green light with a wavelength of 523 nm:
 
 2. What is the energy of 1 mole of these photons?
 
-3. If the laser emits 1.30 x 10$$^{-2}$$ J of energy during a pulse, how many photons are emitted during the pulse? 
+3. If the laser emits 1.30 x 10<lrn-math>^{-2}</lrn-math>  J of energy during a pulse, how many photons are emitted during the pulse? 
 
 Useful constants and equations from your [equation sheet](https://media.ed.science.psu.edu/sites/media/ed/files/documents/110-data.pdf) (available on exams):
 * c = λν
-* c = 3.00 x 10$$^8$$ m/s
-* $$N_A$$ = 6.022 x 10$$^{23}$$ 
-* E$$_{photon}$$ = hν
-* h = 6.626 × 10$$^{−34}$$ J*s
+* c = 3.00 x 10<lrn-math>^8</lrn-math>  m/s
+* <lrn-math>N_A</lrn-math>  = 6.022 x 10<lrn-math>^{23}</lrn-math>  
+* E<lrn-math>_{photon}</lrn-math>  = hν
+* h = 6.626 × 10<lrn-math>^{−34}</lrn-math>  J*s
 
 
 <media-video>[ciscode|rev=1|tool=elmsmedia|item=2782|entity_type=node|render=display_mode|display_mode=mediavideo__poster]</media-video>

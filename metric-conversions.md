@@ -15,7 +15,7 @@ The metric system is founded on a handful of base units \(as shown in Table 1\) 
 | Time | second \(s\) |
 | Temperature | Kelvin \(K\) |
 
-There are two other SI base units that we won't use in this course that are not included in Table 1. All other metric units are derived from these base units. For example, a Joule, the SI unit of energy, is equal to one kilogram times a meter squared divided by a second squared $$(kg\times m^2/s^2)$$. Similarly, a Newton, the SI unit of force, is equal to one kilogram times a meter divided by a second squared $$(kg\times m/s^2)$$.
+There are two other SI base units that we won't use in this course that are not included in Table 1. All other metric units are derived from these base units. For example, a Joule, the SI unit of energy, is equal to one kilogram times a meter squared divided by a second squared <lrn-math>(kg\times m^2/s^2)</lrn-math> . Similarly, a Newton, the SI unit of force, is equal to one kilogram times a meter divided by a second squared <lrn-math>(kg\times m/s^2)</lrn-math> .
 
 ## Important Prefixes
 
@@ -25,19 +25,19 @@ Scientific measurements are made across many orders of magnitude and range from 
 
 | **Prefix \(symbol\)** | **Multiplier** |
 | :--- | :--- |
-| mega- \(M\) | $$10^6$$ |
-| kilo- \(k\) | $$10^3$$ |
-| centi- \(c\) | $$10^{-2}$$ |
-| milli- \(m\) | $$10^{-3}$$ |
-| micro- \($$\mu$$\) | $$10^{-6}$$ |
-| nano- \(n\) | $$10^{-9}$$ |
-| pico- \(p\) | $$10^{-12}$$ |
+| mega- \(M\) | <lrn-math>10^6</lrn-math>  |
+| kilo- \(k\) | <lrn-math>10^3</lrn-math>  |
+| centi- \(c\) | <lrn-math>10^{-2}</lrn-math>  |
+| milli- \(m\) | <lrn-math>10^{-3}</lrn-math>  |
+| micro- \(<lrn-math>\mu</lrn-math> \) | <lrn-math>10^{-6}</lrn-math>  |
+| nano- \(n\) | <lrn-math>10^{-9}</lrn-math>  |
+| pico- \(p\) | <lrn-math>10^{-12}</lrn-math>  |
 
-Several of these prefixes will familiar from everyday life. For example, you've probably learned that a kilogram is a thousand $$(10^3)$$ times larger than a gram. Similarly, one kilometer is a thousand times larger than a meter. The prefix kilo-, when added to another units, increases the size of that unit by a factor of a thousand or $$(10^3)$$. You're probably familiar with a centimeter too. The prefix centi- decreases a unit to one hundredth $$(10^{-2})$$ of its original size. Thus, a centimeter is one hundredth the size of a meter. You're probably familiar with milliliters as well, which are one thousandth $$(10^{-3})$$ the volume of a liter, as signified by the prefix milli-.
+Several of these prefixes will familiar from everyday life. For example, you've probably learned that a kilogram is a thousand <lrn-math>(10^3)</lrn-math>  times larger than a gram. Similarly, one kilometer is a thousand times larger than a meter. The prefix kilo-, when added to another units, increases the size of that unit by a factor of a thousand or <lrn-math>(10^3)</lrn-math> . You're probably familiar with a centimeter too. The prefix centi- decreases a unit to one hundredth <lrn-math>(10^{-2})</lrn-math>  of its original size. Thus, a centimeter is one hundredth the size of a meter. You're probably familiar with milliliters as well, which are one thousandth <lrn-math>(10^{-3})</lrn-math>  the volume of a liter, as signified by the prefix milli-.
 
-Table 2 also includes thee prefixes with which you're probably less familiar. Mega- modifies a unit to make it a million $$(10^6)$$ times larger. In everyday life you've probably seen this used in computing, where a Megabyte of data signifies a million bytes. The remaining prefixes are used to signify extremely small units. The first, micro-, modifies a unit to make it one millionth $$(10^{-6})$$ of its original size. The abbreviation for micro- is the lower case Greek letter mu \($$\mu$$\). The prefix nano-, which modifies a unit to make it one billionth $$(10^{-9})$$ of its original size is often used when we are talking about wavelengths of light \(especially in the UV/Visible region\). The last prefix is pico-, which modifies a unit to make it one trillionth $$(10^{-12})$$ of its original size - you'll see this when we discuss the size of an atom! There are larger and smaller prefixes that are not listed here, but you're unlikely to see them in this course.
+Table 2 also includes thee prefixes with which you're probably less familiar. Mega- modifies a unit to make it a million <lrn-math>(10^6)</lrn-math>  times larger. In everyday life you've probably seen this used in computing, where a Megabyte of data signifies a million bytes. The remaining prefixes are used to signify extremely small units. The first, micro-, modifies a unit to make it one millionth <lrn-math>(10^{-6})</lrn-math>  of its original size. The abbreviation for micro- is the lower case Greek letter mu \(<lrn-math>\mu</lrn-math> \). The prefix nano-, which modifies a unit to make it one billionth <lrn-math>(10^{-9})</lrn-math>  of its original size is often used when we are talking about wavelengths of light \(especially in the UV/Visible region\). The last prefix is pico-, which modifies a unit to make it one trillionth <lrn-math>(10^{-12})</lrn-math>  of its original size - you'll see this when we discuss the size of an atom! There are larger and smaller prefixes that are not listed here, but you're unlikely to see them in this course.
 
-There is one other unusual unit that you'll see from time to time in CHEM 110, the angstrom \(abbreviated Å\). One angstrom is equal to one ten-billionth $$(10^{-10})$$ of a meter. In other words, there are ten billion angstroms in a single meter. The angstrom is an exceptionally small unit that is useful for describing distances on the atomic scale.
+There is one other unusual unit that you'll see from time to time in CHEM 110, the angstrom \(abbreviated Å\). One angstrom is equal to one ten-billionth <lrn-math>(10^{-10})</lrn-math>  of a meter. In other words, there are ten billion angstroms in a single meter. The angstrom is an exceptionally small unit that is useful for describing distances on the atomic scale.
 
 ## Video Examples
 

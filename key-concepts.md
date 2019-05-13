@@ -4,7 +4,7 @@
 
 There are three key concepts of VSEPR theory.  The first is that electron domains want to be as far from other domains as possible to minimize electron-electron repulsion.  This leads to five basic shapes or electron domain geometries related to the steric number.
 
-| Steric Number | Electron Domain Geometry (EDG) | Bond angles ($$^{\circ}$$) |
+| Steric Number | Electron Domain Geometry (EDG) | Bond angles (<lrn-math>^{\circ}</lrn-math> ) |
 | :--- | :--- | :--- |
 | 2 | Linear | 180 |
 | 3 | Trigonal planar | 120 |

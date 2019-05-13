@@ -6,7 +6,7 @@
 
 Double displacement, or metathesis, reactions take place between solutes in aqueous solution and are characterized by an exchange of ions or atoms.  Typically, metals (or hydrogen) are swapped in a chemical reaction according to the scheme below:
 
-> $$AX + BY \longrightarrow BX  + AY$$
+> <lrn-math>AX + BY \longrightarrow BX  + AY</lrn-math> 
 
 A reaction will occur when there is a "driving force."  The driving forces we will consider in the next few pages are:
 

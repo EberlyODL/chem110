@@ -4,25 +4,25 @@
 
 Scientific notation is a way of expressing _really_ big or _really_ small numbers in a more convenient manner.  
 
-Scientific notation takes the form of N x 10$$^n$$.  N is a number between 1 and 10 and $$n$$ is an integer value.  The exponent, $$n$$, will be negative if the number we are expressing is less than 1 and positive if it is greater than 1.
+Scientific notation takes the form of N x 10<lrn-math>^n</lrn-math> .  N is a number between 1 and 10 and <lrn-math>n</lrn-math>  is an integer value.  The exponent, <lrn-math>n</lrn-math> , will be negative if the number we are expressing is less than 1 and positive if it is greater than 1.
 
-For example, one might write the number $$0.00000516$$ as $$5.16\times10^{-6}$$. 
+For example, one might write the number <lrn-math>0.00000516</lrn-math>  as <lrn-math>5.16\times10^{-6}</lrn-math> . 
 
 How do we do this?
 
 When we look at whole numbers, the decimal point is implied at the end of a number.
 
-i.e. $$3,400,000,000,000.$$
+i.e. <lrn-math>3,400,000,000,000.</lrn-math> 
 
 We need to move that decimal point to the left until we get a number between 1 and 10.  We need to move the decimal point 12 times, so we would write the number like this:
 
-$$3.4\times10^{12}$$
+<lrn-math>3.4\times10^{12}</lrn-math> 
 
 For numbers less than 1, we will move the decimal place to the right until we have a number between 1 and 10.
 
-$$0.00000000890$$ becomes $$8.90\times10^{-9}$$ because we moved the decimal point 9 times.
+<lrn-math>0.00000000890</lrn-math>  becomes <lrn-math>8.90\times10^{-9}</lrn-math>  because we moved the decimal point 9 times.
 
-We should also be able to go from scientific notation back to the "full" number.  The number $$2.45\times10^{-5}$$ can be written as $$0.0000245$$ by moving the decimal point in 5 spaces to the left (we know the negative exponent indicates a number less than 1).
+We should also be able to go from scientific notation back to the "full" number.  The number <lrn-math>2.45\times10^{-5}</lrn-math>  can be written as <lrn-math>0.0000245</lrn-math>  by moving the decimal point in 5 spaces to the left (we know the negative exponent indicates a number less than 1).
 
  
 

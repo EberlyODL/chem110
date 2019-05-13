@@ -13,9 +13,9 @@ Examples:
 
 | Metal | Name | Metal Ion | Name |
 | :--- | :--- | :--- | :--- |
-| K | potassium | K$$^+$$ | potassium ion |
-| Mg | magnesium | Mg$$^{2+}$$ | magnesium ion |
-| Al | Aluminum | Al$$^{3+}$$ | aluminum ion |
+| K | potassium | K<lrn-math>^+</lrn-math>  | potassium ion |
+| Mg | magnesium | Mg<lrn-math>^{2+}</lrn-math>  | magnesium ion |
+| Al | Aluminum | Al<lrn-math>^{3+}</lrn-math>  | aluminum ion |
 
 
 **2) Metals with more than one type of ion:**

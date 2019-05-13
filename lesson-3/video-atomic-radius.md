@@ -13,14 +13,14 @@ The periodic table is arranged into rows called _periods_ and columns known as _
 ## Effective Nuclear Charge
 [ciscode|rev=1|tool=elmsmedia|item=3348|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
-Let's begin this unit by looking again at effective nuclear charge ($$Z_{eff}$$). Most of the periodic trends we will consider can be related back to effective nuclear charge. $$Z_{eff}$$ increases as we move across the row on the periodic table because Z (atomic number) increases while the number of shielding core electrons stays the same.  By our simple calculation of  $$Z_{eff}$$ for a valence electron in Be and F, we can see this is true.
-> $$Z_{eff} = Z -S $$
+Let's begin this unit by looking again at effective nuclear charge (<lrn-math>Z_{eff}</lrn-math> ). Most of the periodic trends we will consider can be related back to effective nuclear charge. <lrn-math>Z_{eff}</lrn-math>  increases as we move across the row on the periodic table because Z (atomic number) increases while the number of shielding core electrons stays the same.  By our simple calculation of  <lrn-math>Z_{eff}</lrn-math>  for a valence electron in Be and F, we can see this is true.
+> <lrn-math>Z_{eff} = Z -S </lrn-math> 
 
-> For Be: $$Z_{eff} = 4-2 = +2$$
+> For Be: <lrn-math>Z_{eff} = 4-2 = +2</lrn-math> 
 
->For F: $$Z_{eff} = 9-2 = +7$$
+>For F: <lrn-math>Z_{eff} = 9-2 = +7</lrn-math> 
 
-$$Z_{eff}$$ increases ever so slightly down a group if we look at precisely calculated values.  The orbitals become less dense and more diffuse, so they are less effective at shielding.  
+<lrn-math>Z_{eff}</lrn-math>  increases ever so slightly down a group if we look at precisely calculated values.  The orbitals become less dense and more diffuse, so they are less effective at shielding.  
 
 <div class="spacer" style="display:block;overflow:hidden;width:100%;"></div>
 

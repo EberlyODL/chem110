@@ -8,22 +8,22 @@ Some reactions are driven by the formation of a solid precipitate from a solutio
 ## Solubility Rules
 
 
-The top portion of Table 1 describes substances that are soluble, along with a few exceptions. Ionic compounds in which the cation is $$NH_4^+$$, $$Li^+$$, $$Na^+$$, $$K^+$$, $$Rb^+$$, or $$Cs^+$$ will always be soluble, with no exceptions \(i.e., the identity of the anion doesn’t matter\). Similarly, ionic compounds in which the anion is nitrate \($$NO_3^-$$\), perchlorate \($$ClO_4^-$$\), or acetate \($$CH_3COO^-$$\) will always be soluble, with no exceptions \(i.e., the identity of the cation doesn’t matter\). These soluble anions and cations share the common property that they are relatively large and singly charged and, as you would expect from Coulomb’s law, only form weak interactions with any counter ion. Ionic compounds in which the anion is chloride \($$Cl^-$$\), bromide \($$Br^-$$\), or iodide \($$I^-$$\) are soluble unless the cation is mercury\(I\) \($$Hg_2^{2+}$$\), silver \($$Ag^+$$\), or lead \($$Pb^{2+}$$\). For example, aluminum chloride \($$AlCl_3$$\) would be soluble, but silver chloride \(AgCl\) would not be soluble. Ionic compounds in which the anion is sulfate \($$SO_4^{2-}$$\) are usually soluble unless the cation is $$Ca^{2+}, Sr^{2+}, Ba^{2+}, Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}$$.
+The top portion of Table 1 describes substances that are soluble, along with a few exceptions. Ionic compounds in which the cation is <lrn-math>NH_4^+</lrn-math> , <lrn-math>Li^+</lrn-math> , <lrn-math>Na^+</lrn-math> , <lrn-math>K^+</lrn-math> , <lrn-math>Rb^+</lrn-math> , or <lrn-math>Cs^+</lrn-math>  will always be soluble, with no exceptions \(i.e., the identity of the anion doesn’t matter\). Similarly, ionic compounds in which the anion is nitrate \(<lrn-math>NO_3^-</lrn-math> \), perchlorate \(<lrn-math>ClO_4^-</lrn-math> \), or acetate \(<lrn-math>CH_3COO^-</lrn-math> \) will always be soluble, with no exceptions \(i.e., the identity of the cation doesn’t matter\). These soluble anions and cations share the common property that they are relatively large and singly charged and, as you would expect from Coulomb’s law, only form weak interactions with any counter ion. Ionic compounds in which the anion is chloride \(<lrn-math>Cl^-</lrn-math> \), bromide \(<lrn-math>Br^-</lrn-math> \), or iodide \(<lrn-math>I^-</lrn-math> \) are soluble unless the cation is mercury\(I\) \(<lrn-math>Hg_2^{2+}</lrn-math> \), silver \(<lrn-math>Ag^+</lrn-math> \), or lead \(<lrn-math>Pb^{2+}</lrn-math> \). For example, aluminum chloride \(<lrn-math>AlCl_3</lrn-math> \) would be soluble, but silver chloride \(AgCl\) would not be soluble. Ionic compounds in which the anion is sulfate \(<lrn-math>SO_4^{2-}</lrn-math> \) are usually soluble unless the cation is <lrn-math>Ca^{2+}, Sr^{2+}, Ba^{2+}, Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}</lrn-math> .
 
-The bottom part of Table 1 describes substances that are insoluble, along with a few exceptions. Ionic compounds in which the anion is carbonate \($$CO_3^{2-}$$\) or phosphate \($$PO_4^{3-}$$\) are insoluble unless the cation is one of those we listed earlier whose salts are always soluble \($$NH_4^+, Li^+, Na^+, K^+, Rb^+, \text{or }Cs^+$$\). Ionic compounds in which the anion is hydroxide \($$OH^-$$\) or sulfide \($$S^{2-}$$\) are also insoluble unless the cation is $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+, Ca^{2+}, Sr^{2+}, \text{or }Ba^{2+}$$ \(the “always soluble” cations we listed earlier, plus a couple more\).
+The bottom part of Table 1 describes substances that are insoluble, along with a few exceptions. Ionic compounds in which the anion is carbonate \(<lrn-math>CO_3^{2-}</lrn-math> \) or phosphate \(<lrn-math>PO_4^{3-}</lrn-math> \) are insoluble unless the cation is one of those we listed earlier whose salts are always soluble \(<lrn-math>NH_4^+, Li^+, Na^+, K^+, Rb^+, \text{or }Cs^+</lrn-math> \). Ionic compounds in which the anion is hydroxide \(<lrn-math>OH^-</lrn-math> \) or sulfide \(<lrn-math>S^{2-}</lrn-math> \) are also insoluble unless the cation is <lrn-math>NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+, Ca^{2+}, Sr^{2+}, \text{or }Ba^{2+}</lrn-math>  \(the “always soluble” cations we listed earlier, plus a couple more\).
 
 **Table 1: Solubility Rules**
 
   
 | **The following form **_**soluble**_** salts** | **Exceptions** |  
 | :--- | :--- |  
-| $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+$$ | No exceptions |  
-| $$NO_3^-, ClO_4^-, \text{and } CH_3COO^-$$ | No exceptions|  
-| $$Cl^-, Br^-, \text{and } I^-$$ | $$Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}$$ |  
-| $$SO_4^{2-}$$ | $$Ca^{2+}, Sr^{2+}, Ba^{2+}, Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}$$ |  
+| <lrn-math>NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+</lrn-math>  | No exceptions |  
+| <lrn-math>NO_3^-, ClO_4^-, \text{and } CH_3COO^-</lrn-math>  | No exceptions|  
+| <lrn-math>Cl^-, Br^-, \text{and } I^-</lrn-math>  | <lrn-math>Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}</lrn-math>  |  
+| <lrn-math>SO_4^{2-}</lrn-math>  | <lrn-math>Ca^{2+}, Sr^{2+}, Ba^{2+}, Hg_2^{2+}, Ag^+, \text{or } Pb^{2+}</lrn-math>  |  
 | **The following form **_**insoluble**_** salts** | **Exceptions** \|  
-| $$OH^- \text{and }S^{2-}$$ | $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+, Ca^{2+}, Sr^{2+}, \text{and }Ba^{2+}$$  |  
-| $$CO_3^{2-} \text{and }PO_4^{3-}$$  | $$NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+$$  |
+| <lrn-math>OH^- \text{and }S^{2-}</lrn-math>  | <lrn-math>NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+, Ca^{2+}, Sr^{2+}, \text{and }Ba^{2+}</lrn-math>   |  
+| <lrn-math>CO_3^{2-} \text{and }PO_4^{3-}</lrn-math>   | <lrn-math>NH_4^+, Li^+, Na^+, K^+, Rb^+, Cs^+</lrn-math>   |
 
 
 

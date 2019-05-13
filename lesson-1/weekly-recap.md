@@ -7,7 +7,7 @@ A central theme to the course is that structure effects properties.  You saw thi
 
 [ciscode|rev=1|tool=elmsmedia|item=3280|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
-Cotton is cellulose, which is a polymer of glucose.  (Polymers contain repeating units of a common structure.)  You can see that there are many -OH groups present (one reason to explain why cotton can absorb a lot of water!).  If we nitrate cotton by soaking it in a mixture of sulfuric and nitric acids, we get the H atoms replaced by $$NO_2$$ groups.
+Cotton is cellulose, which is a polymer of glucose.  (Polymers contain repeating units of a common structure.)  You can see that there are many -OH groups present (one reason to explain why cotton can absorb a lot of water!).  If we nitrate cotton by soaking it in a mixture of sulfuric and nitric acids, we get the H atoms replaced by <lrn-math>NO_2</lrn-math>  groups.
 
 [ciscode|rev=1|tool=elmsmedia|item=3281|entity_type=node|render=display_mode|display_mode=image__right__lightboxed]
 
