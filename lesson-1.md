@@ -11,12 +11,12 @@ I am also including _Study Materials_ that you may wish to work through. These w
 ## Action Items
 
 - Introduce yourself on the "Introductions" discussion post on [Piazza](https://psu.instructure.com/courses/1933137/external_tools/195053).
-- eBook and Syllabus Scavenger Hunt, due 05/17
-- Work through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md), due 05/17
+- eBook and Syllabus Scavenger Hunt, due 05/16
+- Work through the [Skills Check](https://courses.ed.science.psu.edu/chem110/skills-check.md), due 05/19
 
 ## Assignments
 
-- Guiding Question Set 1, due 05/20
+- Guiding Question Set 1, due 05/19
 - [HW 1](https://genchem.science.psu.edu/homework-1-wc-summer), submit to Canvas (refer to the [HW Expectations](https://media.ed.science.psu.edu/sites/media/ed/files/documents/homework_expectationswc_0.pdf))
 
 
