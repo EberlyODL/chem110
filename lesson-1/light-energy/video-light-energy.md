@@ -26,7 +26,7 @@ Shown below are the different regions of the electromagnetic spectrum. Where a p
 **Table 1: How light interacts with matter**
 
 | Type of radiation | <lrn-math>\lambda</lrn-math>  unit | Interaction with matter |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | radio | kilometer \(km), meter (m) | Flip nuclear spin |
 | microwave | centimeter (cm), millimeter (mm) | Causes molecular rotations |
 | infrared (IR) | micrometer \(<lrn-math>\mu</lrn-math> m) | Causes molecular vibrations |
