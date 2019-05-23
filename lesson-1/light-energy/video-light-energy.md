@@ -34,7 +34,7 @@ Shown below are the different regions of the electromagnetic spectrum. Where a p
 | ultraviolet | nanometer (nm) | electronic transitions, can break certain chemical bonds |
 | X-rays | Angstrom (Å) | ionizing radiation \(ejection of electrons\) |
 | gamma rays | Angstrom (Å) | ionizing radiation \(ejection of electrons\) |
-(Note: You don’t need to memorize these details, but you should be familiar with them.)
+(Note: You don’t need to memorize these details, but you should be familiar with them.) | | |
 
 
 You’ll need to know the different regions of the spectrum as well as their relative order: radio, microwaves, infrared, visible, ultraviolet, X-ray, and gamma rays (in order of decreasing wavelength and increasing frequency).
