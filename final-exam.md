@@ -1,7 +1,7 @@
 # Final Exam
 
 
-The final exam will be proctored through Examity. You will be able to schedule your 2-hour exam at your convenience between 08/09 at 12:00 am and 08/11 at 11:59 pm (EDT).
+The final exam will be proctored through Examity. You will be able to schedule your 2-hour exam at your convenience between 08/08 at 12:00 am and 08/10 at 11:59 pm (EDT).
 
 The exam will be cumulative with about 50% of the content being Chapter 12, 15, 16, and 14.3 (weeks 10-12 in the course schedule). The remaining portion of the exam will cover the high points from the course. My philosophy is to see if you understand the main ideas relating to atomic structure, molecular structure, intermolecular forces, and properties of liquids. The exam does cover a lot of material, but that means that not knowing something will carry less weight. It is a little shorter than two midterm exams.
 
