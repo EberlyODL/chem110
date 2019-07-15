@@ -1,6 +1,6 @@
 # Exam 3 Preparation
 
-Exam 3 is coming in Week 10 and will be proctored through Examity. You will be able to schedule your 60-minute exam at your convenience between **07/18 at 12:00 am and 07/20 at 11:59 pm (EDT)**. The content covered on the exam will be weeks 8-10 (Chapters 10, 11, 13, 14 in the ebook).
+Exam 3 is coming in Week 10 and will be proctored through Examity. You will be able to schedule your 60-minute exam at your convenience between **07/18 at 12:00 am and 07/20 at 11:59 pm (EDT)**. The content covered on the exam will be weeks 7-9 (Chapters 10-11 and 13-14 (except 14.3) in the ebook).
 
 The exam will be paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included). You have the option to print all of the files. After 60 minutes, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas. At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
