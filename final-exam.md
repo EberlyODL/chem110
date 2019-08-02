@@ -28,6 +28,6 @@ I recommend chunking the course material into 4-5 pieces. Start with content tha
 
 * Cumulative Knowledge Check Questions (for practice in Canvas)
 
-* [Practice Final Exam](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wcsu18.pdf) ([Key])(https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_su18_key.pdf)
+* [Practice Final Exam](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_wcsu18.pdf) ([Key](https://media.ed.science.psu.edu/sites/media/ed/files/documents/practice_final_exam_su18_key.pdf))
 
 
