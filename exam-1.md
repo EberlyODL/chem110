@@ -1,6 +1,6 @@
 # Exam 1 Preparation
 
-Your first exam is coming in Week 4 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between 09/13 at 12:00 am and 09/15 at 11:59 pm (EDT).  The content covered on the exam will be weeks 1-3 (Chapters 1-4 in the ebook).     
+Your first exam is coming in Week 4 and will be proctored through Examity.  You will be able to schedule your 60-minute exam at your convenience between 09/19 at 12:00 am and 09/21 at 11:59 pm (EDT).  The content covered on the exam will be weeks 1-3 (Chapters 1-4 in the ebook).     
 
 The exams are paper and pencil, so once you connect with a proctor you will download the exam file (periodic table and data sheet are included).  You will complete your exam on separate paper under the proctor's supervision.  After 50 minutes, you will have additional time to scan/photograph your work and upload the file as a pdf/doc/docx file to Canvas.  At that time, the proctor will walk you through deleting the exam file and scan/photo from your computer and/or phone.
 
